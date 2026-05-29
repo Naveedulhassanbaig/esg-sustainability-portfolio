@@ -1,0 +1,2080 @@
+Sector,Industry,ESG_Dimension,ESG_Topic,Materiality_Score,Is_Material
+Consumer Goods,"Apparel, Accessories & Footwear",Environment,GHG Emissions,4,True
+Consumer Goods,"Apparel, Accessories & Footwear",Environment,Air Quality,2,False
+Consumer Goods,"Apparel, Accessories & Footwear",Environment,Energy Management,2,False
+Consumer Goods,"Apparel, Accessories & Footwear",Environment,Water & Wastewater Management,4,True
+Consumer Goods,"Apparel, Accessories & Footwear",Environment,Waste & Hazardous Materials,3,True
+Consumer Goods,"Apparel, Accessories & Footwear",Environment,Ecological Impacts,2,False
+Consumer Goods,"Apparel, Accessories & Footwear",Social Capital,Human Rights & Community Relations,3,True
+Consumer Goods,"Apparel, Accessories & Footwear",Social Capital,Customer Privacy,3,True
+Consumer Goods,"Apparel, Accessories & Footwear",Social Capital,Data Security,5,True
+Consumer Goods,"Apparel, Accessories & Footwear",Social Capital,Access & Affordability,3,True
+Consumer Goods,"Apparel, Accessories & Footwear",Social Capital,Product Quality & Safety,5,True
+Consumer Goods,"Apparel, Accessories & Footwear",Social Capital,Customer Welfare,5,True
+Consumer Goods,"Apparel, Accessories & Footwear",Social Capital,Selling Practices & Product Labeling,5,True
+Consumer Goods,"Apparel, Accessories & Footwear",Human Capital,Labor Practices,2,False
+Consumer Goods,"Apparel, Accessories & Footwear",Human Capital,Employee Health & Safety,4,True
+Consumer Goods,"Apparel, Accessories & Footwear",Human Capital,Employee Engagement,3,True
+Consumer Goods,"Apparel, Accessories & Footwear",Human Capital,Diversity & Inclusion,2,False
+Consumer Goods,"Apparel, Accessories & Footwear",Business Model & Innovation,Product Design & Lifecycle,3,True
+Consumer Goods,"Apparel, Accessories & Footwear",Business Model & Innovation,Business Model Resilience,3,True
+Consumer Goods,"Apparel, Accessories & Footwear",Business Model & Innovation,Supply Chain Management,3,True
+Consumer Goods,"Apparel, Accessories & Footwear",Business Model & Innovation,Materials Sourcing & Efficiency,3,True
+Consumer Goods,"Apparel, Accessories & Footwear",Business Model & Innovation,Physical Impacts of Climate Change,5,True
+Consumer Goods,"Apparel, Accessories & Footwear",Leadership & Governance,Business Ethics,4,True
+Consumer Goods,"Apparel, Accessories & Footwear",Leadership & Governance,Competitive Behavior,2,False
+Consumer Goods,"Apparel, Accessories & Footwear",Leadership & Governance,Regulatory Environment Management,4,True
+Consumer Goods,"Apparel, Accessories & Footwear",Leadership & Governance,Critical Incident Risk Management,2,False
+Consumer Goods,"Apparel, Accessories & Footwear",Leadership & Governance,Systemic Risk Management,4,True
+Consumer Goods,Appliance Manufacturing,Environment,GHG Emissions,4,True
+Consumer Goods,Appliance Manufacturing,Environment,Air Quality,4,True
+Consumer Goods,Appliance Manufacturing,Environment,Energy Management,4,True
+Consumer Goods,Appliance Manufacturing,Environment,Water & Wastewater Management,3,True
+Consumer Goods,Appliance Manufacturing,Environment,Waste & Hazardous Materials,2,False
+Consumer Goods,Appliance Manufacturing,Environment,Ecological Impacts,3,True
+Consumer Goods,Appliance Manufacturing,Social Capital,Human Rights & Community Relations,5,True
+Consumer Goods,Appliance Manufacturing,Social Capital,Customer Privacy,4,True
+Consumer Goods,Appliance Manufacturing,Social Capital,Data Security,3,True
+Consumer Goods,Appliance Manufacturing,Social Capital,Access & Affordability,3,True
+Consumer Goods,Appliance Manufacturing,Social Capital,Product Quality & Safety,5,True
+Consumer Goods,Appliance Manufacturing,Social Capital,Customer Welfare,4,True
+Consumer Goods,Appliance Manufacturing,Social Capital,Selling Practices & Product Labeling,4,True
+Consumer Goods,Appliance Manufacturing,Human Capital,Labor Practices,3,True
+Consumer Goods,Appliance Manufacturing,Human Capital,Employee Health & Safety,2,False
+Consumer Goods,Appliance Manufacturing,Human Capital,Employee Engagement,2,False
+Consumer Goods,Appliance Manufacturing,Human Capital,Diversity & Inclusion,3,True
+Consumer Goods,Appliance Manufacturing,Business Model & Innovation,Product Design & Lifecycle,3,True
+Consumer Goods,Appliance Manufacturing,Business Model & Innovation,Business Model Resilience,3,True
+Consumer Goods,Appliance Manufacturing,Business Model & Innovation,Supply Chain Management,4,True
+Consumer Goods,Appliance Manufacturing,Business Model & Innovation,Materials Sourcing & Efficiency,3,True
+Consumer Goods,Appliance Manufacturing,Business Model & Innovation,Physical Impacts of Climate Change,4,True
+Consumer Goods,Appliance Manufacturing,Leadership & Governance,Business Ethics,3,True
+Consumer Goods,Appliance Manufacturing,Leadership & Governance,Competitive Behavior,4,True
+Consumer Goods,Appliance Manufacturing,Leadership & Governance,Regulatory Environment Management,3,True
+Consumer Goods,Appliance Manufacturing,Leadership & Governance,Critical Incident Risk Management,2,False
+Consumer Goods,Appliance Manufacturing,Leadership & Governance,Systemic Risk Management,4,True
+Consumer Goods,Building Products & Furnishings,Environment,GHG Emissions,3,True
+Consumer Goods,Building Products & Furnishings,Environment,Air Quality,4,True
+Consumer Goods,Building Products & Furnishings,Environment,Energy Management,2,False
+Consumer Goods,Building Products & Furnishings,Environment,Water & Wastewater Management,3,True
+Consumer Goods,Building Products & Furnishings,Environment,Waste & Hazardous Materials,2,False
+Consumer Goods,Building Products & Furnishings,Environment,Ecological Impacts,4,True
+Consumer Goods,Building Products & Furnishings,Social Capital,Human Rights & Community Relations,4,True
+Consumer Goods,Building Products & Furnishings,Social Capital,Customer Privacy,5,True
+Consumer Goods,Building Products & Furnishings,Social Capital,Data Security,5,True
+Consumer Goods,Building Products & Furnishings,Social Capital,Access & Affordability,4,True
+Consumer Goods,Building Products & Furnishings,Social Capital,Product Quality & Safety,5,True
+Consumer Goods,Building Products & Furnishings,Social Capital,Customer Welfare,3,True
+Consumer Goods,Building Products & Furnishings,Social Capital,Selling Practices & Product Labeling,5,True
+Consumer Goods,Building Products & Furnishings,Human Capital,Labor Practices,2,False
+Consumer Goods,Building Products & Furnishings,Human Capital,Employee Health & Safety,2,False
+Consumer Goods,Building Products & Furnishings,Human Capital,Employee Engagement,4,True
+Consumer Goods,Building Products & Furnishings,Human Capital,Diversity & Inclusion,2,False
+Consumer Goods,Building Products & Furnishings,Business Model & Innovation,Product Design & Lifecycle,4,True
+Consumer Goods,Building Products & Furnishings,Business Model & Innovation,Business Model Resilience,3,True
+Consumer Goods,Building Products & Furnishings,Business Model & Innovation,Supply Chain Management,3,True
+Consumer Goods,Building Products & Furnishings,Business Model & Innovation,Materials Sourcing & Efficiency,3,True
+Consumer Goods,Building Products & Furnishings,Business Model & Innovation,Physical Impacts of Climate Change,4,True
+Consumer Goods,Building Products & Furnishings,Leadership & Governance,Business Ethics,3,True
+Consumer Goods,Building Products & Furnishings,Leadership & Governance,Competitive Behavior,3,True
+Consumer Goods,Building Products & Furnishings,Leadership & Governance,Regulatory Environment Management,4,True
+Consumer Goods,Building Products & Furnishings,Leadership & Governance,Critical Incident Risk Management,3,True
+Consumer Goods,Building Products & Furnishings,Leadership & Governance,Systemic Risk Management,2,False
+Consumer Goods,E-Commerce,Environment,GHG Emissions,3,True
+Consumer Goods,E-Commerce,Environment,Air Quality,3,True
+Consumer Goods,E-Commerce,Environment,Energy Management,2,False
+Consumer Goods,E-Commerce,Environment,Water & Wastewater Management,4,True
+Consumer Goods,E-Commerce,Environment,Waste & Hazardous Materials,3,True
+Consumer Goods,E-Commerce,Environment,Ecological Impacts,4,True
+Consumer Goods,E-Commerce,Social Capital,Human Rights & Community Relations,5,True
+Consumer Goods,E-Commerce,Social Capital,Customer Privacy,5,True
+Consumer Goods,E-Commerce,Social Capital,Data Security,3,True
+Consumer Goods,E-Commerce,Social Capital,Access & Affordability,5,True
+Consumer Goods,E-Commerce,Social Capital,Product Quality & Safety,5,True
+Consumer Goods,E-Commerce,Social Capital,Customer Welfare,3,True
+Consumer Goods,E-Commerce,Social Capital,Selling Practices & Product Labeling,5,True
+Consumer Goods,E-Commerce,Human Capital,Labor Practices,4,True
+Consumer Goods,E-Commerce,Human Capital,Employee Health & Safety,2,False
+Consumer Goods,E-Commerce,Human Capital,Employee Engagement,2,False
+Consumer Goods,E-Commerce,Human Capital,Diversity & Inclusion,3,True
+Consumer Goods,E-Commerce,Business Model & Innovation,Product Design & Lifecycle,4,True
+Consumer Goods,E-Commerce,Business Model & Innovation,Business Model Resilience,4,True
+Consumer Goods,E-Commerce,Business Model & Innovation,Supply Chain Management,5,True
+Consumer Goods,E-Commerce,Business Model & Innovation,Materials Sourcing & Efficiency,5,True
+Consumer Goods,E-Commerce,Business Model & Innovation,Physical Impacts of Climate Change,5,True
+Consumer Goods,E-Commerce,Leadership & Governance,Business Ethics,2,False
+Consumer Goods,E-Commerce,Leadership & Governance,Competitive Behavior,4,True
+Consumer Goods,E-Commerce,Leadership & Governance,Regulatory Environment Management,3,True
+Consumer Goods,E-Commerce,Leadership & Governance,Critical Incident Risk Management,2,False
+Consumer Goods,E-Commerce,Leadership & Governance,Systemic Risk Management,2,False
+Consumer Goods,Household & Personal Products,Environment,GHG Emissions,2,False
+Consumer Goods,Household & Personal Products,Environment,Air Quality,3,True
+Consumer Goods,Household & Personal Products,Environment,Energy Management,3,True
+Consumer Goods,Household & Personal Products,Environment,Water & Wastewater Management,3,True
+Consumer Goods,Household & Personal Products,Environment,Waste & Hazardous Materials,2,False
+Consumer Goods,Household & Personal Products,Environment,Ecological Impacts,2,False
+Consumer Goods,Household & Personal Products,Social Capital,Human Rights & Community Relations,5,True
+Consumer Goods,Household & Personal Products,Social Capital,Customer Privacy,5,True
+Consumer Goods,Household & Personal Products,Social Capital,Data Security,4,True
+Consumer Goods,Household & Personal Products,Social Capital,Access & Affordability,3,True
+Consumer Goods,Household & Personal Products,Social Capital,Product Quality & Safety,5,True
+Consumer Goods,Household & Personal Products,Social Capital,Customer Welfare,4,True
+Consumer Goods,Household & Personal Products,Social Capital,Selling Practices & Product Labeling,4,True
+Consumer Goods,Household & Personal Products,Human Capital,Labor Practices,4,True
+Consumer Goods,Household & Personal Products,Human Capital,Employee Health & Safety,3,True
+Consumer Goods,Household & Personal Products,Human Capital,Employee Engagement,2,False
+Consumer Goods,Household & Personal Products,Human Capital,Diversity & Inclusion,3,True
+Consumer Goods,Household & Personal Products,Business Model & Innovation,Product Design & Lifecycle,3,True
+Consumer Goods,Household & Personal Products,Business Model & Innovation,Business Model Resilience,3,True
+Consumer Goods,Household & Personal Products,Business Model & Innovation,Supply Chain Management,5,True
+Consumer Goods,Household & Personal Products,Business Model & Innovation,Materials Sourcing & Efficiency,5,True
+Consumer Goods,Household & Personal Products,Business Model & Innovation,Physical Impacts of Climate Change,5,True
+Consumer Goods,Household & Personal Products,Leadership & Governance,Business Ethics,3,True
+Consumer Goods,Household & Personal Products,Leadership & Governance,Competitive Behavior,4,True
+Consumer Goods,Household & Personal Products,Leadership & Governance,Regulatory Environment Management,4,True
+Consumer Goods,Household & Personal Products,Leadership & Governance,Critical Incident Risk Management,3,True
+Consumer Goods,Household & Personal Products,Leadership & Governance,Systemic Risk Management,4,True
+Consumer Goods,Multiline & Specialty Retailers,Environment,GHG Emissions,3,True
+Consumer Goods,Multiline & Specialty Retailers,Environment,Air Quality,3,True
+Consumer Goods,Multiline & Specialty Retailers,Environment,Energy Management,2,False
+Consumer Goods,Multiline & Specialty Retailers,Environment,Water & Wastewater Management,2,False
+Consumer Goods,Multiline & Specialty Retailers,Environment,Waste & Hazardous Materials,4,True
+Consumer Goods,Multiline & Specialty Retailers,Environment,Ecological Impacts,3,True
+Consumer Goods,Multiline & Specialty Retailers,Social Capital,Human Rights & Community Relations,3,True
+Consumer Goods,Multiline & Specialty Retailers,Social Capital,Customer Privacy,3,True
+Consumer Goods,Multiline & Specialty Retailers,Social Capital,Data Security,3,True
+Consumer Goods,Multiline & Specialty Retailers,Social Capital,Access & Affordability,3,True
+Consumer Goods,Multiline & Specialty Retailers,Social Capital,Product Quality & Safety,5,True
+Consumer Goods,Multiline & Specialty Retailers,Social Capital,Customer Welfare,3,True
+Consumer Goods,Multiline & Specialty Retailers,Social Capital,Selling Practices & Product Labeling,5,True
+Consumer Goods,Multiline & Specialty Retailers,Human Capital,Labor Practices,3,True
+Consumer Goods,Multiline & Specialty Retailers,Human Capital,Employee Health & Safety,4,True
+Consumer Goods,Multiline & Specialty Retailers,Human Capital,Employee Engagement,2,False
+Consumer Goods,Multiline & Specialty Retailers,Human Capital,Diversity & Inclusion,3,True
+Consumer Goods,Multiline & Specialty Retailers,Business Model & Innovation,Product Design & Lifecycle,4,True
+Consumer Goods,Multiline & Specialty Retailers,Business Model & Innovation,Business Model Resilience,5,True
+Consumer Goods,Multiline & Specialty Retailers,Business Model & Innovation,Supply Chain Management,4,True
+Consumer Goods,Multiline & Specialty Retailers,Business Model & Innovation,Materials Sourcing & Efficiency,5,True
+Consumer Goods,Multiline & Specialty Retailers,Business Model & Innovation,Physical Impacts of Climate Change,4,True
+Consumer Goods,Multiline & Specialty Retailers,Leadership & Governance,Business Ethics,4,True
+Consumer Goods,Multiline & Specialty Retailers,Leadership & Governance,Competitive Behavior,2,False
+Consumer Goods,Multiline & Specialty Retailers,Leadership & Governance,Regulatory Environment Management,4,True
+Consumer Goods,Multiline & Specialty Retailers,Leadership & Governance,Critical Incident Risk Management,4,True
+Consumer Goods,Multiline & Specialty Retailers,Leadership & Governance,Systemic Risk Management,2,False
+Consumer Goods,Toys & Sporting Goods,Environment,GHG Emissions,4,True
+Consumer Goods,Toys & Sporting Goods,Environment,Air Quality,4,True
+Consumer Goods,Toys & Sporting Goods,Environment,Energy Management,3,True
+Consumer Goods,Toys & Sporting Goods,Environment,Water & Wastewater Management,4,True
+Consumer Goods,Toys & Sporting Goods,Environment,Waste & Hazardous Materials,3,True
+Consumer Goods,Toys & Sporting Goods,Environment,Ecological Impacts,2,False
+Consumer Goods,Toys & Sporting Goods,Social Capital,Human Rights & Community Relations,4,True
+Consumer Goods,Toys & Sporting Goods,Social Capital,Customer Privacy,4,True
+Consumer Goods,Toys & Sporting Goods,Social Capital,Data Security,3,True
+Consumer Goods,Toys & Sporting Goods,Social Capital,Access & Affordability,4,True
+Consumer Goods,Toys & Sporting Goods,Social Capital,Product Quality & Safety,3,True
+Consumer Goods,Toys & Sporting Goods,Social Capital,Customer Welfare,5,True
+Consumer Goods,Toys & Sporting Goods,Social Capital,Selling Practices & Product Labeling,5,True
+Consumer Goods,Toys & Sporting Goods,Human Capital,Labor Practices,3,True
+Consumer Goods,Toys & Sporting Goods,Human Capital,Employee Health & Safety,4,True
+Consumer Goods,Toys & Sporting Goods,Human Capital,Employee Engagement,2,False
+Consumer Goods,Toys & Sporting Goods,Human Capital,Diversity & Inclusion,4,True
+Consumer Goods,Toys & Sporting Goods,Business Model & Innovation,Product Design & Lifecycle,3,True
+Consumer Goods,Toys & Sporting Goods,Business Model & Innovation,Business Model Resilience,5,True
+Consumer Goods,Toys & Sporting Goods,Business Model & Innovation,Supply Chain Management,4,True
+Consumer Goods,Toys & Sporting Goods,Business Model & Innovation,Materials Sourcing & Efficiency,5,True
+Consumer Goods,Toys & Sporting Goods,Business Model & Innovation,Physical Impacts of Climate Change,5,True
+Consumer Goods,Toys & Sporting Goods,Leadership & Governance,Business Ethics,4,True
+Consumer Goods,Toys & Sporting Goods,Leadership & Governance,Competitive Behavior,2,False
+Consumer Goods,Toys & Sporting Goods,Leadership & Governance,Regulatory Environment Management,2,False
+Consumer Goods,Toys & Sporting Goods,Leadership & Governance,Critical Incident Risk Management,3,True
+Consumer Goods,Toys & Sporting Goods,Leadership & Governance,Systemic Risk Management,2,False
+Extractives & Minerals Processing,Coal Operations,Environment,GHG Emissions,5,True
+Extractives & Minerals Processing,Coal Operations,Environment,Air Quality,5,True
+Extractives & Minerals Processing,Coal Operations,Environment,Energy Management,4,True
+Extractives & Minerals Processing,Coal Operations,Environment,Water & Wastewater Management,5,True
+Extractives & Minerals Processing,Coal Operations,Environment,Waste & Hazardous Materials,5,True
+Extractives & Minerals Processing,Coal Operations,Environment,Ecological Impacts,5,True
+Extractives & Minerals Processing,Coal Operations,Social Capital,Human Rights & Community Relations,3,True
+Extractives & Minerals Processing,Coal Operations,Social Capital,Customer Privacy,3,True
+Extractives & Minerals Processing,Coal Operations,Social Capital,Data Security,4,True
+Extractives & Minerals Processing,Coal Operations,Social Capital,Access & Affordability,4,True
+Extractives & Minerals Processing,Coal Operations,Social Capital,Product Quality & Safety,3,True
+Extractives & Minerals Processing,Coal Operations,Social Capital,Customer Welfare,3,True
+Extractives & Minerals Processing,Coal Operations,Social Capital,Selling Practices & Product Labeling,3,True
+Extractives & Minerals Processing,Coal Operations,Human Capital,Labor Practices,5,True
+Extractives & Minerals Processing,Coal Operations,Human Capital,Employee Health & Safety,4,True
+Extractives & Minerals Processing,Coal Operations,Human Capital,Employee Engagement,4,True
+Extractives & Minerals Processing,Coal Operations,Human Capital,Diversity & Inclusion,5,True
+Extractives & Minerals Processing,Coal Operations,Business Model & Innovation,Product Design & Lifecycle,3,True
+Extractives & Minerals Processing,Coal Operations,Business Model & Innovation,Business Model Resilience,2,False
+Extractives & Minerals Processing,Coal Operations,Business Model & Innovation,Supply Chain Management,4,True
+Extractives & Minerals Processing,Coal Operations,Business Model & Innovation,Materials Sourcing & Efficiency,2,False
+Extractives & Minerals Processing,Coal Operations,Business Model & Innovation,Physical Impacts of Climate Change,2,False
+Extractives & Minerals Processing,Coal Operations,Leadership & Governance,Business Ethics,5,True
+Extractives & Minerals Processing,Coal Operations,Leadership & Governance,Competitive Behavior,4,True
+Extractives & Minerals Processing,Coal Operations,Leadership & Governance,Regulatory Environment Management,5,True
+Extractives & Minerals Processing,Coal Operations,Leadership & Governance,Critical Incident Risk Management,3,True
+Extractives & Minerals Processing,Coal Operations,Leadership & Governance,Systemic Risk Management,4,True
+Extractives & Minerals Processing,Construction Materials,Environment,GHG Emissions,5,True
+Extractives & Minerals Processing,Construction Materials,Environment,Air Quality,5,True
+Extractives & Minerals Processing,Construction Materials,Environment,Energy Management,5,True
+Extractives & Minerals Processing,Construction Materials,Environment,Water & Wastewater Management,4,True
+Extractives & Minerals Processing,Construction Materials,Environment,Waste & Hazardous Materials,5,True
+Extractives & Minerals Processing,Construction Materials,Environment,Ecological Impacts,5,True
+Extractives & Minerals Processing,Construction Materials,Social Capital,Human Rights & Community Relations,5,True
+Extractives & Minerals Processing,Construction Materials,Social Capital,Customer Privacy,3,True
+Extractives & Minerals Processing,Construction Materials,Social Capital,Data Security,5,True
+Extractives & Minerals Processing,Construction Materials,Social Capital,Access & Affordability,4,True
+Extractives & Minerals Processing,Construction Materials,Social Capital,Product Quality & Safety,4,True
+Extractives & Minerals Processing,Construction Materials,Social Capital,Customer Welfare,5,True
+Extractives & Minerals Processing,Construction Materials,Social Capital,Selling Practices & Product Labeling,5,True
+Extractives & Minerals Processing,Construction Materials,Human Capital,Labor Practices,5,True
+Extractives & Minerals Processing,Construction Materials,Human Capital,Employee Health & Safety,5,True
+Extractives & Minerals Processing,Construction Materials,Human Capital,Employee Engagement,5,True
+Extractives & Minerals Processing,Construction Materials,Human Capital,Diversity & Inclusion,5,True
+Extractives & Minerals Processing,Construction Materials,Business Model & Innovation,Product Design & Lifecycle,2,False
+Extractives & Minerals Processing,Construction Materials,Business Model & Innovation,Business Model Resilience,2,False
+Extractives & Minerals Processing,Construction Materials,Business Model & Innovation,Supply Chain Management,2,False
+Extractives & Minerals Processing,Construction Materials,Business Model & Innovation,Materials Sourcing & Efficiency,2,False
+Extractives & Minerals Processing,Construction Materials,Business Model & Innovation,Physical Impacts of Climate Change,3,True
+Extractives & Minerals Processing,Construction Materials,Leadership & Governance,Business Ethics,3,True
+Extractives & Minerals Processing,Construction Materials,Leadership & Governance,Competitive Behavior,5,True
+Extractives & Minerals Processing,Construction Materials,Leadership & Governance,Regulatory Environment Management,5,True
+Extractives & Minerals Processing,Construction Materials,Leadership & Governance,Critical Incident Risk Management,3,True
+Extractives & Minerals Processing,Construction Materials,Leadership & Governance,Systemic Risk Management,5,True
+Extractives & Minerals Processing,Iron & Steel Producers,Environment,GHG Emissions,4,True
+Extractives & Minerals Processing,Iron & Steel Producers,Environment,Air Quality,4,True
+Extractives & Minerals Processing,Iron & Steel Producers,Environment,Energy Management,4,True
+Extractives & Minerals Processing,Iron & Steel Producers,Environment,Water & Wastewater Management,5,True
+Extractives & Minerals Processing,Iron & Steel Producers,Environment,Waste & Hazardous Materials,5,True
+Extractives & Minerals Processing,Iron & Steel Producers,Environment,Ecological Impacts,4,True
+Extractives & Minerals Processing,Iron & Steel Producers,Social Capital,Human Rights & Community Relations,3,True
+Extractives & Minerals Processing,Iron & Steel Producers,Social Capital,Customer Privacy,3,True
+Extractives & Minerals Processing,Iron & Steel Producers,Social Capital,Data Security,3,True
+Extractives & Minerals Processing,Iron & Steel Producers,Social Capital,Access & Affordability,4,True
+Extractives & Minerals Processing,Iron & Steel Producers,Social Capital,Product Quality & Safety,3,True
+Extractives & Minerals Processing,Iron & Steel Producers,Social Capital,Customer Welfare,5,True
+Extractives & Minerals Processing,Iron & Steel Producers,Social Capital,Selling Practices & Product Labeling,3,True
+Extractives & Minerals Processing,Iron & Steel Producers,Human Capital,Labor Practices,5,True
+Extractives & Minerals Processing,Iron & Steel Producers,Human Capital,Employee Health & Safety,5,True
+Extractives & Minerals Processing,Iron & Steel Producers,Human Capital,Employee Engagement,5,True
+Extractives & Minerals Processing,Iron & Steel Producers,Human Capital,Diversity & Inclusion,4,True
+Extractives & Minerals Processing,Iron & Steel Producers,Business Model & Innovation,Product Design & Lifecycle,4,True
+Extractives & Minerals Processing,Iron & Steel Producers,Business Model & Innovation,Business Model Resilience,2,False
+Extractives & Minerals Processing,Iron & Steel Producers,Business Model & Innovation,Supply Chain Management,4,True
+Extractives & Minerals Processing,Iron & Steel Producers,Business Model & Innovation,Materials Sourcing & Efficiency,4,True
+Extractives & Minerals Processing,Iron & Steel Producers,Business Model & Innovation,Physical Impacts of Climate Change,4,True
+Extractives & Minerals Processing,Iron & Steel Producers,Leadership & Governance,Business Ethics,4,True
+Extractives & Minerals Processing,Iron & Steel Producers,Leadership & Governance,Competitive Behavior,3,True
+Extractives & Minerals Processing,Iron & Steel Producers,Leadership & Governance,Regulatory Environment Management,4,True
+Extractives & Minerals Processing,Iron & Steel Producers,Leadership & Governance,Critical Incident Risk Management,4,True
+Extractives & Minerals Processing,Iron & Steel Producers,Leadership & Governance,Systemic Risk Management,3,True
+Extractives & Minerals Processing,Metals & Mining,Environment,GHG Emissions,4,True
+Extractives & Minerals Processing,Metals & Mining,Environment,Air Quality,4,True
+Extractives & Minerals Processing,Metals & Mining,Environment,Energy Management,5,True
+Extractives & Minerals Processing,Metals & Mining,Environment,Water & Wastewater Management,5,True
+Extractives & Minerals Processing,Metals & Mining,Environment,Waste & Hazardous Materials,5,True
+Extractives & Minerals Processing,Metals & Mining,Environment,Ecological Impacts,5,True
+Extractives & Minerals Processing,Metals & Mining,Social Capital,Human Rights & Community Relations,4,True
+Extractives & Minerals Processing,Metals & Mining,Social Capital,Customer Privacy,4,True
+Extractives & Minerals Processing,Metals & Mining,Social Capital,Data Security,5,True
+Extractives & Minerals Processing,Metals & Mining,Social Capital,Access & Affordability,3,True
+Extractives & Minerals Processing,Metals & Mining,Social Capital,Product Quality & Safety,5,True
+Extractives & Minerals Processing,Metals & Mining,Social Capital,Customer Welfare,5,True
+Extractives & Minerals Processing,Metals & Mining,Social Capital,Selling Practices & Product Labeling,5,True
+Extractives & Minerals Processing,Metals & Mining,Human Capital,Labor Practices,4,True
+Extractives & Minerals Processing,Metals & Mining,Human Capital,Employee Health & Safety,4,True
+Extractives & Minerals Processing,Metals & Mining,Human Capital,Employee Engagement,5,True
+Extractives & Minerals Processing,Metals & Mining,Human Capital,Diversity & Inclusion,5,True
+Extractives & Minerals Processing,Metals & Mining,Business Model & Innovation,Product Design & Lifecycle,3,True
+Extractives & Minerals Processing,Metals & Mining,Business Model & Innovation,Business Model Resilience,2,False
+Extractives & Minerals Processing,Metals & Mining,Business Model & Innovation,Supply Chain Management,2,False
+Extractives & Minerals Processing,Metals & Mining,Business Model & Innovation,Materials Sourcing & Efficiency,2,False
+Extractives & Minerals Processing,Metals & Mining,Business Model & Innovation,Physical Impacts of Climate Change,2,False
+Extractives & Minerals Processing,Metals & Mining,Leadership & Governance,Business Ethics,5,True
+Extractives & Minerals Processing,Metals & Mining,Leadership & Governance,Competitive Behavior,4,True
+Extractives & Minerals Processing,Metals & Mining,Leadership & Governance,Regulatory Environment Management,3,True
+Extractives & Minerals Processing,Metals & Mining,Leadership & Governance,Critical Incident Risk Management,4,True
+Extractives & Minerals Processing,Metals & Mining,Leadership & Governance,Systemic Risk Management,3,True
+Extractives & Minerals Processing,Oil & Gas - Exploration & Production,Environment,GHG Emissions,5,True
+Extractives & Minerals Processing,Oil & Gas - Exploration & Production,Environment,Air Quality,5,True
+Extractives & Minerals Processing,Oil & Gas - Exploration & Production,Environment,Energy Management,4,True
+Extractives & Minerals Processing,Oil & Gas - Exploration & Production,Environment,Water & Wastewater Management,4,True
+Extractives & Minerals Processing,Oil & Gas - Exploration & Production,Environment,Waste & Hazardous Materials,5,True
+Extractives & Minerals Processing,Oil & Gas - Exploration & Production,Environment,Ecological Impacts,5,True
+Extractives & Minerals Processing,Oil & Gas - Exploration & Production,Social Capital,Human Rights & Community Relations,3,True
+Extractives & Minerals Processing,Oil & Gas - Exploration & Production,Social Capital,Customer Privacy,3,True
+Extractives & Minerals Processing,Oil & Gas - Exploration & Production,Social Capital,Data Security,5,True
+Extractives & Minerals Processing,Oil & Gas - Exploration & Production,Social Capital,Access & Affordability,5,True
+Extractives & Minerals Processing,Oil & Gas - Exploration & Production,Social Capital,Product Quality & Safety,3,True
+Extractives & Minerals Processing,Oil & Gas - Exploration & Production,Social Capital,Customer Welfare,3,True
+Extractives & Minerals Processing,Oil & Gas - Exploration & Production,Social Capital,Selling Practices & Product Labeling,3,True
+Extractives & Minerals Processing,Oil & Gas - Exploration & Production,Human Capital,Labor Practices,4,True
+Extractives & Minerals Processing,Oil & Gas - Exploration & Production,Human Capital,Employee Health & Safety,5,True
+Extractives & Minerals Processing,Oil & Gas - Exploration & Production,Human Capital,Employee Engagement,5,True
+Extractives & Minerals Processing,Oil & Gas - Exploration & Production,Human Capital,Diversity & Inclusion,5,True
+Extractives & Minerals Processing,Oil & Gas - Exploration & Production,Business Model & Innovation,Product Design & Lifecycle,2,False
+Extractives & Minerals Processing,Oil & Gas - Exploration & Production,Business Model & Innovation,Business Model Resilience,3,True
+Extractives & Minerals Processing,Oil & Gas - Exploration & Production,Business Model & Innovation,Supply Chain Management,2,False
+Extractives & Minerals Processing,Oil & Gas - Exploration & Production,Business Model & Innovation,Materials Sourcing & Efficiency,2,False
+Extractives & Minerals Processing,Oil & Gas - Exploration & Production,Business Model & Innovation,Physical Impacts of Climate Change,3,True
+Extractives & Minerals Processing,Oil & Gas - Exploration & Production,Leadership & Governance,Business Ethics,3,True
+Extractives & Minerals Processing,Oil & Gas - Exploration & Production,Leadership & Governance,Competitive Behavior,4,True
+Extractives & Minerals Processing,Oil & Gas - Exploration & Production,Leadership & Governance,Regulatory Environment Management,4,True
+Extractives & Minerals Processing,Oil & Gas - Exploration & Production,Leadership & Governance,Critical Incident Risk Management,4,True
+Extractives & Minerals Processing,Oil & Gas - Exploration & Production,Leadership & Governance,Systemic Risk Management,4,True
+Extractives & Minerals Processing,Oil & Gas - Midstream,Environment,GHG Emissions,5,True
+Extractives & Minerals Processing,Oil & Gas - Midstream,Environment,Air Quality,5,True
+Extractives & Minerals Processing,Oil & Gas - Midstream,Environment,Energy Management,5,True
+Extractives & Minerals Processing,Oil & Gas - Midstream,Environment,Water & Wastewater Management,5,True
+Extractives & Minerals Processing,Oil & Gas - Midstream,Environment,Waste & Hazardous Materials,5,True
+Extractives & Minerals Processing,Oil & Gas - Midstream,Environment,Ecological Impacts,5,True
+Extractives & Minerals Processing,Oil & Gas - Midstream,Social Capital,Human Rights & Community Relations,4,True
+Extractives & Minerals Processing,Oil & Gas - Midstream,Social Capital,Customer Privacy,3,True
+Extractives & Minerals Processing,Oil & Gas - Midstream,Social Capital,Data Security,3,True
+Extractives & Minerals Processing,Oil & Gas - Midstream,Social Capital,Access & Affordability,4,True
+Extractives & Minerals Processing,Oil & Gas - Midstream,Social Capital,Product Quality & Safety,3,True
+Extractives & Minerals Processing,Oil & Gas - Midstream,Social Capital,Customer Welfare,3,True
+Extractives & Minerals Processing,Oil & Gas - Midstream,Social Capital,Selling Practices & Product Labeling,5,True
+Extractives & Minerals Processing,Oil & Gas - Midstream,Human Capital,Labor Practices,5,True
+Extractives & Minerals Processing,Oil & Gas - Midstream,Human Capital,Employee Health & Safety,5,True
+Extractives & Minerals Processing,Oil & Gas - Midstream,Human Capital,Employee Engagement,4,True
+Extractives & Minerals Processing,Oil & Gas - Midstream,Human Capital,Diversity & Inclusion,5,True
+Extractives & Minerals Processing,Oil & Gas - Midstream,Business Model & Innovation,Product Design & Lifecycle,3,True
+Extractives & Minerals Processing,Oil & Gas - Midstream,Business Model & Innovation,Business Model Resilience,2,False
+Extractives & Minerals Processing,Oil & Gas - Midstream,Business Model & Innovation,Supply Chain Management,2,False
+Extractives & Minerals Processing,Oil & Gas - Midstream,Business Model & Innovation,Materials Sourcing & Efficiency,4,True
+Extractives & Minerals Processing,Oil & Gas - Midstream,Business Model & Innovation,Physical Impacts of Climate Change,3,True
+Extractives & Minerals Processing,Oil & Gas - Midstream,Leadership & Governance,Business Ethics,5,True
+Extractives & Minerals Processing,Oil & Gas - Midstream,Leadership & Governance,Competitive Behavior,5,True
+Extractives & Minerals Processing,Oil & Gas - Midstream,Leadership & Governance,Regulatory Environment Management,3,True
+Extractives & Minerals Processing,Oil & Gas - Midstream,Leadership & Governance,Critical Incident Risk Management,3,True
+Extractives & Minerals Processing,Oil & Gas - Midstream,Leadership & Governance,Systemic Risk Management,5,True
+Extractives & Minerals Processing,Oil & Gas - Refining & Marketing,Environment,GHG Emissions,4,True
+Extractives & Minerals Processing,Oil & Gas - Refining & Marketing,Environment,Air Quality,4,True
+Extractives & Minerals Processing,Oil & Gas - Refining & Marketing,Environment,Energy Management,4,True
+Extractives & Minerals Processing,Oil & Gas - Refining & Marketing,Environment,Water & Wastewater Management,5,True
+Extractives & Minerals Processing,Oil & Gas - Refining & Marketing,Environment,Waste & Hazardous Materials,4,True
+Extractives & Minerals Processing,Oil & Gas - Refining & Marketing,Environment,Ecological Impacts,5,True
+Extractives & Minerals Processing,Oil & Gas - Refining & Marketing,Social Capital,Human Rights & Community Relations,3,True
+Extractives & Minerals Processing,Oil & Gas - Refining & Marketing,Social Capital,Customer Privacy,4,True
+Extractives & Minerals Processing,Oil & Gas - Refining & Marketing,Social Capital,Data Security,3,True
+Extractives & Minerals Processing,Oil & Gas - Refining & Marketing,Social Capital,Access & Affordability,5,True
+Extractives & Minerals Processing,Oil & Gas - Refining & Marketing,Social Capital,Product Quality & Safety,3,True
+Extractives & Minerals Processing,Oil & Gas - Refining & Marketing,Social Capital,Customer Welfare,5,True
+Extractives & Minerals Processing,Oil & Gas - Refining & Marketing,Social Capital,Selling Practices & Product Labeling,5,True
+Extractives & Minerals Processing,Oil & Gas - Refining & Marketing,Human Capital,Labor Practices,4,True
+Extractives & Minerals Processing,Oil & Gas - Refining & Marketing,Human Capital,Employee Health & Safety,5,True
+Extractives & Minerals Processing,Oil & Gas - Refining & Marketing,Human Capital,Employee Engagement,4,True
+Extractives & Minerals Processing,Oil & Gas - Refining & Marketing,Human Capital,Diversity & Inclusion,5,True
+Extractives & Minerals Processing,Oil & Gas - Refining & Marketing,Business Model & Innovation,Product Design & Lifecycle,4,True
+Extractives & Minerals Processing,Oil & Gas - Refining & Marketing,Business Model & Innovation,Business Model Resilience,4,True
+Extractives & Minerals Processing,Oil & Gas - Refining & Marketing,Business Model & Innovation,Supply Chain Management,4,True
+Extractives & Minerals Processing,Oil & Gas - Refining & Marketing,Business Model & Innovation,Materials Sourcing & Efficiency,4,True
+Extractives & Minerals Processing,Oil & Gas - Refining & Marketing,Business Model & Innovation,Physical Impacts of Climate Change,3,True
+Extractives & Minerals Processing,Oil & Gas - Refining & Marketing,Leadership & Governance,Business Ethics,4,True
+Extractives & Minerals Processing,Oil & Gas - Refining & Marketing,Leadership & Governance,Competitive Behavior,3,True
+Extractives & Minerals Processing,Oil & Gas - Refining & Marketing,Leadership & Governance,Regulatory Environment Management,5,True
+Extractives & Minerals Processing,Oil & Gas - Refining & Marketing,Leadership & Governance,Critical Incident Risk Management,5,True
+Extractives & Minerals Processing,Oil & Gas - Refining & Marketing,Leadership & Governance,Systemic Risk Management,4,True
+Extractives & Minerals Processing,Oil & Gas - Services,Environment,GHG Emissions,4,True
+Extractives & Minerals Processing,Oil & Gas - Services,Environment,Air Quality,5,True
+Extractives & Minerals Processing,Oil & Gas - Services,Environment,Energy Management,5,True
+Extractives & Minerals Processing,Oil & Gas - Services,Environment,Water & Wastewater Management,4,True
+Extractives & Minerals Processing,Oil & Gas - Services,Environment,Waste & Hazardous Materials,5,True
+Extractives & Minerals Processing,Oil & Gas - Services,Environment,Ecological Impacts,5,True
+Extractives & Minerals Processing,Oil & Gas - Services,Social Capital,Human Rights & Community Relations,4,True
+Extractives & Minerals Processing,Oil & Gas - Services,Social Capital,Customer Privacy,4,True
+Extractives & Minerals Processing,Oil & Gas - Services,Social Capital,Data Security,4,True
+Extractives & Minerals Processing,Oil & Gas - Services,Social Capital,Access & Affordability,3,True
+Extractives & Minerals Processing,Oil & Gas - Services,Social Capital,Product Quality & Safety,3,True
+Extractives & Minerals Processing,Oil & Gas - Services,Social Capital,Customer Welfare,4,True
+Extractives & Minerals Processing,Oil & Gas - Services,Social Capital,Selling Practices & Product Labeling,5,True
+Extractives & Minerals Processing,Oil & Gas - Services,Human Capital,Labor Practices,5,True
+Extractives & Minerals Processing,Oil & Gas - Services,Human Capital,Employee Health & Safety,4,True
+Extractives & Minerals Processing,Oil & Gas - Services,Human Capital,Employee Engagement,4,True
+Extractives & Minerals Processing,Oil & Gas - Services,Human Capital,Diversity & Inclusion,5,True
+Extractives & Minerals Processing,Oil & Gas - Services,Business Model & Innovation,Product Design & Lifecycle,2,False
+Extractives & Minerals Processing,Oil & Gas - Services,Business Model & Innovation,Business Model Resilience,4,True
+Extractives & Minerals Processing,Oil & Gas - Services,Business Model & Innovation,Supply Chain Management,3,True
+Extractives & Minerals Processing,Oil & Gas - Services,Business Model & Innovation,Materials Sourcing & Efficiency,2,False
+Extractives & Minerals Processing,Oil & Gas - Services,Business Model & Innovation,Physical Impacts of Climate Change,3,True
+Extractives & Minerals Processing,Oil & Gas - Services,Leadership & Governance,Business Ethics,3,True
+Extractives & Minerals Processing,Oil & Gas - Services,Leadership & Governance,Competitive Behavior,3,True
+Extractives & Minerals Processing,Oil & Gas - Services,Leadership & Governance,Regulatory Environment Management,4,True
+Extractives & Minerals Processing,Oil & Gas - Services,Leadership & Governance,Critical Incident Risk Management,4,True
+Extractives & Minerals Processing,Oil & Gas - Services,Leadership & Governance,Systemic Risk Management,3,True
+Financials,Asset Management & Custody,Environment,GHG Emissions,2,False
+Financials,Asset Management & Custody,Environment,Air Quality,3,True
+Financials,Asset Management & Custody,Environment,Energy Management,3,True
+Financials,Asset Management & Custody,Environment,Water & Wastewater Management,2,False
+Financials,Asset Management & Custody,Environment,Waste & Hazardous Materials,3,True
+Financials,Asset Management & Custody,Environment,Ecological Impacts,3,True
+Financials,Asset Management & Custody,Social Capital,Human Rights & Community Relations,5,True
+Financials,Asset Management & Custody,Social Capital,Customer Privacy,3,True
+Financials,Asset Management & Custody,Social Capital,Data Security,5,True
+Financials,Asset Management & Custody,Social Capital,Access & Affordability,5,True
+Financials,Asset Management & Custody,Social Capital,Product Quality & Safety,4,True
+Financials,Asset Management & Custody,Social Capital,Customer Welfare,5,True
+Financials,Asset Management & Custody,Social Capital,Selling Practices & Product Labeling,3,True
+Financials,Asset Management & Custody,Human Capital,Labor Practices,2,False
+Financials,Asset Management & Custody,Human Capital,Employee Health & Safety,3,True
+Financials,Asset Management & Custody,Human Capital,Employee Engagement,2,False
+Financials,Asset Management & Custody,Human Capital,Diversity & Inclusion,2,False
+Financials,Asset Management & Custody,Business Model & Innovation,Product Design & Lifecycle,4,True
+Financials,Asset Management & Custody,Business Model & Innovation,Business Model Resilience,4,True
+Financials,Asset Management & Custody,Business Model & Innovation,Supply Chain Management,2,False
+Financials,Asset Management & Custody,Business Model & Innovation,Materials Sourcing & Efficiency,3,True
+Financials,Asset Management & Custody,Business Model & Innovation,Physical Impacts of Climate Change,3,True
+Financials,Asset Management & Custody,Leadership & Governance,Business Ethics,5,True
+Financials,Asset Management & Custody,Leadership & Governance,Competitive Behavior,4,True
+Financials,Asset Management & Custody,Leadership & Governance,Regulatory Environment Management,5,True
+Financials,Asset Management & Custody,Leadership & Governance,Critical Incident Risk Management,5,True
+Financials,Asset Management & Custody,Leadership & Governance,Systemic Risk Management,4,True
+Financials,Commercial Banks,Environment,GHG Emissions,3,True
+Financials,Commercial Banks,Environment,Air Quality,3,True
+Financials,Commercial Banks,Environment,Energy Management,2,False
+Financials,Commercial Banks,Environment,Water & Wastewater Management,3,True
+Financials,Commercial Banks,Environment,Waste & Hazardous Materials,2,False
+Financials,Commercial Banks,Environment,Ecological Impacts,2,False
+Financials,Commercial Banks,Social Capital,Human Rights & Community Relations,3,True
+Financials,Commercial Banks,Social Capital,Customer Privacy,3,True
+Financials,Commercial Banks,Social Capital,Data Security,5,True
+Financials,Commercial Banks,Social Capital,Access & Affordability,4,True
+Financials,Commercial Banks,Social Capital,Product Quality & Safety,4,True
+Financials,Commercial Banks,Social Capital,Customer Welfare,3,True
+Financials,Commercial Banks,Social Capital,Selling Practices & Product Labeling,3,True
+Financials,Commercial Banks,Human Capital,Labor Practices,3,True
+Financials,Commercial Banks,Human Capital,Employee Health & Safety,2,False
+Financials,Commercial Banks,Human Capital,Employee Engagement,4,True
+Financials,Commercial Banks,Human Capital,Diversity & Inclusion,3,True
+Financials,Commercial Banks,Business Model & Innovation,Product Design & Lifecycle,2,False
+Financials,Commercial Banks,Business Model & Innovation,Business Model Resilience,4,True
+Financials,Commercial Banks,Business Model & Innovation,Supply Chain Management,3,True
+Financials,Commercial Banks,Business Model & Innovation,Materials Sourcing & Efficiency,4,True
+Financials,Commercial Banks,Business Model & Innovation,Physical Impacts of Climate Change,4,True
+Financials,Commercial Banks,Leadership & Governance,Business Ethics,5,True
+Financials,Commercial Banks,Leadership & Governance,Competitive Behavior,5,True
+Financials,Commercial Banks,Leadership & Governance,Regulatory Environment Management,4,True
+Financials,Commercial Banks,Leadership & Governance,Critical Incident Risk Management,4,True
+Financials,Commercial Banks,Leadership & Governance,Systemic Risk Management,4,True
+Financials,Consumer Finance,Environment,GHG Emissions,3,True
+Financials,Consumer Finance,Environment,Air Quality,1,False
+Financials,Consumer Finance,Environment,Energy Management,3,True
+Financials,Consumer Finance,Environment,Water & Wastewater Management,1,False
+Financials,Consumer Finance,Environment,Waste & Hazardous Materials,2,False
+Financials,Consumer Finance,Environment,Ecological Impacts,3,True
+Financials,Consumer Finance,Social Capital,Human Rights & Community Relations,5,True
+Financials,Consumer Finance,Social Capital,Customer Privacy,3,True
+Financials,Consumer Finance,Social Capital,Data Security,4,True
+Financials,Consumer Finance,Social Capital,Access & Affordability,3,True
+Financials,Consumer Finance,Social Capital,Product Quality & Safety,3,True
+Financials,Consumer Finance,Social Capital,Customer Welfare,4,True
+Financials,Consumer Finance,Social Capital,Selling Practices & Product Labeling,4,True
+Financials,Consumer Finance,Human Capital,Labor Practices,2,False
+Financials,Consumer Finance,Human Capital,Employee Health & Safety,3,True
+Financials,Consumer Finance,Human Capital,Employee Engagement,2,False
+Financials,Consumer Finance,Human Capital,Diversity & Inclusion,4,True
+Financials,Consumer Finance,Business Model & Innovation,Product Design & Lifecycle,2,False
+Financials,Consumer Finance,Business Model & Innovation,Business Model Resilience,4,True
+Financials,Consumer Finance,Business Model & Innovation,Supply Chain Management,2,False
+Financials,Consumer Finance,Business Model & Innovation,Materials Sourcing & Efficiency,3,True
+Financials,Consumer Finance,Business Model & Innovation,Physical Impacts of Climate Change,4,True
+Financials,Consumer Finance,Leadership & Governance,Business Ethics,5,True
+Financials,Consumer Finance,Leadership & Governance,Competitive Behavior,5,True
+Financials,Consumer Finance,Leadership & Governance,Regulatory Environment Management,5,True
+Financials,Consumer Finance,Leadership & Governance,Critical Incident Risk Management,4,True
+Financials,Consumer Finance,Leadership & Governance,Systemic Risk Management,4,True
+Financials,Insurance,Environment,GHG Emissions,1,False
+Financials,Insurance,Environment,Air Quality,1,False
+Financials,Insurance,Environment,Energy Management,2,False
+Financials,Insurance,Environment,Water & Wastewater Management,1,False
+Financials,Insurance,Environment,Waste & Hazardous Materials,1,False
+Financials,Insurance,Environment,Ecological Impacts,3,True
+Financials,Insurance,Social Capital,Human Rights & Community Relations,4,True
+Financials,Insurance,Social Capital,Customer Privacy,4,True
+Financials,Insurance,Social Capital,Data Security,5,True
+Financials,Insurance,Social Capital,Access & Affordability,5,True
+Financials,Insurance,Social Capital,Product Quality & Safety,3,True
+Financials,Insurance,Social Capital,Customer Welfare,4,True
+Financials,Insurance,Social Capital,Selling Practices & Product Labeling,3,True
+Financials,Insurance,Human Capital,Labor Practices,4,True
+Financials,Insurance,Human Capital,Employee Health & Safety,2,False
+Financials,Insurance,Human Capital,Employee Engagement,3,True
+Financials,Insurance,Human Capital,Diversity & Inclusion,2,False
+Financials,Insurance,Business Model & Innovation,Product Design & Lifecycle,3,True
+Financials,Insurance,Business Model & Innovation,Business Model Resilience,2,False
+Financials,Insurance,Business Model & Innovation,Supply Chain Management,2,False
+Financials,Insurance,Business Model & Innovation,Materials Sourcing & Efficiency,3,True
+Financials,Insurance,Business Model & Innovation,Physical Impacts of Climate Change,3,True
+Financials,Insurance,Leadership & Governance,Business Ethics,5,True
+Financials,Insurance,Leadership & Governance,Competitive Behavior,4,True
+Financials,Insurance,Leadership & Governance,Regulatory Environment Management,4,True
+Financials,Insurance,Leadership & Governance,Critical Incident Risk Management,4,True
+Financials,Insurance,Leadership & Governance,Systemic Risk Management,5,True
+Financials,Investment Banking & Brokerage,Environment,GHG Emissions,1,False
+Financials,Investment Banking & Brokerage,Environment,Air Quality,2,False
+Financials,Investment Banking & Brokerage,Environment,Energy Management,2,False
+Financials,Investment Banking & Brokerage,Environment,Water & Wastewater Management,2,False
+Financials,Investment Banking & Brokerage,Environment,Waste & Hazardous Materials,1,False
+Financials,Investment Banking & Brokerage,Environment,Ecological Impacts,2,False
+Financials,Investment Banking & Brokerage,Social Capital,Human Rights & Community Relations,4,True
+Financials,Investment Banking & Brokerage,Social Capital,Customer Privacy,5,True
+Financials,Investment Banking & Brokerage,Social Capital,Data Security,5,True
+Financials,Investment Banking & Brokerage,Social Capital,Access & Affordability,4,True
+Financials,Investment Banking & Brokerage,Social Capital,Product Quality & Safety,5,True
+Financials,Investment Banking & Brokerage,Social Capital,Customer Welfare,5,True
+Financials,Investment Banking & Brokerage,Social Capital,Selling Practices & Product Labeling,4,True
+Financials,Investment Banking & Brokerage,Human Capital,Labor Practices,2,False
+Financials,Investment Banking & Brokerage,Human Capital,Employee Health & Safety,2,False
+Financials,Investment Banking & Brokerage,Human Capital,Employee Engagement,3,True
+Financials,Investment Banking & Brokerage,Human Capital,Diversity & Inclusion,2,False
+Financials,Investment Banking & Brokerage,Business Model & Innovation,Product Design & Lifecycle,4,True
+Financials,Investment Banking & Brokerage,Business Model & Innovation,Business Model Resilience,3,True
+Financials,Investment Banking & Brokerage,Business Model & Innovation,Supply Chain Management,2,False
+Financials,Investment Banking & Brokerage,Business Model & Innovation,Materials Sourcing & Efficiency,2,False
+Financials,Investment Banking & Brokerage,Business Model & Innovation,Physical Impacts of Climate Change,4,True
+Financials,Investment Banking & Brokerage,Leadership & Governance,Business Ethics,5,True
+Financials,Investment Banking & Brokerage,Leadership & Governance,Competitive Behavior,5,True
+Financials,Investment Banking & Brokerage,Leadership & Governance,Regulatory Environment Management,5,True
+Financials,Investment Banking & Brokerage,Leadership & Governance,Critical Incident Risk Management,5,True
+Financials,Investment Banking & Brokerage,Leadership & Governance,Systemic Risk Management,5,True
+Financials,Mortgage Finance,Environment,GHG Emissions,3,True
+Financials,Mortgage Finance,Environment,Air Quality,3,True
+Financials,Mortgage Finance,Environment,Energy Management,1,False
+Financials,Mortgage Finance,Environment,Water & Wastewater Management,2,False
+Financials,Mortgage Finance,Environment,Waste & Hazardous Materials,3,True
+Financials,Mortgage Finance,Environment,Ecological Impacts,1,False
+Financials,Mortgage Finance,Social Capital,Human Rights & Community Relations,4,True
+Financials,Mortgage Finance,Social Capital,Customer Privacy,3,True
+Financials,Mortgage Finance,Social Capital,Data Security,5,True
+Financials,Mortgage Finance,Social Capital,Access & Affordability,4,True
+Financials,Mortgage Finance,Social Capital,Product Quality & Safety,3,True
+Financials,Mortgage Finance,Social Capital,Customer Welfare,5,True
+Financials,Mortgage Finance,Social Capital,Selling Practices & Product Labeling,5,True
+Financials,Mortgage Finance,Human Capital,Labor Practices,4,True
+Financials,Mortgage Finance,Human Capital,Employee Health & Safety,4,True
+Financials,Mortgage Finance,Human Capital,Employee Engagement,4,True
+Financials,Mortgage Finance,Human Capital,Diversity & Inclusion,4,True
+Financials,Mortgage Finance,Business Model & Innovation,Product Design & Lifecycle,4,True
+Financials,Mortgage Finance,Business Model & Innovation,Business Model Resilience,2,False
+Financials,Mortgage Finance,Business Model & Innovation,Supply Chain Management,3,True
+Financials,Mortgage Finance,Business Model & Innovation,Materials Sourcing & Efficiency,3,True
+Financials,Mortgage Finance,Business Model & Innovation,Physical Impacts of Climate Change,2,False
+Financials,Mortgage Finance,Leadership & Governance,Business Ethics,5,True
+Financials,Mortgage Finance,Leadership & Governance,Competitive Behavior,5,True
+Financials,Mortgage Finance,Leadership & Governance,Regulatory Environment Management,5,True
+Financials,Mortgage Finance,Leadership & Governance,Critical Incident Risk Management,5,True
+Financials,Mortgage Finance,Leadership & Governance,Systemic Risk Management,5,True
+Financials,Security & Commodity Exchange,Environment,GHG Emissions,1,False
+Financials,Security & Commodity Exchange,Environment,Air Quality,3,True
+Financials,Security & Commodity Exchange,Environment,Energy Management,2,False
+Financials,Security & Commodity Exchange,Environment,Water & Wastewater Management,3,True
+Financials,Security & Commodity Exchange,Environment,Waste & Hazardous Materials,2,False
+Financials,Security & Commodity Exchange,Environment,Ecological Impacts,3,True
+Financials,Security & Commodity Exchange,Social Capital,Human Rights & Community Relations,4,True
+Financials,Security & Commodity Exchange,Social Capital,Customer Privacy,4,True
+Financials,Security & Commodity Exchange,Social Capital,Data Security,4,True
+Financials,Security & Commodity Exchange,Social Capital,Access & Affordability,5,True
+Financials,Security & Commodity Exchange,Social Capital,Product Quality & Safety,4,True
+Financials,Security & Commodity Exchange,Social Capital,Customer Welfare,5,True
+Financials,Security & Commodity Exchange,Social Capital,Selling Practices & Product Labeling,3,True
+Financials,Security & Commodity Exchange,Human Capital,Labor Practices,2,False
+Financials,Security & Commodity Exchange,Human Capital,Employee Health & Safety,3,True
+Financials,Security & Commodity Exchange,Human Capital,Employee Engagement,4,True
+Financials,Security & Commodity Exchange,Human Capital,Diversity & Inclusion,3,True
+Financials,Security & Commodity Exchange,Business Model & Innovation,Product Design & Lifecycle,4,True
+Financials,Security & Commodity Exchange,Business Model & Innovation,Business Model Resilience,4,True
+Financials,Security & Commodity Exchange,Business Model & Innovation,Supply Chain Management,2,False
+Financials,Security & Commodity Exchange,Business Model & Innovation,Materials Sourcing & Efficiency,4,True
+Financials,Security & Commodity Exchange,Business Model & Innovation,Physical Impacts of Climate Change,4,True
+Financials,Security & Commodity Exchange,Leadership & Governance,Business Ethics,5,True
+Financials,Security & Commodity Exchange,Leadership & Governance,Competitive Behavior,5,True
+Financials,Security & Commodity Exchange,Leadership & Governance,Regulatory Environment Management,5,True
+Financials,Security & Commodity Exchange,Leadership & Governance,Critical Incident Risk Management,4,True
+Financials,Security & Commodity Exchange,Leadership & Governance,Systemic Risk Management,5,True
+Food & Beverage,Agricultural Products,Environment,GHG Emissions,4,True
+Food & Beverage,Agricultural Products,Environment,Air Quality,3,True
+Food & Beverage,Agricultural Products,Environment,Energy Management,4,True
+Food & Beverage,Agricultural Products,Environment,Water & Wastewater Management,5,True
+Food & Beverage,Agricultural Products,Environment,Waste & Hazardous Materials,5,True
+Food & Beverage,Agricultural Products,Environment,Ecological Impacts,5,True
+Food & Beverage,Agricultural Products,Social Capital,Human Rights & Community Relations,5,True
+Food & Beverage,Agricultural Products,Social Capital,Customer Privacy,5,True
+Food & Beverage,Agricultural Products,Social Capital,Data Security,5,True
+Food & Beverage,Agricultural Products,Social Capital,Access & Affordability,5,True
+Food & Beverage,Agricultural Products,Social Capital,Product Quality & Safety,5,True
+Food & Beverage,Agricultural Products,Social Capital,Customer Welfare,4,True
+Food & Beverage,Agricultural Products,Social Capital,Selling Practices & Product Labeling,5,True
+Food & Beverage,Agricultural Products,Human Capital,Labor Practices,3,True
+Food & Beverage,Agricultural Products,Human Capital,Employee Health & Safety,4,True
+Food & Beverage,Agricultural Products,Human Capital,Employee Engagement,2,False
+Food & Beverage,Agricultural Products,Human Capital,Diversity & Inclusion,4,True
+Food & Beverage,Agricultural Products,Business Model & Innovation,Product Design & Lifecycle,3,True
+Food & Beverage,Agricultural Products,Business Model & Innovation,Business Model Resilience,4,True
+Food & Beverage,Agricultural Products,Business Model & Innovation,Supply Chain Management,5,True
+Food & Beverage,Agricultural Products,Business Model & Innovation,Materials Sourcing & Efficiency,5,True
+Food & Beverage,Agricultural Products,Business Model & Innovation,Physical Impacts of Climate Change,5,True
+Food & Beverage,Agricultural Products,Leadership & Governance,Business Ethics,4,True
+Food & Beverage,Agricultural Products,Leadership & Governance,Competitive Behavior,3,True
+Food & Beverage,Agricultural Products,Leadership & Governance,Regulatory Environment Management,2,False
+Food & Beverage,Agricultural Products,Leadership & Governance,Critical Incident Risk Management,2,False
+Food & Beverage,Agricultural Products,Leadership & Governance,Systemic Risk Management,4,True
+Food & Beverage,Alcoholic Beverages,Environment,GHG Emissions,4,True
+Food & Beverage,Alcoholic Beverages,Environment,Air Quality,3,True
+Food & Beverage,Alcoholic Beverages,Environment,Energy Management,3,True
+Food & Beverage,Alcoholic Beverages,Environment,Water & Wastewater Management,3,True
+Food & Beverage,Alcoholic Beverages,Environment,Waste & Hazardous Materials,3,True
+Food & Beverage,Alcoholic Beverages,Environment,Ecological Impacts,3,True
+Food & Beverage,Alcoholic Beverages,Social Capital,Human Rights & Community Relations,4,True
+Food & Beverage,Alcoholic Beverages,Social Capital,Customer Privacy,5,True
+Food & Beverage,Alcoholic Beverages,Social Capital,Data Security,5,True
+Food & Beverage,Alcoholic Beverages,Social Capital,Access & Affordability,4,True
+Food & Beverage,Alcoholic Beverages,Social Capital,Product Quality & Safety,5,True
+Food & Beverage,Alcoholic Beverages,Social Capital,Customer Welfare,5,True
+Food & Beverage,Alcoholic Beverages,Social Capital,Selling Practices & Product Labeling,5,True
+Food & Beverage,Alcoholic Beverages,Human Capital,Labor Practices,4,True
+Food & Beverage,Alcoholic Beverages,Human Capital,Employee Health & Safety,2,False
+Food & Beverage,Alcoholic Beverages,Human Capital,Employee Engagement,4,True
+Food & Beverage,Alcoholic Beverages,Human Capital,Diversity & Inclusion,4,True
+Food & Beverage,Alcoholic Beverages,Business Model & Innovation,Product Design & Lifecycle,4,True
+Food & Beverage,Alcoholic Beverages,Business Model & Innovation,Business Model Resilience,4,True
+Food & Beverage,Alcoholic Beverages,Business Model & Innovation,Supply Chain Management,4,True
+Food & Beverage,Alcoholic Beverages,Business Model & Innovation,Materials Sourcing & Efficiency,3,True
+Food & Beverage,Alcoholic Beverages,Business Model & Innovation,Physical Impacts of Climate Change,3,True
+Food & Beverage,Alcoholic Beverages,Leadership & Governance,Business Ethics,4,True
+Food & Beverage,Alcoholic Beverages,Leadership & Governance,Competitive Behavior,4,True
+Food & Beverage,Alcoholic Beverages,Leadership & Governance,Regulatory Environment Management,2,False
+Food & Beverage,Alcoholic Beverages,Leadership & Governance,Critical Incident Risk Management,2,False
+Food & Beverage,Alcoholic Beverages,Leadership & Governance,Systemic Risk Management,3,True
+Food & Beverage,Food Retailers & Distributors,Environment,GHG Emissions,3,True
+Food & Beverage,Food Retailers & Distributors,Environment,Air Quality,3,True
+Food & Beverage,Food Retailers & Distributors,Environment,Energy Management,5,True
+Food & Beverage,Food Retailers & Distributors,Environment,Water & Wastewater Management,5,True
+Food & Beverage,Food Retailers & Distributors,Environment,Waste & Hazardous Materials,4,True
+Food & Beverage,Food Retailers & Distributors,Environment,Ecological Impacts,3,True
+Food & Beverage,Food Retailers & Distributors,Social Capital,Human Rights & Community Relations,5,True
+Food & Beverage,Food Retailers & Distributors,Social Capital,Customer Privacy,4,True
+Food & Beverage,Food Retailers & Distributors,Social Capital,Data Security,4,True
+Food & Beverage,Food Retailers & Distributors,Social Capital,Access & Affordability,5,True
+Food & Beverage,Food Retailers & Distributors,Social Capital,Product Quality & Safety,4,True
+Food & Beverage,Food Retailers & Distributors,Social Capital,Customer Welfare,5,True
+Food & Beverage,Food Retailers & Distributors,Social Capital,Selling Practices & Product Labeling,5,True
+Food & Beverage,Food Retailers & Distributors,Human Capital,Labor Practices,4,True
+Food & Beverage,Food Retailers & Distributors,Human Capital,Employee Health & Safety,4,True
+Food & Beverage,Food Retailers & Distributors,Human Capital,Employee Engagement,4,True
+Food & Beverage,Food Retailers & Distributors,Human Capital,Diversity & Inclusion,3,True
+Food & Beverage,Food Retailers & Distributors,Business Model & Innovation,Product Design & Lifecycle,4,True
+Food & Beverage,Food Retailers & Distributors,Business Model & Innovation,Business Model Resilience,5,True
+Food & Beverage,Food Retailers & Distributors,Business Model & Innovation,Supply Chain Management,5,True
+Food & Beverage,Food Retailers & Distributors,Business Model & Innovation,Materials Sourcing & Efficiency,5,True
+Food & Beverage,Food Retailers & Distributors,Business Model & Innovation,Physical Impacts of Climate Change,4,True
+Food & Beverage,Food Retailers & Distributors,Leadership & Governance,Business Ethics,4,True
+Food & Beverage,Food Retailers & Distributors,Leadership & Governance,Competitive Behavior,3,True
+Food & Beverage,Food Retailers & Distributors,Leadership & Governance,Regulatory Environment Management,2,False
+Food & Beverage,Food Retailers & Distributors,Leadership & Governance,Critical Incident Risk Management,4,True
+Food & Beverage,Food Retailers & Distributors,Leadership & Governance,Systemic Risk Management,3,True
+Food & Beverage,"Meat, Poultry & Dairy",Environment,GHG Emissions,4,True
+Food & Beverage,"Meat, Poultry & Dairy",Environment,Air Quality,4,True
+Food & Beverage,"Meat, Poultry & Dairy",Environment,Energy Management,3,True
+Food & Beverage,"Meat, Poultry & Dairy",Environment,Water & Wastewater Management,5,True
+Food & Beverage,"Meat, Poultry & Dairy",Environment,Waste & Hazardous Materials,4,True
+Food & Beverage,"Meat, Poultry & Dairy",Environment,Ecological Impacts,5,True
+Food & Beverage,"Meat, Poultry & Dairy",Social Capital,Human Rights & Community Relations,5,True
+Food & Beverage,"Meat, Poultry & Dairy",Social Capital,Customer Privacy,5,True
+Food & Beverage,"Meat, Poultry & Dairy",Social Capital,Data Security,4,True
+Food & Beverage,"Meat, Poultry & Dairy",Social Capital,Access & Affordability,5,True
+Food & Beverage,"Meat, Poultry & Dairy",Social Capital,Product Quality & Safety,5,True
+Food & Beverage,"Meat, Poultry & Dairy",Social Capital,Customer Welfare,4,True
+Food & Beverage,"Meat, Poultry & Dairy",Social Capital,Selling Practices & Product Labeling,5,True
+Food & Beverage,"Meat, Poultry & Dairy",Human Capital,Labor Practices,3,True
+Food & Beverage,"Meat, Poultry & Dairy",Human Capital,Employee Health & Safety,2,False
+Food & Beverage,"Meat, Poultry & Dairy",Human Capital,Employee Engagement,3,True
+Food & Beverage,"Meat, Poultry & Dairy",Human Capital,Diversity & Inclusion,3,True
+Food & Beverage,"Meat, Poultry & Dairy",Business Model & Innovation,Product Design & Lifecycle,4,True
+Food & Beverage,"Meat, Poultry & Dairy",Business Model & Innovation,Business Model Resilience,5,True
+Food & Beverage,"Meat, Poultry & Dairy",Business Model & Innovation,Supply Chain Management,3,True
+Food & Beverage,"Meat, Poultry & Dairy",Business Model & Innovation,Materials Sourcing & Efficiency,3,True
+Food & Beverage,"Meat, Poultry & Dairy",Business Model & Innovation,Physical Impacts of Climate Change,3,True
+Food & Beverage,"Meat, Poultry & Dairy",Leadership & Governance,Business Ethics,2,False
+Food & Beverage,"Meat, Poultry & Dairy",Leadership & Governance,Competitive Behavior,3,True
+Food & Beverage,"Meat, Poultry & Dairy",Leadership & Governance,Regulatory Environment Management,4,True
+Food & Beverage,"Meat, Poultry & Dairy",Leadership & Governance,Critical Incident Risk Management,2,False
+Food & Beverage,"Meat, Poultry & Dairy",Leadership & Governance,Systemic Risk Management,4,True
+Food & Beverage,Non-Alcoholic Beverages,Environment,GHG Emissions,3,True
+Food & Beverage,Non-Alcoholic Beverages,Environment,Air Quality,3,True
+Food & Beverage,Non-Alcoholic Beverages,Environment,Energy Management,4,True
+Food & Beverage,Non-Alcoholic Beverages,Environment,Water & Wastewater Management,4,True
+Food & Beverage,Non-Alcoholic Beverages,Environment,Waste & Hazardous Materials,4,True
+Food & Beverage,Non-Alcoholic Beverages,Environment,Ecological Impacts,5,True
+Food & Beverage,Non-Alcoholic Beverages,Social Capital,Human Rights & Community Relations,5,True
+Food & Beverage,Non-Alcoholic Beverages,Social Capital,Customer Privacy,5,True
+Food & Beverage,Non-Alcoholic Beverages,Social Capital,Data Security,4,True
+Food & Beverage,Non-Alcoholic Beverages,Social Capital,Access & Affordability,4,True
+Food & Beverage,Non-Alcoholic Beverages,Social Capital,Product Quality & Safety,5,True
+Food & Beverage,Non-Alcoholic Beverages,Social Capital,Customer Welfare,5,True
+Food & Beverage,Non-Alcoholic Beverages,Social Capital,Selling Practices & Product Labeling,5,True
+Food & Beverage,Non-Alcoholic Beverages,Human Capital,Labor Practices,4,True
+Food & Beverage,Non-Alcoholic Beverages,Human Capital,Employee Health & Safety,2,False
+Food & Beverage,Non-Alcoholic Beverages,Human Capital,Employee Engagement,4,True
+Food & Beverage,Non-Alcoholic Beverages,Human Capital,Diversity & Inclusion,3,True
+Food & Beverage,Non-Alcoholic Beverages,Business Model & Innovation,Product Design & Lifecycle,4,True
+Food & Beverage,Non-Alcoholic Beverages,Business Model & Innovation,Business Model Resilience,3,True
+Food & Beverage,Non-Alcoholic Beverages,Business Model & Innovation,Supply Chain Management,4,True
+Food & Beverage,Non-Alcoholic Beverages,Business Model & Innovation,Materials Sourcing & Efficiency,4,True
+Food & Beverage,Non-Alcoholic Beverages,Business Model & Innovation,Physical Impacts of Climate Change,4,True
+Food & Beverage,Non-Alcoholic Beverages,Leadership & Governance,Business Ethics,3,True
+Food & Beverage,Non-Alcoholic Beverages,Leadership & Governance,Competitive Behavior,4,True
+Food & Beverage,Non-Alcoholic Beverages,Leadership & Governance,Regulatory Environment Management,4,True
+Food & Beverage,Non-Alcoholic Beverages,Leadership & Governance,Critical Incident Risk Management,4,True
+Food & Beverage,Non-Alcoholic Beverages,Leadership & Governance,Systemic Risk Management,4,True
+Food & Beverage,Processed Foods,Environment,GHG Emissions,5,True
+Food & Beverage,Processed Foods,Environment,Air Quality,3,True
+Food & Beverage,Processed Foods,Environment,Energy Management,4,True
+Food & Beverage,Processed Foods,Environment,Water & Wastewater Management,3,True
+Food & Beverage,Processed Foods,Environment,Waste & Hazardous Materials,4,True
+Food & Beverage,Processed Foods,Environment,Ecological Impacts,4,True
+Food & Beverage,Processed Foods,Social Capital,Human Rights & Community Relations,5,True
+Food & Beverage,Processed Foods,Social Capital,Customer Privacy,4,True
+Food & Beverage,Processed Foods,Social Capital,Data Security,5,True
+Food & Beverage,Processed Foods,Social Capital,Access & Affordability,5,True
+Food & Beverage,Processed Foods,Social Capital,Product Quality & Safety,5,True
+Food & Beverage,Processed Foods,Social Capital,Customer Welfare,5,True
+Food & Beverage,Processed Foods,Social Capital,Selling Practices & Product Labeling,5,True
+Food & Beverage,Processed Foods,Human Capital,Labor Practices,4,True
+Food & Beverage,Processed Foods,Human Capital,Employee Health & Safety,2,False
+Food & Beverage,Processed Foods,Human Capital,Employee Engagement,3,True
+Food & Beverage,Processed Foods,Human Capital,Diversity & Inclusion,2,False
+Food & Beverage,Processed Foods,Business Model & Innovation,Product Design & Lifecycle,5,True
+Food & Beverage,Processed Foods,Business Model & Innovation,Business Model Resilience,5,True
+Food & Beverage,Processed Foods,Business Model & Innovation,Supply Chain Management,3,True
+Food & Beverage,Processed Foods,Business Model & Innovation,Materials Sourcing & Efficiency,4,True
+Food & Beverage,Processed Foods,Business Model & Innovation,Physical Impacts of Climate Change,5,True
+Food & Beverage,Processed Foods,Leadership & Governance,Business Ethics,4,True
+Food & Beverage,Processed Foods,Leadership & Governance,Competitive Behavior,4,True
+Food & Beverage,Processed Foods,Leadership & Governance,Regulatory Environment Management,2,False
+Food & Beverage,Processed Foods,Leadership & Governance,Critical Incident Risk Management,2,False
+Food & Beverage,Processed Foods,Leadership & Governance,Systemic Risk Management,4,True
+Food & Beverage,Restaurants,Environment,GHG Emissions,4,True
+Food & Beverage,Restaurants,Environment,Air Quality,3,True
+Food & Beverage,Restaurants,Environment,Energy Management,4,True
+Food & Beverage,Restaurants,Environment,Water & Wastewater Management,3,True
+Food & Beverage,Restaurants,Environment,Waste & Hazardous Materials,3,True
+Food & Beverage,Restaurants,Environment,Ecological Impacts,4,True
+Food & Beverage,Restaurants,Social Capital,Human Rights & Community Relations,5,True
+Food & Beverage,Restaurants,Social Capital,Customer Privacy,5,True
+Food & Beverage,Restaurants,Social Capital,Data Security,4,True
+Food & Beverage,Restaurants,Social Capital,Access & Affordability,5,True
+Food & Beverage,Restaurants,Social Capital,Product Quality & Safety,5,True
+Food & Beverage,Restaurants,Social Capital,Customer Welfare,5,True
+Food & Beverage,Restaurants,Social Capital,Selling Practices & Product Labeling,5,True
+Food & Beverage,Restaurants,Human Capital,Labor Practices,3,True
+Food & Beverage,Restaurants,Human Capital,Employee Health & Safety,3,True
+Food & Beverage,Restaurants,Human Capital,Employee Engagement,3,True
+Food & Beverage,Restaurants,Human Capital,Diversity & Inclusion,2,False
+Food & Beverage,Restaurants,Business Model & Innovation,Product Design & Lifecycle,4,True
+Food & Beverage,Restaurants,Business Model & Innovation,Business Model Resilience,3,True
+Food & Beverage,Restaurants,Business Model & Innovation,Supply Chain Management,5,True
+Food & Beverage,Restaurants,Business Model & Innovation,Materials Sourcing & Efficiency,5,True
+Food & Beverage,Restaurants,Business Model & Innovation,Physical Impacts of Climate Change,3,True
+Food & Beverage,Restaurants,Leadership & Governance,Business Ethics,3,True
+Food & Beverage,Restaurants,Leadership & Governance,Competitive Behavior,2,False
+Food & Beverage,Restaurants,Leadership & Governance,Regulatory Environment Management,4,True
+Food & Beverage,Restaurants,Leadership & Governance,Critical Incident Risk Management,2,False
+Food & Beverage,Restaurants,Leadership & Governance,Systemic Risk Management,4,True
+Food & Beverage,Tobacco,Environment,GHG Emissions,3,True
+Food & Beverage,Tobacco,Environment,Air Quality,3,True
+Food & Beverage,Tobacco,Environment,Energy Management,3,True
+Food & Beverage,Tobacco,Environment,Water & Wastewater Management,3,True
+Food & Beverage,Tobacco,Environment,Waste & Hazardous Materials,3,True
+Food & Beverage,Tobacco,Environment,Ecological Impacts,5,True
+Food & Beverage,Tobacco,Social Capital,Human Rights & Community Relations,4,True
+Food & Beverage,Tobacco,Social Capital,Customer Privacy,4,True
+Food & Beverage,Tobacco,Social Capital,Data Security,4,True
+Food & Beverage,Tobacco,Social Capital,Access & Affordability,5,True
+Food & Beverage,Tobacco,Social Capital,Product Quality & Safety,5,True
+Food & Beverage,Tobacco,Social Capital,Customer Welfare,4,True
+Food & Beverage,Tobacco,Social Capital,Selling Practices & Product Labeling,5,True
+Food & Beverage,Tobacco,Human Capital,Labor Practices,2,False
+Food & Beverage,Tobacco,Human Capital,Employee Health & Safety,3,True
+Food & Beverage,Tobacco,Human Capital,Employee Engagement,4,True
+Food & Beverage,Tobacco,Human Capital,Diversity & Inclusion,3,True
+Food & Beverage,Tobacco,Business Model & Innovation,Product Design & Lifecycle,4,True
+Food & Beverage,Tobacco,Business Model & Innovation,Business Model Resilience,3,True
+Food & Beverage,Tobacco,Business Model & Innovation,Supply Chain Management,5,True
+Food & Beverage,Tobacco,Business Model & Innovation,Materials Sourcing & Efficiency,5,True
+Food & Beverage,Tobacco,Business Model & Innovation,Physical Impacts of Climate Change,5,True
+Food & Beverage,Tobacco,Leadership & Governance,Business Ethics,4,True
+Food & Beverage,Tobacco,Leadership & Governance,Competitive Behavior,2,False
+Food & Beverage,Tobacco,Leadership & Governance,Regulatory Environment Management,2,False
+Food & Beverage,Tobacco,Leadership & Governance,Critical Incident Risk Management,3,True
+Food & Beverage,Tobacco,Leadership & Governance,Systemic Risk Management,2,False
+Health Care,Biotechnology & Pharmaceuticals,Environment,GHG Emissions,3,True
+Health Care,Biotechnology & Pharmaceuticals,Environment,Air Quality,1,False
+Health Care,Biotechnology & Pharmaceuticals,Environment,Energy Management,2,False
+Health Care,Biotechnology & Pharmaceuticals,Environment,Water & Wastewater Management,3,True
+Health Care,Biotechnology & Pharmaceuticals,Environment,Waste & Hazardous Materials,3,True
+Health Care,Biotechnology & Pharmaceuticals,Environment,Ecological Impacts,2,False
+Health Care,Biotechnology & Pharmaceuticals,Social Capital,Human Rights & Community Relations,5,True
+Health Care,Biotechnology & Pharmaceuticals,Social Capital,Customer Privacy,5,True
+Health Care,Biotechnology & Pharmaceuticals,Social Capital,Data Security,4,True
+Health Care,Biotechnology & Pharmaceuticals,Social Capital,Access & Affordability,4,True
+Health Care,Biotechnology & Pharmaceuticals,Social Capital,Product Quality & Safety,5,True
+Health Care,Biotechnology & Pharmaceuticals,Social Capital,Customer Welfare,5,True
+Health Care,Biotechnology & Pharmaceuticals,Social Capital,Selling Practices & Product Labeling,5,True
+Health Care,Biotechnology & Pharmaceuticals,Human Capital,Labor Practices,2,False
+Health Care,Biotechnology & Pharmaceuticals,Human Capital,Employee Health & Safety,2,False
+Health Care,Biotechnology & Pharmaceuticals,Human Capital,Employee Engagement,4,True
+Health Care,Biotechnology & Pharmaceuticals,Human Capital,Diversity & Inclusion,3,True
+Health Care,Biotechnology & Pharmaceuticals,Business Model & Innovation,Product Design & Lifecycle,5,True
+Health Care,Biotechnology & Pharmaceuticals,Business Model & Innovation,Business Model Resilience,5,True
+Health Care,Biotechnology & Pharmaceuticals,Business Model & Innovation,Supply Chain Management,3,True
+Health Care,Biotechnology & Pharmaceuticals,Business Model & Innovation,Materials Sourcing & Efficiency,5,True
+Health Care,Biotechnology & Pharmaceuticals,Business Model & Innovation,Physical Impacts of Climate Change,3,True
+Health Care,Biotechnology & Pharmaceuticals,Leadership & Governance,Business Ethics,5,True
+Health Care,Biotechnology & Pharmaceuticals,Leadership & Governance,Competitive Behavior,5,True
+Health Care,Biotechnology & Pharmaceuticals,Leadership & Governance,Regulatory Environment Management,5,True
+Health Care,Biotechnology & Pharmaceuticals,Leadership & Governance,Critical Incident Risk Management,5,True
+Health Care,Biotechnology & Pharmaceuticals,Leadership & Governance,Systemic Risk Management,5,True
+Health Care,Drug Retailers,Environment,GHG Emissions,1,False
+Health Care,Drug Retailers,Environment,Air Quality,3,True
+Health Care,Drug Retailers,Environment,Energy Management,3,True
+Health Care,Drug Retailers,Environment,Water & Wastewater Management,2,False
+Health Care,Drug Retailers,Environment,Waste & Hazardous Materials,1,False
+Health Care,Drug Retailers,Environment,Ecological Impacts,2,False
+Health Care,Drug Retailers,Social Capital,Human Rights & Community Relations,5,True
+Health Care,Drug Retailers,Social Capital,Customer Privacy,4,True
+Health Care,Drug Retailers,Social Capital,Data Security,5,True
+Health Care,Drug Retailers,Social Capital,Access & Affordability,5,True
+Health Care,Drug Retailers,Social Capital,Product Quality & Safety,5,True
+Health Care,Drug Retailers,Social Capital,Customer Welfare,5,True
+Health Care,Drug Retailers,Social Capital,Selling Practices & Product Labeling,5,True
+Health Care,Drug Retailers,Human Capital,Labor Practices,2,False
+Health Care,Drug Retailers,Human Capital,Employee Health & Safety,3,True
+Health Care,Drug Retailers,Human Capital,Employee Engagement,2,False
+Health Care,Drug Retailers,Human Capital,Diversity & Inclusion,4,True
+Health Care,Drug Retailers,Business Model & Innovation,Product Design & Lifecycle,5,True
+Health Care,Drug Retailers,Business Model & Innovation,Business Model Resilience,5,True
+Health Care,Drug Retailers,Business Model & Innovation,Supply Chain Management,4,True
+Health Care,Drug Retailers,Business Model & Innovation,Materials Sourcing & Efficiency,5,True
+Health Care,Drug Retailers,Business Model & Innovation,Physical Impacts of Climate Change,5,True
+Health Care,Drug Retailers,Leadership & Governance,Business Ethics,5,True
+Health Care,Drug Retailers,Leadership & Governance,Competitive Behavior,5,True
+Health Care,Drug Retailers,Leadership & Governance,Regulatory Environment Management,5,True
+Health Care,Drug Retailers,Leadership & Governance,Critical Incident Risk Management,5,True
+Health Care,Drug Retailers,Leadership & Governance,Systemic Risk Management,5,True
+Health Care,Health Care Delivery,Environment,GHG Emissions,2,False
+Health Care,Health Care Delivery,Environment,Air Quality,2,False
+Health Care,Health Care Delivery,Environment,Energy Management,1,False
+Health Care,Health Care Delivery,Environment,Water & Wastewater Management,1,False
+Health Care,Health Care Delivery,Environment,Waste & Hazardous Materials,2,False
+Health Care,Health Care Delivery,Environment,Ecological Impacts,2,False
+Health Care,Health Care Delivery,Social Capital,Human Rights & Community Relations,4,True
+Health Care,Health Care Delivery,Social Capital,Customer Privacy,5,True
+Health Care,Health Care Delivery,Social Capital,Data Security,5,True
+Health Care,Health Care Delivery,Social Capital,Access & Affordability,5,True
+Health Care,Health Care Delivery,Social Capital,Product Quality & Safety,5,True
+Health Care,Health Care Delivery,Social Capital,Customer Welfare,5,True
+Health Care,Health Care Delivery,Social Capital,Selling Practices & Product Labeling,5,True
+Health Care,Health Care Delivery,Human Capital,Labor Practices,2,False
+Health Care,Health Care Delivery,Human Capital,Employee Health & Safety,3,True
+Health Care,Health Care Delivery,Human Capital,Employee Engagement,3,True
+Health Care,Health Care Delivery,Human Capital,Diversity & Inclusion,2,False
+Health Care,Health Care Delivery,Business Model & Innovation,Product Design & Lifecycle,4,True
+Health Care,Health Care Delivery,Business Model & Innovation,Business Model Resilience,3,True
+Health Care,Health Care Delivery,Business Model & Innovation,Supply Chain Management,4,True
+Health Care,Health Care Delivery,Business Model & Innovation,Materials Sourcing & Efficiency,4,True
+Health Care,Health Care Delivery,Business Model & Innovation,Physical Impacts of Climate Change,4,True
+Health Care,Health Care Delivery,Leadership & Governance,Business Ethics,5,True
+Health Care,Health Care Delivery,Leadership & Governance,Competitive Behavior,5,True
+Health Care,Health Care Delivery,Leadership & Governance,Regulatory Environment Management,5,True
+Health Care,Health Care Delivery,Leadership & Governance,Critical Incident Risk Management,5,True
+Health Care,Health Care Delivery,Leadership & Governance,Systemic Risk Management,5,True
+Health Care,Health Care Distributors,Environment,GHG Emissions,1,False
+Health Care,Health Care Distributors,Environment,Air Quality,3,True
+Health Care,Health Care Distributors,Environment,Energy Management,1,False
+Health Care,Health Care Distributors,Environment,Water & Wastewater Management,1,False
+Health Care,Health Care Distributors,Environment,Waste & Hazardous Materials,1,False
+Health Care,Health Care Distributors,Environment,Ecological Impacts,3,True
+Health Care,Health Care Distributors,Social Capital,Human Rights & Community Relations,5,True
+Health Care,Health Care Distributors,Social Capital,Customer Privacy,5,True
+Health Care,Health Care Distributors,Social Capital,Data Security,5,True
+Health Care,Health Care Distributors,Social Capital,Access & Affordability,4,True
+Health Care,Health Care Distributors,Social Capital,Product Quality & Safety,5,True
+Health Care,Health Care Distributors,Social Capital,Customer Welfare,5,True
+Health Care,Health Care Distributors,Social Capital,Selling Practices & Product Labeling,5,True
+Health Care,Health Care Distributors,Human Capital,Labor Practices,4,True
+Health Care,Health Care Distributors,Human Capital,Employee Health & Safety,3,True
+Health Care,Health Care Distributors,Human Capital,Employee Engagement,3,True
+Health Care,Health Care Distributors,Human Capital,Diversity & Inclusion,2,False
+Health Care,Health Care Distributors,Business Model & Innovation,Product Design & Lifecycle,3,True
+Health Care,Health Care Distributors,Business Model & Innovation,Business Model Resilience,4,True
+Health Care,Health Care Distributors,Business Model & Innovation,Supply Chain Management,3,True
+Health Care,Health Care Distributors,Business Model & Innovation,Materials Sourcing & Efficiency,4,True
+Health Care,Health Care Distributors,Business Model & Innovation,Physical Impacts of Climate Change,5,True
+Health Care,Health Care Distributors,Leadership & Governance,Business Ethics,4,True
+Health Care,Health Care Distributors,Leadership & Governance,Competitive Behavior,5,True
+Health Care,Health Care Distributors,Leadership & Governance,Regulatory Environment Management,5,True
+Health Care,Health Care Distributors,Leadership & Governance,Critical Incident Risk Management,5,True
+Health Care,Health Care Distributors,Leadership & Governance,Systemic Risk Management,5,True
+Health Care,Managed Care,Environment,GHG Emissions,2,False
+Health Care,Managed Care,Environment,Air Quality,3,True
+Health Care,Managed Care,Environment,Energy Management,3,True
+Health Care,Managed Care,Environment,Water & Wastewater Management,2,False
+Health Care,Managed Care,Environment,Waste & Hazardous Materials,2,False
+Health Care,Managed Care,Environment,Ecological Impacts,3,True
+Health Care,Managed Care,Social Capital,Human Rights & Community Relations,5,True
+Health Care,Managed Care,Social Capital,Customer Privacy,5,True
+Health Care,Managed Care,Social Capital,Data Security,5,True
+Health Care,Managed Care,Social Capital,Access & Affordability,5,True
+Health Care,Managed Care,Social Capital,Product Quality & Safety,5,True
+Health Care,Managed Care,Social Capital,Customer Welfare,5,True
+Health Care,Managed Care,Social Capital,Selling Practices & Product Labeling,5,True
+Health Care,Managed Care,Human Capital,Labor Practices,3,True
+Health Care,Managed Care,Human Capital,Employee Health & Safety,2,False
+Health Care,Managed Care,Human Capital,Employee Engagement,2,False
+Health Care,Managed Care,Human Capital,Diversity & Inclusion,4,True
+Health Care,Managed Care,Business Model & Innovation,Product Design & Lifecycle,3,True
+Health Care,Managed Care,Business Model & Innovation,Business Model Resilience,4,True
+Health Care,Managed Care,Business Model & Innovation,Supply Chain Management,3,True
+Health Care,Managed Care,Business Model & Innovation,Materials Sourcing & Efficiency,5,True
+Health Care,Managed Care,Business Model & Innovation,Physical Impacts of Climate Change,5,True
+Health Care,Managed Care,Leadership & Governance,Business Ethics,5,True
+Health Care,Managed Care,Leadership & Governance,Competitive Behavior,4,True
+Health Care,Managed Care,Leadership & Governance,Regulatory Environment Management,4,True
+Health Care,Managed Care,Leadership & Governance,Critical Incident Risk Management,4,True
+Health Care,Managed Care,Leadership & Governance,Systemic Risk Management,5,True
+Health Care,Medical Equipment & Supplies,Environment,GHG Emissions,2,False
+Health Care,Medical Equipment & Supplies,Environment,Air Quality,2,False
+Health Care,Medical Equipment & Supplies,Environment,Energy Management,3,True
+Health Care,Medical Equipment & Supplies,Environment,Water & Wastewater Management,3,True
+Health Care,Medical Equipment & Supplies,Environment,Waste & Hazardous Materials,3,True
+Health Care,Medical Equipment & Supplies,Environment,Ecological Impacts,3,True
+Health Care,Medical Equipment & Supplies,Social Capital,Human Rights & Community Relations,5,True
+Health Care,Medical Equipment & Supplies,Social Capital,Customer Privacy,4,True
+Health Care,Medical Equipment & Supplies,Social Capital,Data Security,4,True
+Health Care,Medical Equipment & Supplies,Social Capital,Access & Affordability,5,True
+Health Care,Medical Equipment & Supplies,Social Capital,Product Quality & Safety,4,True
+Health Care,Medical Equipment & Supplies,Social Capital,Customer Welfare,5,True
+Health Care,Medical Equipment & Supplies,Social Capital,Selling Practices & Product Labeling,4,True
+Health Care,Medical Equipment & Supplies,Human Capital,Labor Practices,3,True
+Health Care,Medical Equipment & Supplies,Human Capital,Employee Health & Safety,2,False
+Health Care,Medical Equipment & Supplies,Human Capital,Employee Engagement,4,True
+Health Care,Medical Equipment & Supplies,Human Capital,Diversity & Inclusion,4,True
+Health Care,Medical Equipment & Supplies,Business Model & Innovation,Product Design & Lifecycle,3,True
+Health Care,Medical Equipment & Supplies,Business Model & Innovation,Business Model Resilience,4,True
+Health Care,Medical Equipment & Supplies,Business Model & Innovation,Supply Chain Management,3,True
+Health Care,Medical Equipment & Supplies,Business Model & Innovation,Materials Sourcing & Efficiency,3,True
+Health Care,Medical Equipment & Supplies,Business Model & Innovation,Physical Impacts of Climate Change,5,True
+Health Care,Medical Equipment & Supplies,Leadership & Governance,Business Ethics,5,True
+Health Care,Medical Equipment & Supplies,Leadership & Governance,Competitive Behavior,5,True
+Health Care,Medical Equipment & Supplies,Leadership & Governance,Regulatory Environment Management,4,True
+Health Care,Medical Equipment & Supplies,Leadership & Governance,Critical Incident Risk Management,5,True
+Health Care,Medical Equipment & Supplies,Leadership & Governance,Systemic Risk Management,5,True
+Infrastructure,Electric Utilities & Power Generators,Environment,GHG Emissions,4,True
+Infrastructure,Electric Utilities & Power Generators,Environment,Air Quality,4,True
+Infrastructure,Electric Utilities & Power Generators,Environment,Energy Management,5,True
+Infrastructure,Electric Utilities & Power Generators,Environment,Water & Wastewater Management,5,True
+Infrastructure,Electric Utilities & Power Generators,Environment,Waste & Hazardous Materials,5,True
+Infrastructure,Electric Utilities & Power Generators,Environment,Ecological Impacts,5,True
+Infrastructure,Electric Utilities & Power Generators,Social Capital,Human Rights & Community Relations,3,True
+Infrastructure,Electric Utilities & Power Generators,Social Capital,Customer Privacy,3,True
+Infrastructure,Electric Utilities & Power Generators,Social Capital,Data Security,2,False
+Infrastructure,Electric Utilities & Power Generators,Social Capital,Access & Affordability,2,False
+Infrastructure,Electric Utilities & Power Generators,Social Capital,Product Quality & Safety,3,True
+Infrastructure,Electric Utilities & Power Generators,Social Capital,Customer Welfare,3,True
+Infrastructure,Electric Utilities & Power Generators,Social Capital,Selling Practices & Product Labeling,2,False
+Infrastructure,Electric Utilities & Power Generators,Human Capital,Labor Practices,3,True
+Infrastructure,Electric Utilities & Power Generators,Human Capital,Employee Health & Safety,4,True
+Infrastructure,Electric Utilities & Power Generators,Human Capital,Employee Engagement,4,True
+Infrastructure,Electric Utilities & Power Generators,Human Capital,Diversity & Inclusion,3,True
+Infrastructure,Electric Utilities & Power Generators,Business Model & Innovation,Product Design & Lifecycle,4,True
+Infrastructure,Electric Utilities & Power Generators,Business Model & Innovation,Business Model Resilience,4,True
+Infrastructure,Electric Utilities & Power Generators,Business Model & Innovation,Supply Chain Management,4,True
+Infrastructure,Electric Utilities & Power Generators,Business Model & Innovation,Materials Sourcing & Efficiency,2,False
+Infrastructure,Electric Utilities & Power Generators,Business Model & Innovation,Physical Impacts of Climate Change,2,False
+Infrastructure,Electric Utilities & Power Generators,Leadership & Governance,Business Ethics,3,True
+Infrastructure,Electric Utilities & Power Generators,Leadership & Governance,Competitive Behavior,5,True
+Infrastructure,Electric Utilities & Power Generators,Leadership & Governance,Regulatory Environment Management,4,True
+Infrastructure,Electric Utilities & Power Generators,Leadership & Governance,Critical Incident Risk Management,3,True
+Infrastructure,Electric Utilities & Power Generators,Leadership & Governance,Systemic Risk Management,3,True
+Infrastructure,Engineering & Construction,Environment,GHG Emissions,4,True
+Infrastructure,Engineering & Construction,Environment,Air Quality,5,True
+Infrastructure,Engineering & Construction,Environment,Energy Management,5,True
+Infrastructure,Engineering & Construction,Environment,Water & Wastewater Management,5,True
+Infrastructure,Engineering & Construction,Environment,Waste & Hazardous Materials,5,True
+Infrastructure,Engineering & Construction,Environment,Ecological Impacts,5,True
+Infrastructure,Engineering & Construction,Social Capital,Human Rights & Community Relations,2,False
+Infrastructure,Engineering & Construction,Social Capital,Customer Privacy,4,True
+Infrastructure,Engineering & Construction,Social Capital,Data Security,3,True
+Infrastructure,Engineering & Construction,Social Capital,Access & Affordability,3,True
+Infrastructure,Engineering & Construction,Social Capital,Product Quality & Safety,3,True
+Infrastructure,Engineering & Construction,Social Capital,Customer Welfare,3,True
+Infrastructure,Engineering & Construction,Social Capital,Selling Practices & Product Labeling,4,True
+Infrastructure,Engineering & Construction,Human Capital,Labor Practices,4,True
+Infrastructure,Engineering & Construction,Human Capital,Employee Health & Safety,4,True
+Infrastructure,Engineering & Construction,Human Capital,Employee Engagement,5,True
+Infrastructure,Engineering & Construction,Human Capital,Diversity & Inclusion,5,True
+Infrastructure,Engineering & Construction,Business Model & Innovation,Product Design & Lifecycle,2,False
+Infrastructure,Engineering & Construction,Business Model & Innovation,Business Model Resilience,4,True
+Infrastructure,Engineering & Construction,Business Model & Innovation,Supply Chain Management,4,True
+Infrastructure,Engineering & Construction,Business Model & Innovation,Materials Sourcing & Efficiency,2,False
+Infrastructure,Engineering & Construction,Business Model & Innovation,Physical Impacts of Climate Change,2,False
+Infrastructure,Engineering & Construction,Leadership & Governance,Business Ethics,5,True
+Infrastructure,Engineering & Construction,Leadership & Governance,Competitive Behavior,3,True
+Infrastructure,Engineering & Construction,Leadership & Governance,Regulatory Environment Management,4,True
+Infrastructure,Engineering & Construction,Leadership & Governance,Critical Incident Risk Management,5,True
+Infrastructure,Engineering & Construction,Leadership & Governance,Systemic Risk Management,3,True
+Infrastructure,Gas Utilities & Distributors,Environment,GHG Emissions,4,True
+Infrastructure,Gas Utilities & Distributors,Environment,Air Quality,4,True
+Infrastructure,Gas Utilities & Distributors,Environment,Energy Management,4,True
+Infrastructure,Gas Utilities & Distributors,Environment,Water & Wastewater Management,5,True
+Infrastructure,Gas Utilities & Distributors,Environment,Waste & Hazardous Materials,4,True
+Infrastructure,Gas Utilities & Distributors,Environment,Ecological Impacts,4,True
+Infrastructure,Gas Utilities & Distributors,Social Capital,Human Rights & Community Relations,2,False
+Infrastructure,Gas Utilities & Distributors,Social Capital,Customer Privacy,3,True
+Infrastructure,Gas Utilities & Distributors,Social Capital,Data Security,3,True
+Infrastructure,Gas Utilities & Distributors,Social Capital,Access & Affordability,4,True
+Infrastructure,Gas Utilities & Distributors,Social Capital,Product Quality & Safety,4,True
+Infrastructure,Gas Utilities & Distributors,Social Capital,Customer Welfare,3,True
+Infrastructure,Gas Utilities & Distributors,Social Capital,Selling Practices & Product Labeling,3,True
+Infrastructure,Gas Utilities & Distributors,Human Capital,Labor Practices,3,True
+Infrastructure,Gas Utilities & Distributors,Human Capital,Employee Health & Safety,3,True
+Infrastructure,Gas Utilities & Distributors,Human Capital,Employee Engagement,4,True
+Infrastructure,Gas Utilities & Distributors,Human Capital,Diversity & Inclusion,5,True
+Infrastructure,Gas Utilities & Distributors,Business Model & Innovation,Product Design & Lifecycle,3,True
+Infrastructure,Gas Utilities & Distributors,Business Model & Innovation,Business Model Resilience,4,True
+Infrastructure,Gas Utilities & Distributors,Business Model & Innovation,Supply Chain Management,3,True
+Infrastructure,Gas Utilities & Distributors,Business Model & Innovation,Materials Sourcing & Efficiency,2,False
+Infrastructure,Gas Utilities & Distributors,Business Model & Innovation,Physical Impacts of Climate Change,4,True
+Infrastructure,Gas Utilities & Distributors,Leadership & Governance,Business Ethics,3,True
+Infrastructure,Gas Utilities & Distributors,Leadership & Governance,Competitive Behavior,4,True
+Infrastructure,Gas Utilities & Distributors,Leadership & Governance,Regulatory Environment Management,5,True
+Infrastructure,Gas Utilities & Distributors,Leadership & Governance,Critical Incident Risk Management,5,True
+Infrastructure,Gas Utilities & Distributors,Leadership & Governance,Systemic Risk Management,5,True
+Infrastructure,Home Builders,Environment,GHG Emissions,4,True
+Infrastructure,Home Builders,Environment,Air Quality,5,True
+Infrastructure,Home Builders,Environment,Energy Management,4,True
+Infrastructure,Home Builders,Environment,Water & Wastewater Management,5,True
+Infrastructure,Home Builders,Environment,Waste & Hazardous Materials,4,True
+Infrastructure,Home Builders,Environment,Ecological Impacts,5,True
+Infrastructure,Home Builders,Social Capital,Human Rights & Community Relations,2,False
+Infrastructure,Home Builders,Social Capital,Customer Privacy,3,True
+Infrastructure,Home Builders,Social Capital,Data Security,2,False
+Infrastructure,Home Builders,Social Capital,Access & Affordability,2,False
+Infrastructure,Home Builders,Social Capital,Product Quality & Safety,2,False
+Infrastructure,Home Builders,Social Capital,Customer Welfare,2,False
+Infrastructure,Home Builders,Social Capital,Selling Practices & Product Labeling,3,True
+Infrastructure,Home Builders,Human Capital,Labor Practices,5,True
+Infrastructure,Home Builders,Human Capital,Employee Health & Safety,5,True
+Infrastructure,Home Builders,Human Capital,Employee Engagement,5,True
+Infrastructure,Home Builders,Human Capital,Diversity & Inclusion,4,True
+Infrastructure,Home Builders,Business Model & Innovation,Product Design & Lifecycle,3,True
+Infrastructure,Home Builders,Business Model & Innovation,Business Model Resilience,2,False
+Infrastructure,Home Builders,Business Model & Innovation,Supply Chain Management,3,True
+Infrastructure,Home Builders,Business Model & Innovation,Materials Sourcing & Efficiency,4,True
+Infrastructure,Home Builders,Business Model & Innovation,Physical Impacts of Climate Change,3,True
+Infrastructure,Home Builders,Leadership & Governance,Business Ethics,5,True
+Infrastructure,Home Builders,Leadership & Governance,Competitive Behavior,4,True
+Infrastructure,Home Builders,Leadership & Governance,Regulatory Environment Management,4,True
+Infrastructure,Home Builders,Leadership & Governance,Critical Incident Risk Management,5,True
+Infrastructure,Home Builders,Leadership & Governance,Systemic Risk Management,5,True
+Infrastructure,Real Estate,Environment,GHG Emissions,5,True
+Infrastructure,Real Estate,Environment,Air Quality,5,True
+Infrastructure,Real Estate,Environment,Energy Management,4,True
+Infrastructure,Real Estate,Environment,Water & Wastewater Management,5,True
+Infrastructure,Real Estate,Environment,Waste & Hazardous Materials,4,True
+Infrastructure,Real Estate,Environment,Ecological Impacts,5,True
+Infrastructure,Real Estate,Social Capital,Human Rights & Community Relations,4,True
+Infrastructure,Real Estate,Social Capital,Customer Privacy,3,True
+Infrastructure,Real Estate,Social Capital,Data Security,4,True
+Infrastructure,Real Estate,Social Capital,Access & Affordability,3,True
+Infrastructure,Real Estate,Social Capital,Product Quality & Safety,2,False
+Infrastructure,Real Estate,Social Capital,Customer Welfare,2,False
+Infrastructure,Real Estate,Social Capital,Selling Practices & Product Labeling,2,False
+Infrastructure,Real Estate,Human Capital,Labor Practices,5,True
+Infrastructure,Real Estate,Human Capital,Employee Health & Safety,5,True
+Infrastructure,Real Estate,Human Capital,Employee Engagement,5,True
+Infrastructure,Real Estate,Human Capital,Diversity & Inclusion,3,True
+Infrastructure,Real Estate,Business Model & Innovation,Product Design & Lifecycle,4,True
+Infrastructure,Real Estate,Business Model & Innovation,Business Model Resilience,3,True
+Infrastructure,Real Estate,Business Model & Innovation,Supply Chain Management,4,True
+Infrastructure,Real Estate,Business Model & Innovation,Materials Sourcing & Efficiency,2,False
+Infrastructure,Real Estate,Business Model & Innovation,Physical Impacts of Climate Change,2,False
+Infrastructure,Real Estate,Leadership & Governance,Business Ethics,4,True
+Infrastructure,Real Estate,Leadership & Governance,Competitive Behavior,5,True
+Infrastructure,Real Estate,Leadership & Governance,Regulatory Environment Management,5,True
+Infrastructure,Real Estate,Leadership & Governance,Critical Incident Risk Management,4,True
+Infrastructure,Real Estate,Leadership & Governance,Systemic Risk Management,4,True
+Infrastructure,Real Estate Services,Environment,GHG Emissions,4,True
+Infrastructure,Real Estate Services,Environment,Air Quality,5,True
+Infrastructure,Real Estate Services,Environment,Energy Management,5,True
+Infrastructure,Real Estate Services,Environment,Water & Wastewater Management,5,True
+Infrastructure,Real Estate Services,Environment,Waste & Hazardous Materials,5,True
+Infrastructure,Real Estate Services,Environment,Ecological Impacts,4,True
+Infrastructure,Real Estate Services,Social Capital,Human Rights & Community Relations,3,True
+Infrastructure,Real Estate Services,Social Capital,Customer Privacy,3,True
+Infrastructure,Real Estate Services,Social Capital,Data Security,3,True
+Infrastructure,Real Estate Services,Social Capital,Access & Affordability,3,True
+Infrastructure,Real Estate Services,Social Capital,Product Quality & Safety,3,True
+Infrastructure,Real Estate Services,Social Capital,Customer Welfare,4,True
+Infrastructure,Real Estate Services,Social Capital,Selling Practices & Product Labeling,2,False
+Infrastructure,Real Estate Services,Human Capital,Labor Practices,3,True
+Infrastructure,Real Estate Services,Human Capital,Employee Health & Safety,4,True
+Infrastructure,Real Estate Services,Human Capital,Employee Engagement,4,True
+Infrastructure,Real Estate Services,Human Capital,Diversity & Inclusion,5,True
+Infrastructure,Real Estate Services,Business Model & Innovation,Product Design & Lifecycle,3,True
+Infrastructure,Real Estate Services,Business Model & Innovation,Business Model Resilience,3,True
+Infrastructure,Real Estate Services,Business Model & Innovation,Supply Chain Management,4,True
+Infrastructure,Real Estate Services,Business Model & Innovation,Materials Sourcing & Efficiency,3,True
+Infrastructure,Real Estate Services,Business Model & Innovation,Physical Impacts of Climate Change,4,True
+Infrastructure,Real Estate Services,Leadership & Governance,Business Ethics,3,True
+Infrastructure,Real Estate Services,Leadership & Governance,Competitive Behavior,4,True
+Infrastructure,Real Estate Services,Leadership & Governance,Regulatory Environment Management,3,True
+Infrastructure,Real Estate Services,Leadership & Governance,Critical Incident Risk Management,4,True
+Infrastructure,Real Estate Services,Leadership & Governance,Systemic Risk Management,4,True
+Infrastructure,Waste Management,Environment,GHG Emissions,5,True
+Infrastructure,Waste Management,Environment,Air Quality,4,True
+Infrastructure,Waste Management,Environment,Energy Management,5,True
+Infrastructure,Waste Management,Environment,Water & Wastewater Management,5,True
+Infrastructure,Waste Management,Environment,Waste & Hazardous Materials,4,True
+Infrastructure,Waste Management,Environment,Ecological Impacts,5,True
+Infrastructure,Waste Management,Social Capital,Human Rights & Community Relations,4,True
+Infrastructure,Waste Management,Social Capital,Customer Privacy,3,True
+Infrastructure,Waste Management,Social Capital,Data Security,3,True
+Infrastructure,Waste Management,Social Capital,Access & Affordability,2,False
+Infrastructure,Waste Management,Social Capital,Product Quality & Safety,2,False
+Infrastructure,Waste Management,Social Capital,Customer Welfare,4,True
+Infrastructure,Waste Management,Social Capital,Selling Practices & Product Labeling,3,True
+Infrastructure,Waste Management,Human Capital,Labor Practices,5,True
+Infrastructure,Waste Management,Human Capital,Employee Health & Safety,4,True
+Infrastructure,Waste Management,Human Capital,Employee Engagement,5,True
+Infrastructure,Waste Management,Human Capital,Diversity & Inclusion,4,True
+Infrastructure,Waste Management,Business Model & Innovation,Product Design & Lifecycle,2,False
+Infrastructure,Waste Management,Business Model & Innovation,Business Model Resilience,2,False
+Infrastructure,Waste Management,Business Model & Innovation,Supply Chain Management,3,True
+Infrastructure,Waste Management,Business Model & Innovation,Materials Sourcing & Efficiency,4,True
+Infrastructure,Waste Management,Business Model & Innovation,Physical Impacts of Climate Change,2,False
+Infrastructure,Waste Management,Leadership & Governance,Business Ethics,4,True
+Infrastructure,Waste Management,Leadership & Governance,Competitive Behavior,4,True
+Infrastructure,Waste Management,Leadership & Governance,Regulatory Environment Management,5,True
+Infrastructure,Waste Management,Leadership & Governance,Critical Incident Risk Management,4,True
+Infrastructure,Waste Management,Leadership & Governance,Systemic Risk Management,3,True
+Infrastructure,Water Utilities & Services,Environment,GHG Emissions,4,True
+Infrastructure,Water Utilities & Services,Environment,Air Quality,5,True
+Infrastructure,Water Utilities & Services,Environment,Energy Management,5,True
+Infrastructure,Water Utilities & Services,Environment,Water & Wastewater Management,4,True
+Infrastructure,Water Utilities & Services,Environment,Waste & Hazardous Materials,5,True
+Infrastructure,Water Utilities & Services,Environment,Ecological Impacts,4,True
+Infrastructure,Water Utilities & Services,Social Capital,Human Rights & Community Relations,3,True
+Infrastructure,Water Utilities & Services,Social Capital,Customer Privacy,4,True
+Infrastructure,Water Utilities & Services,Social Capital,Data Security,2,False
+Infrastructure,Water Utilities & Services,Social Capital,Access & Affordability,4,True
+Infrastructure,Water Utilities & Services,Social Capital,Product Quality & Safety,3,True
+Infrastructure,Water Utilities & Services,Social Capital,Customer Welfare,2,False
+Infrastructure,Water Utilities & Services,Social Capital,Selling Practices & Product Labeling,2,False
+Infrastructure,Water Utilities & Services,Human Capital,Labor Practices,3,True
+Infrastructure,Water Utilities & Services,Human Capital,Employee Health & Safety,4,True
+Infrastructure,Water Utilities & Services,Human Capital,Employee Engagement,3,True
+Infrastructure,Water Utilities & Services,Human Capital,Diversity & Inclusion,5,True
+Infrastructure,Water Utilities & Services,Business Model & Innovation,Product Design & Lifecycle,2,False
+Infrastructure,Water Utilities & Services,Business Model & Innovation,Business Model Resilience,3,True
+Infrastructure,Water Utilities & Services,Business Model & Innovation,Supply Chain Management,4,True
+Infrastructure,Water Utilities & Services,Business Model & Innovation,Materials Sourcing & Efficiency,3,True
+Infrastructure,Water Utilities & Services,Business Model & Innovation,Physical Impacts of Climate Change,4,True
+Infrastructure,Water Utilities & Services,Leadership & Governance,Business Ethics,5,True
+Infrastructure,Water Utilities & Services,Leadership & Governance,Competitive Behavior,4,True
+Infrastructure,Water Utilities & Services,Leadership & Governance,Regulatory Environment Management,4,True
+Infrastructure,Water Utilities & Services,Leadership & Governance,Critical Incident Risk Management,4,True
+Infrastructure,Water Utilities & Services,Leadership & Governance,Systemic Risk Management,4,True
+Renewable Resources & Alt. Energy,Biofuels,Environment,GHG Emissions,4,True
+Renewable Resources & Alt. Energy,Biofuels,Environment,Air Quality,5,True
+Renewable Resources & Alt. Energy,Biofuels,Environment,Energy Management,5,True
+Renewable Resources & Alt. Energy,Biofuels,Environment,Water & Wastewater Management,4,True
+Renewable Resources & Alt. Energy,Biofuels,Environment,Waste & Hazardous Materials,5,True
+Renewable Resources & Alt. Energy,Biofuels,Environment,Ecological Impacts,4,True
+Renewable Resources & Alt. Energy,Biofuels,Social Capital,Human Rights & Community Relations,4,True
+Renewable Resources & Alt. Energy,Biofuels,Social Capital,Customer Privacy,4,True
+Renewable Resources & Alt. Energy,Biofuels,Social Capital,Data Security,4,True
+Renewable Resources & Alt. Energy,Biofuels,Social Capital,Access & Affordability,2,False
+Renewable Resources & Alt. Energy,Biofuels,Social Capital,Product Quality & Safety,2,False
+Renewable Resources & Alt. Energy,Biofuels,Social Capital,Customer Welfare,3,True
+Renewable Resources & Alt. Energy,Biofuels,Social Capital,Selling Practices & Product Labeling,3,True
+Renewable Resources & Alt. Energy,Biofuels,Human Capital,Labor Practices,3,True
+Renewable Resources & Alt. Energy,Biofuels,Human Capital,Employee Health & Safety,4,True
+Renewable Resources & Alt. Energy,Biofuels,Human Capital,Employee Engagement,3,True
+Renewable Resources & Alt. Energy,Biofuels,Human Capital,Diversity & Inclusion,2,False
+Renewable Resources & Alt. Energy,Biofuels,Business Model & Innovation,Product Design & Lifecycle,5,True
+Renewable Resources & Alt. Energy,Biofuels,Business Model & Innovation,Business Model Resilience,5,True
+Renewable Resources & Alt. Energy,Biofuels,Business Model & Innovation,Supply Chain Management,5,True
+Renewable Resources & Alt. Energy,Biofuels,Business Model & Innovation,Materials Sourcing & Efficiency,5,True
+Renewable Resources & Alt. Energy,Biofuels,Business Model & Innovation,Physical Impacts of Climate Change,5,True
+Renewable Resources & Alt. Energy,Biofuels,Leadership & Governance,Business Ethics,4,True
+Renewable Resources & Alt. Energy,Biofuels,Leadership & Governance,Competitive Behavior,3,True
+Renewable Resources & Alt. Energy,Biofuels,Leadership & Governance,Regulatory Environment Management,2,False
+Renewable Resources & Alt. Energy,Biofuels,Leadership & Governance,Critical Incident Risk Management,3,True
+Renewable Resources & Alt. Energy,Biofuels,Leadership & Governance,Systemic Risk Management,4,True
+Renewable Resources & Alt. Energy,Forestry Management,Environment,GHG Emissions,5,True
+Renewable Resources & Alt. Energy,Forestry Management,Environment,Air Quality,5,True
+Renewable Resources & Alt. Energy,Forestry Management,Environment,Energy Management,5,True
+Renewable Resources & Alt. Energy,Forestry Management,Environment,Water & Wastewater Management,5,True
+Renewable Resources & Alt. Energy,Forestry Management,Environment,Waste & Hazardous Materials,5,True
+Renewable Resources & Alt. Energy,Forestry Management,Environment,Ecological Impacts,5,True
+Renewable Resources & Alt. Energy,Forestry Management,Social Capital,Human Rights & Community Relations,3,True
+Renewable Resources & Alt. Energy,Forestry Management,Social Capital,Customer Privacy,3,True
+Renewable Resources & Alt. Energy,Forestry Management,Social Capital,Data Security,2,False
+Renewable Resources & Alt. Energy,Forestry Management,Social Capital,Access & Affordability,4,True
+Renewable Resources & Alt. Energy,Forestry Management,Social Capital,Product Quality & Safety,2,False
+Renewable Resources & Alt. Energy,Forestry Management,Social Capital,Customer Welfare,4,True
+Renewable Resources & Alt. Energy,Forestry Management,Social Capital,Selling Practices & Product Labeling,3,True
+Renewable Resources & Alt. Energy,Forestry Management,Human Capital,Labor Practices,2,False
+Renewable Resources & Alt. Energy,Forestry Management,Human Capital,Employee Health & Safety,3,True
+Renewable Resources & Alt. Energy,Forestry Management,Human Capital,Employee Engagement,2,False
+Renewable Resources & Alt. Energy,Forestry Management,Human Capital,Diversity & Inclusion,3,True
+Renewable Resources & Alt. Energy,Forestry Management,Business Model & Innovation,Product Design & Lifecycle,5,True
+Renewable Resources & Alt. Energy,Forestry Management,Business Model & Innovation,Business Model Resilience,5,True
+Renewable Resources & Alt. Energy,Forestry Management,Business Model & Innovation,Supply Chain Management,5,True
+Renewable Resources & Alt. Energy,Forestry Management,Business Model & Innovation,Materials Sourcing & Efficiency,5,True
+Renewable Resources & Alt. Energy,Forestry Management,Business Model & Innovation,Physical Impacts of Climate Change,5,True
+Renewable Resources & Alt. Energy,Forestry Management,Leadership & Governance,Business Ethics,4,True
+Renewable Resources & Alt. Energy,Forestry Management,Leadership & Governance,Competitive Behavior,4,True
+Renewable Resources & Alt. Energy,Forestry Management,Leadership & Governance,Regulatory Environment Management,2,False
+Renewable Resources & Alt. Energy,Forestry Management,Leadership & Governance,Critical Incident Risk Management,3,True
+Renewable Resources & Alt. Energy,Forestry Management,Leadership & Governance,Systemic Risk Management,2,False
+Renewable Resources & Alt. Energy,Fuel Cells & Industrial Batteries,Environment,GHG Emissions,4,True
+Renewable Resources & Alt. Energy,Fuel Cells & Industrial Batteries,Environment,Air Quality,5,True
+Renewable Resources & Alt. Energy,Fuel Cells & Industrial Batteries,Environment,Energy Management,5,True
+Renewable Resources & Alt. Energy,Fuel Cells & Industrial Batteries,Environment,Water & Wastewater Management,5,True
+Renewable Resources & Alt. Energy,Fuel Cells & Industrial Batteries,Environment,Waste & Hazardous Materials,4,True
+Renewable Resources & Alt. Energy,Fuel Cells & Industrial Batteries,Environment,Ecological Impacts,5,True
+Renewable Resources & Alt. Energy,Fuel Cells & Industrial Batteries,Social Capital,Human Rights & Community Relations,2,False
+Renewable Resources & Alt. Energy,Fuel Cells & Industrial Batteries,Social Capital,Customer Privacy,4,True
+Renewable Resources & Alt. Energy,Fuel Cells & Industrial Batteries,Social Capital,Data Security,3,True
+Renewable Resources & Alt. Energy,Fuel Cells & Industrial Batteries,Social Capital,Access & Affordability,2,False
+Renewable Resources & Alt. Energy,Fuel Cells & Industrial Batteries,Social Capital,Product Quality & Safety,4,True
+Renewable Resources & Alt. Energy,Fuel Cells & Industrial Batteries,Social Capital,Customer Welfare,2,False
+Renewable Resources & Alt. Energy,Fuel Cells & Industrial Batteries,Social Capital,Selling Practices & Product Labeling,3,True
+Renewable Resources & Alt. Energy,Fuel Cells & Industrial Batteries,Human Capital,Labor Practices,4,True
+Renewable Resources & Alt. Energy,Fuel Cells & Industrial Batteries,Human Capital,Employee Health & Safety,2,False
+Renewable Resources & Alt. Energy,Fuel Cells & Industrial Batteries,Human Capital,Employee Engagement,2,False
+Renewable Resources & Alt. Energy,Fuel Cells & Industrial Batteries,Human Capital,Diversity & Inclusion,3,True
+Renewable Resources & Alt. Energy,Fuel Cells & Industrial Batteries,Business Model & Innovation,Product Design & Lifecycle,5,True
+Renewable Resources & Alt. Energy,Fuel Cells & Industrial Batteries,Business Model & Innovation,Business Model Resilience,5,True
+Renewable Resources & Alt. Energy,Fuel Cells & Industrial Batteries,Business Model & Innovation,Supply Chain Management,5,True
+Renewable Resources & Alt. Energy,Fuel Cells & Industrial Batteries,Business Model & Innovation,Materials Sourcing & Efficiency,5,True
+Renewable Resources & Alt. Energy,Fuel Cells & Industrial Batteries,Business Model & Innovation,Physical Impacts of Climate Change,5,True
+Renewable Resources & Alt. Energy,Fuel Cells & Industrial Batteries,Leadership & Governance,Business Ethics,4,True
+Renewable Resources & Alt. Energy,Fuel Cells & Industrial Batteries,Leadership & Governance,Competitive Behavior,2,False
+Renewable Resources & Alt. Energy,Fuel Cells & Industrial Batteries,Leadership & Governance,Regulatory Environment Management,3,True
+Renewable Resources & Alt. Energy,Fuel Cells & Industrial Batteries,Leadership & Governance,Critical Incident Risk Management,4,True
+Renewable Resources & Alt. Energy,Fuel Cells & Industrial Batteries,Leadership & Governance,Systemic Risk Management,4,True
+Renewable Resources & Alt. Energy,Pulp & Paper Products,Environment,GHG Emissions,5,True
+Renewable Resources & Alt. Energy,Pulp & Paper Products,Environment,Air Quality,5,True
+Renewable Resources & Alt. Energy,Pulp & Paper Products,Environment,Energy Management,5,True
+Renewable Resources & Alt. Energy,Pulp & Paper Products,Environment,Water & Wastewater Management,5,True
+Renewable Resources & Alt. Energy,Pulp & Paper Products,Environment,Waste & Hazardous Materials,5,True
+Renewable Resources & Alt. Energy,Pulp & Paper Products,Environment,Ecological Impacts,5,True
+Renewable Resources & Alt. Energy,Pulp & Paper Products,Social Capital,Human Rights & Community Relations,2,False
+Renewable Resources & Alt. Energy,Pulp & Paper Products,Social Capital,Customer Privacy,4,True
+Renewable Resources & Alt. Energy,Pulp & Paper Products,Social Capital,Data Security,2,False
+Renewable Resources & Alt. Energy,Pulp & Paper Products,Social Capital,Access & Affordability,2,False
+Renewable Resources & Alt. Energy,Pulp & Paper Products,Social Capital,Product Quality & Safety,4,True
+Renewable Resources & Alt. Energy,Pulp & Paper Products,Social Capital,Customer Welfare,4,True
+Renewable Resources & Alt. Energy,Pulp & Paper Products,Social Capital,Selling Practices & Product Labeling,3,True
+Renewable Resources & Alt. Energy,Pulp & Paper Products,Human Capital,Labor Practices,2,False
+Renewable Resources & Alt. Energy,Pulp & Paper Products,Human Capital,Employee Health & Safety,4,True
+Renewable Resources & Alt. Energy,Pulp & Paper Products,Human Capital,Employee Engagement,2,False
+Renewable Resources & Alt. Energy,Pulp & Paper Products,Human Capital,Diversity & Inclusion,3,True
+Renewable Resources & Alt. Energy,Pulp & Paper Products,Business Model & Innovation,Product Design & Lifecycle,4,True
+Renewable Resources & Alt. Energy,Pulp & Paper Products,Business Model & Innovation,Business Model Resilience,5,True
+Renewable Resources & Alt. Energy,Pulp & Paper Products,Business Model & Innovation,Supply Chain Management,5,True
+Renewable Resources & Alt. Energy,Pulp & Paper Products,Business Model & Innovation,Materials Sourcing & Efficiency,4,True
+Renewable Resources & Alt. Energy,Pulp & Paper Products,Business Model & Innovation,Physical Impacts of Climate Change,5,True
+Renewable Resources & Alt. Energy,Pulp & Paper Products,Leadership & Governance,Business Ethics,2,False
+Renewable Resources & Alt. Energy,Pulp & Paper Products,Leadership & Governance,Competitive Behavior,4,True
+Renewable Resources & Alt. Energy,Pulp & Paper Products,Leadership & Governance,Regulatory Environment Management,3,True
+Renewable Resources & Alt. Energy,Pulp & Paper Products,Leadership & Governance,Critical Incident Risk Management,2,False
+Renewable Resources & Alt. Energy,Pulp & Paper Products,Leadership & Governance,Systemic Risk Management,2,False
+Renewable Resources & Alt. Energy,Solar Technology & Project Developers,Environment,GHG Emissions,5,True
+Renewable Resources & Alt. Energy,Solar Technology & Project Developers,Environment,Air Quality,4,True
+Renewable Resources & Alt. Energy,Solar Technology & Project Developers,Environment,Energy Management,5,True
+Renewable Resources & Alt. Energy,Solar Technology & Project Developers,Environment,Water & Wastewater Management,5,True
+Renewable Resources & Alt. Energy,Solar Technology & Project Developers,Environment,Waste & Hazardous Materials,5,True
+Renewable Resources & Alt. Energy,Solar Technology & Project Developers,Environment,Ecological Impacts,5,True
+Renewable Resources & Alt. Energy,Solar Technology & Project Developers,Social Capital,Human Rights & Community Relations,2,False
+Renewable Resources & Alt. Energy,Solar Technology & Project Developers,Social Capital,Customer Privacy,2,False
+Renewable Resources & Alt. Energy,Solar Technology & Project Developers,Social Capital,Data Security,4,True
+Renewable Resources & Alt. Energy,Solar Technology & Project Developers,Social Capital,Access & Affordability,3,True
+Renewable Resources & Alt. Energy,Solar Technology & Project Developers,Social Capital,Product Quality & Safety,4,True
+Renewable Resources & Alt. Energy,Solar Technology & Project Developers,Social Capital,Customer Welfare,4,True
+Renewable Resources & Alt. Energy,Solar Technology & Project Developers,Social Capital,Selling Practices & Product Labeling,2,False
+Renewable Resources & Alt. Energy,Solar Technology & Project Developers,Human Capital,Labor Practices,2,False
+Renewable Resources & Alt. Energy,Solar Technology & Project Developers,Human Capital,Employee Health & Safety,2,False
+Renewable Resources & Alt. Energy,Solar Technology & Project Developers,Human Capital,Employee Engagement,2,False
+Renewable Resources & Alt. Energy,Solar Technology & Project Developers,Human Capital,Diversity & Inclusion,4,True
+Renewable Resources & Alt. Energy,Solar Technology & Project Developers,Business Model & Innovation,Product Design & Lifecycle,5,True
+Renewable Resources & Alt. Energy,Solar Technology & Project Developers,Business Model & Innovation,Business Model Resilience,5,True
+Renewable Resources & Alt. Energy,Solar Technology & Project Developers,Business Model & Innovation,Supply Chain Management,5,True
+Renewable Resources & Alt. Energy,Solar Technology & Project Developers,Business Model & Innovation,Materials Sourcing & Efficiency,4,True
+Renewable Resources & Alt. Energy,Solar Technology & Project Developers,Business Model & Innovation,Physical Impacts of Climate Change,5,True
+Renewable Resources & Alt. Energy,Solar Technology & Project Developers,Leadership & Governance,Business Ethics,4,True
+Renewable Resources & Alt. Energy,Solar Technology & Project Developers,Leadership & Governance,Competitive Behavior,2,False
+Renewable Resources & Alt. Energy,Solar Technology & Project Developers,Leadership & Governance,Regulatory Environment Management,2,False
+Renewable Resources & Alt. Energy,Solar Technology & Project Developers,Leadership & Governance,Critical Incident Risk Management,3,True
+Renewable Resources & Alt. Energy,Solar Technology & Project Developers,Leadership & Governance,Systemic Risk Management,4,True
+Renewable Resources & Alt. Energy,Wind Technology & Project Developers,Environment,GHG Emissions,5,True
+Renewable Resources & Alt. Energy,Wind Technology & Project Developers,Environment,Air Quality,5,True
+Renewable Resources & Alt. Energy,Wind Technology & Project Developers,Environment,Energy Management,5,True
+Renewable Resources & Alt. Energy,Wind Technology & Project Developers,Environment,Water & Wastewater Management,5,True
+Renewable Resources & Alt. Energy,Wind Technology & Project Developers,Environment,Waste & Hazardous Materials,4,True
+Renewable Resources & Alt. Energy,Wind Technology & Project Developers,Environment,Ecological Impacts,5,True
+Renewable Resources & Alt. Energy,Wind Technology & Project Developers,Social Capital,Human Rights & Community Relations,3,True
+Renewable Resources & Alt. Energy,Wind Technology & Project Developers,Social Capital,Customer Privacy,4,True
+Renewable Resources & Alt. Energy,Wind Technology & Project Developers,Social Capital,Data Security,4,True
+Renewable Resources & Alt. Energy,Wind Technology & Project Developers,Social Capital,Access & Affordability,2,False
+Renewable Resources & Alt. Energy,Wind Technology & Project Developers,Social Capital,Product Quality & Safety,2,False
+Renewable Resources & Alt. Energy,Wind Technology & Project Developers,Social Capital,Customer Welfare,3,True
+Renewable Resources & Alt. Energy,Wind Technology & Project Developers,Social Capital,Selling Practices & Product Labeling,3,True
+Renewable Resources & Alt. Energy,Wind Technology & Project Developers,Human Capital,Labor Practices,4,True
+Renewable Resources & Alt. Energy,Wind Technology & Project Developers,Human Capital,Employee Health & Safety,3,True
+Renewable Resources & Alt. Energy,Wind Technology & Project Developers,Human Capital,Employee Engagement,4,True
+Renewable Resources & Alt. Energy,Wind Technology & Project Developers,Human Capital,Diversity & Inclusion,3,True
+Renewable Resources & Alt. Energy,Wind Technology & Project Developers,Business Model & Innovation,Product Design & Lifecycle,5,True
+Renewable Resources & Alt. Energy,Wind Technology & Project Developers,Business Model & Innovation,Business Model Resilience,5,True
+Renewable Resources & Alt. Energy,Wind Technology & Project Developers,Business Model & Innovation,Supply Chain Management,5,True
+Renewable Resources & Alt. Energy,Wind Technology & Project Developers,Business Model & Innovation,Materials Sourcing & Efficiency,5,True
+Renewable Resources & Alt. Energy,Wind Technology & Project Developers,Business Model & Innovation,Physical Impacts of Climate Change,4,True
+Renewable Resources & Alt. Energy,Wind Technology & Project Developers,Leadership & Governance,Business Ethics,3,True
+Renewable Resources & Alt. Energy,Wind Technology & Project Developers,Leadership & Governance,Competitive Behavior,3,True
+Renewable Resources & Alt. Energy,Wind Technology & Project Developers,Leadership & Governance,Regulatory Environment Management,2,False
+Renewable Resources & Alt. Energy,Wind Technology & Project Developers,Leadership & Governance,Critical Incident Risk Management,2,False
+Renewable Resources & Alt. Energy,Wind Technology & Project Developers,Leadership & Governance,Systemic Risk Management,3,True
+Resource Transformation,Aerospace & Defense,Environment,GHG Emissions,5,True
+Resource Transformation,Aerospace & Defense,Environment,Air Quality,4,True
+Resource Transformation,Aerospace & Defense,Environment,Energy Management,5,True
+Resource Transformation,Aerospace & Defense,Environment,Water & Wastewater Management,4,True
+Resource Transformation,Aerospace & Defense,Environment,Waste & Hazardous Materials,5,True
+Resource Transformation,Aerospace & Defense,Environment,Ecological Impacts,4,True
+Resource Transformation,Aerospace & Defense,Social Capital,Human Rights & Community Relations,2,False
+Resource Transformation,Aerospace & Defense,Social Capital,Customer Privacy,4,True
+Resource Transformation,Aerospace & Defense,Social Capital,Data Security,3,True
+Resource Transformation,Aerospace & Defense,Social Capital,Access & Affordability,3,True
+Resource Transformation,Aerospace & Defense,Social Capital,Product Quality & Safety,2,False
+Resource Transformation,Aerospace & Defense,Social Capital,Customer Welfare,4,True
+Resource Transformation,Aerospace & Defense,Social Capital,Selling Practices & Product Labeling,4,True
+Resource Transformation,Aerospace & Defense,Human Capital,Labor Practices,5,True
+Resource Transformation,Aerospace & Defense,Human Capital,Employee Health & Safety,3,True
+Resource Transformation,Aerospace & Defense,Human Capital,Employee Engagement,5,True
+Resource Transformation,Aerospace & Defense,Human Capital,Diversity & Inclusion,5,True
+Resource Transformation,Aerospace & Defense,Business Model & Innovation,Product Design & Lifecycle,4,True
+Resource Transformation,Aerospace & Defense,Business Model & Innovation,Business Model Resilience,4,True
+Resource Transformation,Aerospace & Defense,Business Model & Innovation,Supply Chain Management,3,True
+Resource Transformation,Aerospace & Defense,Business Model & Innovation,Materials Sourcing & Efficiency,5,True
+Resource Transformation,Aerospace & Defense,Business Model & Innovation,Physical Impacts of Climate Change,4,True
+Resource Transformation,Aerospace & Defense,Leadership & Governance,Business Ethics,2,False
+Resource Transformation,Aerospace & Defense,Leadership & Governance,Competitive Behavior,4,True
+Resource Transformation,Aerospace & Defense,Leadership & Governance,Regulatory Environment Management,2,False
+Resource Transformation,Aerospace & Defense,Leadership & Governance,Critical Incident Risk Management,4,True
+Resource Transformation,Aerospace & Defense,Leadership & Governance,Systemic Risk Management,3,True
+Resource Transformation,Chemicals,Environment,GHG Emissions,5,True
+Resource Transformation,Chemicals,Environment,Air Quality,5,True
+Resource Transformation,Chemicals,Environment,Energy Management,5,True
+Resource Transformation,Chemicals,Environment,Water & Wastewater Management,5,True
+Resource Transformation,Chemicals,Environment,Waste & Hazardous Materials,3,True
+Resource Transformation,Chemicals,Environment,Ecological Impacts,5,True
+Resource Transformation,Chemicals,Social Capital,Human Rights & Community Relations,2,False
+Resource Transformation,Chemicals,Social Capital,Customer Privacy,4,True
+Resource Transformation,Chemicals,Social Capital,Data Security,4,True
+Resource Transformation,Chemicals,Social Capital,Access & Affordability,2,False
+Resource Transformation,Chemicals,Social Capital,Product Quality & Safety,3,True
+Resource Transformation,Chemicals,Social Capital,Customer Welfare,3,True
+Resource Transformation,Chemicals,Social Capital,Selling Practices & Product Labeling,2,False
+Resource Transformation,Chemicals,Human Capital,Labor Practices,5,True
+Resource Transformation,Chemicals,Human Capital,Employee Health & Safety,4,True
+Resource Transformation,Chemicals,Human Capital,Employee Engagement,5,True
+Resource Transformation,Chemicals,Human Capital,Diversity & Inclusion,3,True
+Resource Transformation,Chemicals,Business Model & Innovation,Product Design & Lifecycle,3,True
+Resource Transformation,Chemicals,Business Model & Innovation,Business Model Resilience,4,True
+Resource Transformation,Chemicals,Business Model & Innovation,Supply Chain Management,4,True
+Resource Transformation,Chemicals,Business Model & Innovation,Materials Sourcing & Efficiency,5,True
+Resource Transformation,Chemicals,Business Model & Innovation,Physical Impacts of Climate Change,4,True
+Resource Transformation,Chemicals,Leadership & Governance,Business Ethics,2,False
+Resource Transformation,Chemicals,Leadership & Governance,Competitive Behavior,2,False
+Resource Transformation,Chemicals,Leadership & Governance,Regulatory Environment Management,2,False
+Resource Transformation,Chemicals,Leadership & Governance,Critical Incident Risk Management,4,True
+Resource Transformation,Chemicals,Leadership & Governance,Systemic Risk Management,3,True
+Resource Transformation,Containers & Packaging,Environment,GHG Emissions,5,True
+Resource Transformation,Containers & Packaging,Environment,Air Quality,5,True
+Resource Transformation,Containers & Packaging,Environment,Energy Management,4,True
+Resource Transformation,Containers & Packaging,Environment,Water & Wastewater Management,3,True
+Resource Transformation,Containers & Packaging,Environment,Waste & Hazardous Materials,4,True
+Resource Transformation,Containers & Packaging,Environment,Ecological Impacts,4,True
+Resource Transformation,Containers & Packaging,Social Capital,Human Rights & Community Relations,3,True
+Resource Transformation,Containers & Packaging,Social Capital,Customer Privacy,4,True
+Resource Transformation,Containers & Packaging,Social Capital,Data Security,3,True
+Resource Transformation,Containers & Packaging,Social Capital,Access & Affordability,2,False
+Resource Transformation,Containers & Packaging,Social Capital,Product Quality & Safety,3,True
+Resource Transformation,Containers & Packaging,Social Capital,Customer Welfare,2,False
+Resource Transformation,Containers & Packaging,Social Capital,Selling Practices & Product Labeling,2,False
+Resource Transformation,Containers & Packaging,Human Capital,Labor Practices,3,True
+Resource Transformation,Containers & Packaging,Human Capital,Employee Health & Safety,5,True
+Resource Transformation,Containers & Packaging,Human Capital,Employee Engagement,5,True
+Resource Transformation,Containers & Packaging,Human Capital,Diversity & Inclusion,5,True
+Resource Transformation,Containers & Packaging,Business Model & Innovation,Product Design & Lifecycle,4,True
+Resource Transformation,Containers & Packaging,Business Model & Innovation,Business Model Resilience,5,True
+Resource Transformation,Containers & Packaging,Business Model & Innovation,Supply Chain Management,4,True
+Resource Transformation,Containers & Packaging,Business Model & Innovation,Materials Sourcing & Efficiency,3,True
+Resource Transformation,Containers & Packaging,Business Model & Innovation,Physical Impacts of Climate Change,4,True
+Resource Transformation,Containers & Packaging,Leadership & Governance,Business Ethics,2,False
+Resource Transformation,Containers & Packaging,Leadership & Governance,Competitive Behavior,3,True
+Resource Transformation,Containers & Packaging,Leadership & Governance,Regulatory Environment Management,4,True
+Resource Transformation,Containers & Packaging,Leadership & Governance,Critical Incident Risk Management,2,False
+Resource Transformation,Containers & Packaging,Leadership & Governance,Systemic Risk Management,3,True
+Resource Transformation,Electrical & Electronic Equipment,Environment,GHG Emissions,4,True
+Resource Transformation,Electrical & Electronic Equipment,Environment,Air Quality,5,True
+Resource Transformation,Electrical & Electronic Equipment,Environment,Energy Management,5,True
+Resource Transformation,Electrical & Electronic Equipment,Environment,Water & Wastewater Management,5,True
+Resource Transformation,Electrical & Electronic Equipment,Environment,Waste & Hazardous Materials,4,True
+Resource Transformation,Electrical & Electronic Equipment,Environment,Ecological Impacts,5,True
+Resource Transformation,Electrical & Electronic Equipment,Social Capital,Human Rights & Community Relations,3,True
+Resource Transformation,Electrical & Electronic Equipment,Social Capital,Customer Privacy,4,True
+Resource Transformation,Electrical & Electronic Equipment,Social Capital,Data Security,3,True
+Resource Transformation,Electrical & Electronic Equipment,Social Capital,Access & Affordability,2,False
+Resource Transformation,Electrical & Electronic Equipment,Social Capital,Product Quality & Safety,4,True
+Resource Transformation,Electrical & Electronic Equipment,Social Capital,Customer Welfare,2,False
+Resource Transformation,Electrical & Electronic Equipment,Social Capital,Selling Practices & Product Labeling,3,True
+Resource Transformation,Electrical & Electronic Equipment,Human Capital,Labor Practices,3,True
+Resource Transformation,Electrical & Electronic Equipment,Human Capital,Employee Health & Safety,5,True
+Resource Transformation,Electrical & Electronic Equipment,Human Capital,Employee Engagement,5,True
+Resource Transformation,Electrical & Electronic Equipment,Human Capital,Diversity & Inclusion,4,True
+Resource Transformation,Electrical & Electronic Equipment,Business Model & Innovation,Product Design & Lifecycle,5,True
+Resource Transformation,Electrical & Electronic Equipment,Business Model & Innovation,Business Model Resilience,3,True
+Resource Transformation,Electrical & Electronic Equipment,Business Model & Innovation,Supply Chain Management,5,True
+Resource Transformation,Electrical & Electronic Equipment,Business Model & Innovation,Materials Sourcing & Efficiency,3,True
+Resource Transformation,Electrical & Electronic Equipment,Business Model & Innovation,Physical Impacts of Climate Change,5,True
+Resource Transformation,Electrical & Electronic Equipment,Leadership & Governance,Business Ethics,3,True
+Resource Transformation,Electrical & Electronic Equipment,Leadership & Governance,Competitive Behavior,4,True
+Resource Transformation,Electrical & Electronic Equipment,Leadership & Governance,Regulatory Environment Management,3,True
+Resource Transformation,Electrical & Electronic Equipment,Leadership & Governance,Critical Incident Risk Management,4,True
+Resource Transformation,Electrical & Electronic Equipment,Leadership & Governance,Systemic Risk Management,3,True
+Resource Transformation,Industrial Machinery & Goods,Environment,GHG Emissions,3,True
+Resource Transformation,Industrial Machinery & Goods,Environment,Air Quality,3,True
+Resource Transformation,Industrial Machinery & Goods,Environment,Energy Management,3,True
+Resource Transformation,Industrial Machinery & Goods,Environment,Water & Wastewater Management,3,True
+Resource Transformation,Industrial Machinery & Goods,Environment,Waste & Hazardous Materials,4,True
+Resource Transformation,Industrial Machinery & Goods,Environment,Ecological Impacts,4,True
+Resource Transformation,Industrial Machinery & Goods,Social Capital,Human Rights & Community Relations,2,False
+Resource Transformation,Industrial Machinery & Goods,Social Capital,Customer Privacy,2,False
+Resource Transformation,Industrial Machinery & Goods,Social Capital,Data Security,2,False
+Resource Transformation,Industrial Machinery & Goods,Social Capital,Access & Affordability,4,True
+Resource Transformation,Industrial Machinery & Goods,Social Capital,Product Quality & Safety,2,False
+Resource Transformation,Industrial Machinery & Goods,Social Capital,Customer Welfare,3,True
+Resource Transformation,Industrial Machinery & Goods,Social Capital,Selling Practices & Product Labeling,3,True
+Resource Transformation,Industrial Machinery & Goods,Human Capital,Labor Practices,4,True
+Resource Transformation,Industrial Machinery & Goods,Human Capital,Employee Health & Safety,5,True
+Resource Transformation,Industrial Machinery & Goods,Human Capital,Employee Engagement,5,True
+Resource Transformation,Industrial Machinery & Goods,Human Capital,Diversity & Inclusion,5,True
+Resource Transformation,Industrial Machinery & Goods,Business Model & Innovation,Product Design & Lifecycle,5,True
+Resource Transformation,Industrial Machinery & Goods,Business Model & Innovation,Business Model Resilience,4,True
+Resource Transformation,Industrial Machinery & Goods,Business Model & Innovation,Supply Chain Management,5,True
+Resource Transformation,Industrial Machinery & Goods,Business Model & Innovation,Materials Sourcing & Efficiency,5,True
+Resource Transformation,Industrial Machinery & Goods,Business Model & Innovation,Physical Impacts of Climate Change,5,True
+Resource Transformation,Industrial Machinery & Goods,Leadership & Governance,Business Ethics,2,False
+Resource Transformation,Industrial Machinery & Goods,Leadership & Governance,Competitive Behavior,3,True
+Resource Transformation,Industrial Machinery & Goods,Leadership & Governance,Regulatory Environment Management,4,True
+Resource Transformation,Industrial Machinery & Goods,Leadership & Governance,Critical Incident Risk Management,2,False
+Resource Transformation,Industrial Machinery & Goods,Leadership & Governance,Systemic Risk Management,3,True
+Services,Advertising & Marketing,Environment,GHG Emissions,3,True
+Services,Advertising & Marketing,Environment,Air Quality,2,False
+Services,Advertising & Marketing,Environment,Energy Management,2,False
+Services,Advertising & Marketing,Environment,Water & Wastewater Management,1,False
+Services,Advertising & Marketing,Environment,Waste & Hazardous Materials,3,True
+Services,Advertising & Marketing,Environment,Ecological Impacts,2,False
+Services,Advertising & Marketing,Social Capital,Human Rights & Community Relations,4,True
+Services,Advertising & Marketing,Social Capital,Customer Privacy,5,True
+Services,Advertising & Marketing,Social Capital,Data Security,5,True
+Services,Advertising & Marketing,Social Capital,Access & Affordability,4,True
+Services,Advertising & Marketing,Social Capital,Product Quality & Safety,5,True
+Services,Advertising & Marketing,Social Capital,Customer Welfare,4,True
+Services,Advertising & Marketing,Social Capital,Selling Practices & Product Labeling,5,True
+Services,Advertising & Marketing,Human Capital,Labor Practices,4,True
+Services,Advertising & Marketing,Human Capital,Employee Health & Safety,5,True
+Services,Advertising & Marketing,Human Capital,Employee Engagement,5,True
+Services,Advertising & Marketing,Human Capital,Diversity & Inclusion,4,True
+Services,Advertising & Marketing,Business Model & Innovation,Product Design & Lifecycle,2,False
+Services,Advertising & Marketing,Business Model & Innovation,Business Model Resilience,3,True
+Services,Advertising & Marketing,Business Model & Innovation,Supply Chain Management,3,True
+Services,Advertising & Marketing,Business Model & Innovation,Materials Sourcing & Efficiency,2,False
+Services,Advertising & Marketing,Business Model & Innovation,Physical Impacts of Climate Change,2,False
+Services,Advertising & Marketing,Leadership & Governance,Business Ethics,3,True
+Services,Advertising & Marketing,Leadership & Governance,Competitive Behavior,2,False
+Services,Advertising & Marketing,Leadership & Governance,Regulatory Environment Management,4,True
+Services,Advertising & Marketing,Leadership & Governance,Critical Incident Risk Management,2,False
+Services,Advertising & Marketing,Leadership & Governance,Systemic Risk Management,4,True
+Services,Casinos & Gaming,Environment,GHG Emissions,3,True
+Services,Casinos & Gaming,Environment,Air Quality,3,True
+Services,Casinos & Gaming,Environment,Energy Management,1,False
+Services,Casinos & Gaming,Environment,Water & Wastewater Management,1,False
+Services,Casinos & Gaming,Environment,Waste & Hazardous Materials,2,False
+Services,Casinos & Gaming,Environment,Ecological Impacts,1,False
+Services,Casinos & Gaming,Social Capital,Human Rights & Community Relations,4,True
+Services,Casinos & Gaming,Social Capital,Customer Privacy,5,True
+Services,Casinos & Gaming,Social Capital,Data Security,4,True
+Services,Casinos & Gaming,Social Capital,Access & Affordability,4,True
+Services,Casinos & Gaming,Social Capital,Product Quality & Safety,5,True
+Services,Casinos & Gaming,Social Capital,Customer Welfare,4,True
+Services,Casinos & Gaming,Social Capital,Selling Practices & Product Labeling,5,True
+Services,Casinos & Gaming,Human Capital,Labor Practices,3,True
+Services,Casinos & Gaming,Human Capital,Employee Health & Safety,3,True
+Services,Casinos & Gaming,Human Capital,Employee Engagement,4,True
+Services,Casinos & Gaming,Human Capital,Diversity & Inclusion,3,True
+Services,Casinos & Gaming,Business Model & Innovation,Product Design & Lifecycle,4,True
+Services,Casinos & Gaming,Business Model & Innovation,Business Model Resilience,2,False
+Services,Casinos & Gaming,Business Model & Innovation,Supply Chain Management,3,True
+Services,Casinos & Gaming,Business Model & Innovation,Materials Sourcing & Efficiency,2,False
+Services,Casinos & Gaming,Business Model & Innovation,Physical Impacts of Climate Change,2,False
+Services,Casinos & Gaming,Leadership & Governance,Business Ethics,4,True
+Services,Casinos & Gaming,Leadership & Governance,Competitive Behavior,3,True
+Services,Casinos & Gaming,Leadership & Governance,Regulatory Environment Management,2,False
+Services,Casinos & Gaming,Leadership & Governance,Critical Incident Risk Management,2,False
+Services,Casinos & Gaming,Leadership & Governance,Systemic Risk Management,4,True
+Services,Education,Environment,GHG Emissions,1,False
+Services,Education,Environment,Air Quality,1,False
+Services,Education,Environment,Energy Management,1,False
+Services,Education,Environment,Water & Wastewater Management,2,False
+Services,Education,Environment,Waste & Hazardous Materials,1,False
+Services,Education,Environment,Ecological Impacts,3,True
+Services,Education,Social Capital,Human Rights & Community Relations,5,True
+Services,Education,Social Capital,Customer Privacy,4,True
+Services,Education,Social Capital,Data Security,4,True
+Services,Education,Social Capital,Access & Affordability,5,True
+Services,Education,Social Capital,Product Quality & Safety,4,True
+Services,Education,Social Capital,Customer Welfare,4,True
+Services,Education,Social Capital,Selling Practices & Product Labeling,5,True
+Services,Education,Human Capital,Labor Practices,4,True
+Services,Education,Human Capital,Employee Health & Safety,5,True
+Services,Education,Human Capital,Employee Engagement,3,True
+Services,Education,Human Capital,Diversity & Inclusion,5,True
+Services,Education,Business Model & Innovation,Product Design & Lifecycle,2,False
+Services,Education,Business Model & Innovation,Business Model Resilience,3,True
+Services,Education,Business Model & Innovation,Supply Chain Management,3,True
+Services,Education,Business Model & Innovation,Materials Sourcing & Efficiency,3,True
+Services,Education,Business Model & Innovation,Physical Impacts of Climate Change,4,True
+Services,Education,Leadership & Governance,Business Ethics,4,True
+Services,Education,Leadership & Governance,Competitive Behavior,2,False
+Services,Education,Leadership & Governance,Regulatory Environment Management,3,True
+Services,Education,Leadership & Governance,Critical Incident Risk Management,4,True
+Services,Education,Leadership & Governance,Systemic Risk Management,2,False
+Services,Hotels & Lodging,Environment,GHG Emissions,3,True
+Services,Hotels & Lodging,Environment,Air Quality,1,False
+Services,Hotels & Lodging,Environment,Energy Management,3,True
+Services,Hotels & Lodging,Environment,Water & Wastewater Management,3,True
+Services,Hotels & Lodging,Environment,Waste & Hazardous Materials,3,True
+Services,Hotels & Lodging,Environment,Ecological Impacts,2,False
+Services,Hotels & Lodging,Social Capital,Human Rights & Community Relations,5,True
+Services,Hotels & Lodging,Social Capital,Customer Privacy,5,True
+Services,Hotels & Lodging,Social Capital,Data Security,4,True
+Services,Hotels & Lodging,Social Capital,Access & Affordability,4,True
+Services,Hotels & Lodging,Social Capital,Product Quality & Safety,5,True
+Services,Hotels & Lodging,Social Capital,Customer Welfare,5,True
+Services,Hotels & Lodging,Social Capital,Selling Practices & Product Labeling,5,True
+Services,Hotels & Lodging,Human Capital,Labor Practices,5,True
+Services,Hotels & Lodging,Human Capital,Employee Health & Safety,3,True
+Services,Hotels & Lodging,Human Capital,Employee Engagement,4,True
+Services,Hotels & Lodging,Human Capital,Diversity & Inclusion,5,True
+Services,Hotels & Lodging,Business Model & Innovation,Product Design & Lifecycle,3,True
+Services,Hotels & Lodging,Business Model & Innovation,Business Model Resilience,2,False
+Services,Hotels & Lodging,Business Model & Innovation,Supply Chain Management,2,False
+Services,Hotels & Lodging,Business Model & Innovation,Materials Sourcing & Efficiency,3,True
+Services,Hotels & Lodging,Business Model & Innovation,Physical Impacts of Climate Change,4,True
+Services,Hotels & Lodging,Leadership & Governance,Business Ethics,2,False
+Services,Hotels & Lodging,Leadership & Governance,Competitive Behavior,2,False
+Services,Hotels & Lodging,Leadership & Governance,Regulatory Environment Management,2,False
+Services,Hotels & Lodging,Leadership & Governance,Critical Incident Risk Management,3,True
+Services,Hotels & Lodging,Leadership & Governance,Systemic Risk Management,4,True
+Services,Leisure Facilities,Environment,GHG Emissions,3,True
+Services,Leisure Facilities,Environment,Air Quality,3,True
+Services,Leisure Facilities,Environment,Energy Management,3,True
+Services,Leisure Facilities,Environment,Water & Wastewater Management,3,True
+Services,Leisure Facilities,Environment,Waste & Hazardous Materials,2,False
+Services,Leisure Facilities,Environment,Ecological Impacts,2,False
+Services,Leisure Facilities,Social Capital,Human Rights & Community Relations,5,True
+Services,Leisure Facilities,Social Capital,Customer Privacy,5,True
+Services,Leisure Facilities,Social Capital,Data Security,5,True
+Services,Leisure Facilities,Social Capital,Access & Affordability,5,True
+Services,Leisure Facilities,Social Capital,Product Quality & Safety,5,True
+Services,Leisure Facilities,Social Capital,Customer Welfare,5,True
+Services,Leisure Facilities,Social Capital,Selling Practices & Product Labeling,5,True
+Services,Leisure Facilities,Human Capital,Labor Practices,3,True
+Services,Leisure Facilities,Human Capital,Employee Health & Safety,5,True
+Services,Leisure Facilities,Human Capital,Employee Engagement,3,True
+Services,Leisure Facilities,Human Capital,Diversity & Inclusion,5,True
+Services,Leisure Facilities,Business Model & Innovation,Product Design & Lifecycle,4,True
+Services,Leisure Facilities,Business Model & Innovation,Business Model Resilience,4,True
+Services,Leisure Facilities,Business Model & Innovation,Supply Chain Management,4,True
+Services,Leisure Facilities,Business Model & Innovation,Materials Sourcing & Efficiency,2,False
+Services,Leisure Facilities,Business Model & Innovation,Physical Impacts of Climate Change,3,True
+Services,Leisure Facilities,Leadership & Governance,Business Ethics,3,True
+Services,Leisure Facilities,Leadership & Governance,Competitive Behavior,2,False
+Services,Leisure Facilities,Leadership & Governance,Regulatory Environment Management,3,True
+Services,Leisure Facilities,Leadership & Governance,Critical Incident Risk Management,3,True
+Services,Leisure Facilities,Leadership & Governance,Systemic Risk Management,3,True
+Services,Media & Entertainment,Environment,GHG Emissions,2,False
+Services,Media & Entertainment,Environment,Air Quality,2,False
+Services,Media & Entertainment,Environment,Energy Management,3,True
+Services,Media & Entertainment,Environment,Water & Wastewater Management,1,False
+Services,Media & Entertainment,Environment,Waste & Hazardous Materials,2,False
+Services,Media & Entertainment,Environment,Ecological Impacts,2,False
+Services,Media & Entertainment,Social Capital,Human Rights & Community Relations,5,True
+Services,Media & Entertainment,Social Capital,Customer Privacy,5,True
+Services,Media & Entertainment,Social Capital,Data Security,5,True
+Services,Media & Entertainment,Social Capital,Access & Affordability,5,True
+Services,Media & Entertainment,Social Capital,Product Quality & Safety,4,True
+Services,Media & Entertainment,Social Capital,Customer Welfare,5,True
+Services,Media & Entertainment,Social Capital,Selling Practices & Product Labeling,5,True
+Services,Media & Entertainment,Human Capital,Labor Practices,3,True
+Services,Media & Entertainment,Human Capital,Employee Health & Safety,3,True
+Services,Media & Entertainment,Human Capital,Employee Engagement,3,True
+Services,Media & Entertainment,Human Capital,Diversity & Inclusion,3,True
+Services,Media & Entertainment,Business Model & Innovation,Product Design & Lifecycle,3,True
+Services,Media & Entertainment,Business Model & Innovation,Business Model Resilience,2,False
+Services,Media & Entertainment,Business Model & Innovation,Supply Chain Management,4,True
+Services,Media & Entertainment,Business Model & Innovation,Materials Sourcing & Efficiency,4,True
+Services,Media & Entertainment,Business Model & Innovation,Physical Impacts of Climate Change,3,True
+Services,Media & Entertainment,Leadership & Governance,Business Ethics,2,False
+Services,Media & Entertainment,Leadership & Governance,Competitive Behavior,4,True
+Services,Media & Entertainment,Leadership & Governance,Regulatory Environment Management,2,False
+Services,Media & Entertainment,Leadership & Governance,Critical Incident Risk Management,4,True
+Services,Media & Entertainment,Leadership & Governance,Systemic Risk Management,4,True
+Services,Professional & Commercial Services,Environment,GHG Emissions,3,True
+Services,Professional & Commercial Services,Environment,Air Quality,2,False
+Services,Professional & Commercial Services,Environment,Energy Management,3,True
+Services,Professional & Commercial Services,Environment,Water & Wastewater Management,1,False
+Services,Professional & Commercial Services,Environment,Waste & Hazardous Materials,2,False
+Services,Professional & Commercial Services,Environment,Ecological Impacts,2,False
+Services,Professional & Commercial Services,Social Capital,Human Rights & Community Relations,5,True
+Services,Professional & Commercial Services,Social Capital,Customer Privacy,5,True
+Services,Professional & Commercial Services,Social Capital,Data Security,5,True
+Services,Professional & Commercial Services,Social Capital,Access & Affordability,4,True
+Services,Professional & Commercial Services,Social Capital,Product Quality & Safety,5,True
+Services,Professional & Commercial Services,Social Capital,Customer Welfare,5,True
+Services,Professional & Commercial Services,Social Capital,Selling Practices & Product Labeling,5,True
+Services,Professional & Commercial Services,Human Capital,Labor Practices,4,True
+Services,Professional & Commercial Services,Human Capital,Employee Health & Safety,3,True
+Services,Professional & Commercial Services,Human Capital,Employee Engagement,5,True
+Services,Professional & Commercial Services,Human Capital,Diversity & Inclusion,5,True
+Services,Professional & Commercial Services,Business Model & Innovation,Product Design & Lifecycle,2,False
+Services,Professional & Commercial Services,Business Model & Innovation,Business Model Resilience,2,False
+Services,Professional & Commercial Services,Business Model & Innovation,Supply Chain Management,4,True
+Services,Professional & Commercial Services,Business Model & Innovation,Materials Sourcing & Efficiency,3,True
+Services,Professional & Commercial Services,Business Model & Innovation,Physical Impacts of Climate Change,2,False
+Services,Professional & Commercial Services,Leadership & Governance,Business Ethics,2,False
+Services,Professional & Commercial Services,Leadership & Governance,Competitive Behavior,3,True
+Services,Professional & Commercial Services,Leadership & Governance,Regulatory Environment Management,4,True
+Services,Professional & Commercial Services,Leadership & Governance,Critical Incident Risk Management,3,True
+Services,Professional & Commercial Services,Leadership & Governance,Systemic Risk Management,2,False
+Technology & Communications,Electronic Manufacturing Services,Environment,GHG Emissions,3,True
+Technology & Communications,Electronic Manufacturing Services,Environment,Air Quality,4,True
+Technology & Communications,Electronic Manufacturing Services,Environment,Energy Management,2,False
+Technology & Communications,Electronic Manufacturing Services,Environment,Water & Wastewater Management,3,True
+Technology & Communications,Electronic Manufacturing Services,Environment,Waste & Hazardous Materials,4,True
+Technology & Communications,Electronic Manufacturing Services,Environment,Ecological Impacts,4,True
+Technology & Communications,Electronic Manufacturing Services,Social Capital,Human Rights & Community Relations,5,True
+Technology & Communications,Electronic Manufacturing Services,Social Capital,Customer Privacy,5,True
+Technology & Communications,Electronic Manufacturing Services,Social Capital,Data Security,5,True
+Technology & Communications,Electronic Manufacturing Services,Social Capital,Access & Affordability,5,True
+Technology & Communications,Electronic Manufacturing Services,Social Capital,Product Quality & Safety,4,True
+Technology & Communications,Electronic Manufacturing Services,Social Capital,Customer Welfare,5,True
+Technology & Communications,Electronic Manufacturing Services,Social Capital,Selling Practices & Product Labeling,5,True
+Technology & Communications,Electronic Manufacturing Services,Human Capital,Labor Practices,5,True
+Technology & Communications,Electronic Manufacturing Services,Human Capital,Employee Health & Safety,4,True
+Technology & Communications,Electronic Manufacturing Services,Human Capital,Employee Engagement,3,True
+Technology & Communications,Electronic Manufacturing Services,Human Capital,Diversity & Inclusion,3,True
+Technology & Communications,Electronic Manufacturing Services,Business Model & Innovation,Product Design & Lifecycle,5,True
+Technology & Communications,Electronic Manufacturing Services,Business Model & Innovation,Business Model Resilience,5,True
+Technology & Communications,Electronic Manufacturing Services,Business Model & Innovation,Supply Chain Management,5,True
+Technology & Communications,Electronic Manufacturing Services,Business Model & Innovation,Materials Sourcing & Efficiency,5,True
+Technology & Communications,Electronic Manufacturing Services,Business Model & Innovation,Physical Impacts of Climate Change,5,True
+Technology & Communications,Electronic Manufacturing Services,Leadership & Governance,Business Ethics,3,True
+Technology & Communications,Electronic Manufacturing Services,Leadership & Governance,Competitive Behavior,3,True
+Technology & Communications,Electronic Manufacturing Services,Leadership & Governance,Regulatory Environment Management,3,True
+Technology & Communications,Electronic Manufacturing Services,Leadership & Governance,Critical Incident Risk Management,5,True
+Technology & Communications,Electronic Manufacturing Services,Leadership & Governance,Systemic Risk Management,5,True
+Technology & Communications,Hardware,Environment,GHG Emissions,3,True
+Technology & Communications,Hardware,Environment,Air Quality,2,False
+Technology & Communications,Hardware,Environment,Energy Management,2,False
+Technology & Communications,Hardware,Environment,Water & Wastewater Management,4,True
+Technology & Communications,Hardware,Environment,Waste & Hazardous Materials,4,True
+Technology & Communications,Hardware,Environment,Ecological Impacts,2,False
+Technology & Communications,Hardware,Social Capital,Human Rights & Community Relations,4,True
+Technology & Communications,Hardware,Social Capital,Customer Privacy,5,True
+Technology & Communications,Hardware,Social Capital,Data Security,5,True
+Technology & Communications,Hardware,Social Capital,Access & Affordability,4,True
+Technology & Communications,Hardware,Social Capital,Product Quality & Safety,5,True
+Technology & Communications,Hardware,Social Capital,Customer Welfare,5,True
+Technology & Communications,Hardware,Social Capital,Selling Practices & Product Labeling,5,True
+Technology & Communications,Hardware,Human Capital,Labor Practices,4,True
+Technology & Communications,Hardware,Human Capital,Employee Health & Safety,3,True
+Technology & Communications,Hardware,Human Capital,Employee Engagement,4,True
+Technology & Communications,Hardware,Human Capital,Diversity & Inclusion,4,True
+Technology & Communications,Hardware,Business Model & Innovation,Product Design & Lifecycle,5,True
+Technology & Communications,Hardware,Business Model & Innovation,Business Model Resilience,5,True
+Technology & Communications,Hardware,Business Model & Innovation,Supply Chain Management,5,True
+Technology & Communications,Hardware,Business Model & Innovation,Materials Sourcing & Efficiency,5,True
+Technology & Communications,Hardware,Business Model & Innovation,Physical Impacts of Climate Change,4,True
+Technology & Communications,Hardware,Leadership & Governance,Business Ethics,3,True
+Technology & Communications,Hardware,Leadership & Governance,Competitive Behavior,3,True
+Technology & Communications,Hardware,Leadership & Governance,Regulatory Environment Management,3,True
+Technology & Communications,Hardware,Leadership & Governance,Critical Incident Risk Management,5,True
+Technology & Communications,Hardware,Leadership & Governance,Systemic Risk Management,3,True
+Technology & Communications,Internet Media & Services,Environment,GHG Emissions,4,True
+Technology & Communications,Internet Media & Services,Environment,Air Quality,2,False
+Technology & Communications,Internet Media & Services,Environment,Energy Management,3,True
+Technology & Communications,Internet Media & Services,Environment,Water & Wastewater Management,3,True
+Technology & Communications,Internet Media & Services,Environment,Waste & Hazardous Materials,4,True
+Technology & Communications,Internet Media & Services,Environment,Ecological Impacts,3,True
+Technology & Communications,Internet Media & Services,Social Capital,Human Rights & Community Relations,5,True
+Technology & Communications,Internet Media & Services,Social Capital,Customer Privacy,5,True
+Technology & Communications,Internet Media & Services,Social Capital,Data Security,5,True
+Technology & Communications,Internet Media & Services,Social Capital,Access & Affordability,5,True
+Technology & Communications,Internet Media & Services,Social Capital,Product Quality & Safety,5,True
+Technology & Communications,Internet Media & Services,Social Capital,Customer Welfare,4,True
+Technology & Communications,Internet Media & Services,Social Capital,Selling Practices & Product Labeling,5,True
+Technology & Communications,Internet Media & Services,Human Capital,Labor Practices,3,True
+Technology & Communications,Internet Media & Services,Human Capital,Employee Health & Safety,4,True
+Technology & Communications,Internet Media & Services,Human Capital,Employee Engagement,4,True
+Technology & Communications,Internet Media & Services,Human Capital,Diversity & Inclusion,3,True
+Technology & Communications,Internet Media & Services,Business Model & Innovation,Product Design & Lifecycle,5,True
+Technology & Communications,Internet Media & Services,Business Model & Innovation,Business Model Resilience,5,True
+Technology & Communications,Internet Media & Services,Business Model & Innovation,Supply Chain Management,5,True
+Technology & Communications,Internet Media & Services,Business Model & Innovation,Materials Sourcing & Efficiency,5,True
+Technology & Communications,Internet Media & Services,Business Model & Innovation,Physical Impacts of Climate Change,5,True
+Technology & Communications,Internet Media & Services,Leadership & Governance,Business Ethics,5,True
+Technology & Communications,Internet Media & Services,Leadership & Governance,Competitive Behavior,5,True
+Technology & Communications,Internet Media & Services,Leadership & Governance,Regulatory Environment Management,4,True
+Technology & Communications,Internet Media & Services,Leadership & Governance,Critical Incident Risk Management,3,True
+Technology & Communications,Internet Media & Services,Leadership & Governance,Systemic Risk Management,3,True
+Technology & Communications,Semiconductors,Environment,GHG Emissions,3,True
+Technology & Communications,Semiconductors,Environment,Air Quality,4,True
+Technology & Communications,Semiconductors,Environment,Energy Management,2,False
+Technology & Communications,Semiconductors,Environment,Water & Wastewater Management,2,False
+Technology & Communications,Semiconductors,Environment,Waste & Hazardous Materials,2,False
+Technology & Communications,Semiconductors,Environment,Ecological Impacts,3,True
+Technology & Communications,Semiconductors,Social Capital,Human Rights & Community Relations,4,True
+Technology & Communications,Semiconductors,Social Capital,Customer Privacy,4,True
+Technology & Communications,Semiconductors,Social Capital,Data Security,5,True
+Technology & Communications,Semiconductors,Social Capital,Access & Affordability,5,True
+Technology & Communications,Semiconductors,Social Capital,Product Quality & Safety,5,True
+Technology & Communications,Semiconductors,Social Capital,Customer Welfare,4,True
+Technology & Communications,Semiconductors,Social Capital,Selling Practices & Product Labeling,4,True
+Technology & Communications,Semiconductors,Human Capital,Labor Practices,4,True
+Technology & Communications,Semiconductors,Human Capital,Employee Health & Safety,5,True
+Technology & Communications,Semiconductors,Human Capital,Employee Engagement,4,True
+Technology & Communications,Semiconductors,Human Capital,Diversity & Inclusion,3,True
+Technology & Communications,Semiconductors,Business Model & Innovation,Product Design & Lifecycle,4,True
+Technology & Communications,Semiconductors,Business Model & Innovation,Business Model Resilience,5,True
+Technology & Communications,Semiconductors,Business Model & Innovation,Supply Chain Management,5,True
+Technology & Communications,Semiconductors,Business Model & Innovation,Materials Sourcing & Efficiency,5,True
+Technology & Communications,Semiconductors,Business Model & Innovation,Physical Impacts of Climate Change,4,True
+Technology & Communications,Semiconductors,Leadership & Governance,Business Ethics,5,True
+Technology & Communications,Semiconductors,Leadership & Governance,Competitive Behavior,5,True
+Technology & Communications,Semiconductors,Leadership & Governance,Regulatory Environment Management,5,True
+Technology & Communications,Semiconductors,Leadership & Governance,Critical Incident Risk Management,4,True
+Technology & Communications,Semiconductors,Leadership & Governance,Systemic Risk Management,3,True
+Technology & Communications,Software & IT Services,Environment,GHG Emissions,3,True
+Technology & Communications,Software & IT Services,Environment,Air Quality,4,True
+Technology & Communications,Software & IT Services,Environment,Energy Management,2,False
+Technology & Communications,Software & IT Services,Environment,Water & Wastewater Management,3,True
+Technology & Communications,Software & IT Services,Environment,Waste & Hazardous Materials,2,False
+Technology & Communications,Software & IT Services,Environment,Ecological Impacts,3,True
+Technology & Communications,Software & IT Services,Social Capital,Human Rights & Community Relations,4,True
+Technology & Communications,Software & IT Services,Social Capital,Customer Privacy,5,True
+Technology & Communications,Software & IT Services,Social Capital,Data Security,5,True
+Technology & Communications,Software & IT Services,Social Capital,Access & Affordability,5,True
+Technology & Communications,Software & IT Services,Social Capital,Product Quality & Safety,5,True
+Technology & Communications,Software & IT Services,Social Capital,Customer Welfare,5,True
+Technology & Communications,Software & IT Services,Social Capital,Selling Practices & Product Labeling,5,True
+Technology & Communications,Software & IT Services,Human Capital,Labor Practices,5,True
+Technology & Communications,Software & IT Services,Human Capital,Employee Health & Safety,4,True
+Technology & Communications,Software & IT Services,Human Capital,Employee Engagement,4,True
+Technology & Communications,Software & IT Services,Human Capital,Diversity & Inclusion,3,True
+Technology & Communications,Software & IT Services,Business Model & Innovation,Product Design & Lifecycle,5,True
+Technology & Communications,Software & IT Services,Business Model & Innovation,Business Model Resilience,4,True
+Technology & Communications,Software & IT Services,Business Model & Innovation,Supply Chain Management,5,True
+Technology & Communications,Software & IT Services,Business Model & Innovation,Materials Sourcing & Efficiency,4,True
+Technology & Communications,Software & IT Services,Business Model & Innovation,Physical Impacts of Climate Change,5,True
+Technology & Communications,Software & IT Services,Leadership & Governance,Business Ethics,4,True
+Technology & Communications,Software & IT Services,Leadership & Governance,Competitive Behavior,5,True
+Technology & Communications,Software & IT Services,Leadership & Governance,Regulatory Environment Management,4,True
+Technology & Communications,Software & IT Services,Leadership & Governance,Critical Incident Risk Management,3,True
+Technology & Communications,Software & IT Services,Leadership & Governance,Systemic Risk Management,4,True
+Technology & Communications,Telecommunication Services,Environment,GHG Emissions,2,False
+Technology & Communications,Telecommunication Services,Environment,Air Quality,2,False
+Technology & Communications,Telecommunication Services,Environment,Energy Management,3,True
+Technology & Communications,Telecommunication Services,Environment,Water & Wastewater Management,4,True
+Technology & Communications,Telecommunication Services,Environment,Waste & Hazardous Materials,3,True
+Technology & Communications,Telecommunication Services,Environment,Ecological Impacts,4,True
+Technology & Communications,Telecommunication Services,Social Capital,Human Rights & Community Relations,4,True
+Technology & Communications,Telecommunication Services,Social Capital,Customer Privacy,5,True
+Technology & Communications,Telecommunication Services,Social Capital,Data Security,5,True
+Technology & Communications,Telecommunication Services,Social Capital,Access & Affordability,5,True
+Technology & Communications,Telecommunication Services,Social Capital,Product Quality & Safety,5,True
+Technology & Communications,Telecommunication Services,Social Capital,Customer Welfare,4,True
+Technology & Communications,Telecommunication Services,Social Capital,Selling Practices & Product Labeling,5,True
+Technology & Communications,Telecommunication Services,Human Capital,Labor Practices,3,True
+Technology & Communications,Telecommunication Services,Human Capital,Employee Health & Safety,3,True
+Technology & Communications,Telecommunication Services,Human Capital,Employee Engagement,5,True
+Technology & Communications,Telecommunication Services,Human Capital,Diversity & Inclusion,5,True
+Technology & Communications,Telecommunication Services,Business Model & Innovation,Product Design & Lifecycle,4,True
+Technology & Communications,Telecommunication Services,Business Model & Innovation,Business Model Resilience,5,True
+Technology & Communications,Telecommunication Services,Business Model & Innovation,Supply Chain Management,5,True
+Technology & Communications,Telecommunication Services,Business Model & Innovation,Materials Sourcing & Efficiency,4,True
+Technology & Communications,Telecommunication Services,Business Model & Innovation,Physical Impacts of Climate Change,5,True
+Technology & Communications,Telecommunication Services,Leadership & Governance,Business Ethics,4,True
+Technology & Communications,Telecommunication Services,Leadership & Governance,Competitive Behavior,5,True
+Technology & Communications,Telecommunication Services,Leadership & Governance,Regulatory Environment Management,5,True
+Technology & Communications,Telecommunication Services,Leadership & Governance,Critical Incident Risk Management,3,True
+Technology & Communications,Telecommunication Services,Leadership & Governance,Systemic Risk Management,3,True
+Transportation,Air Freight & Logistics,Environment,GHG Emissions,3,True
+Transportation,Air Freight & Logistics,Environment,Air Quality,3,True
+Transportation,Air Freight & Logistics,Environment,Energy Management,4,True
+Transportation,Air Freight & Logistics,Environment,Water & Wastewater Management,3,True
+Transportation,Air Freight & Logistics,Environment,Waste & Hazardous Materials,3,True
+Transportation,Air Freight & Logistics,Environment,Ecological Impacts,5,True
+Transportation,Air Freight & Logistics,Social Capital,Human Rights & Community Relations,2,False
+Transportation,Air Freight & Logistics,Social Capital,Customer Privacy,4,True
+Transportation,Air Freight & Logistics,Social Capital,Data Security,2,False
+Transportation,Air Freight & Logistics,Social Capital,Access & Affordability,2,False
+Transportation,Air Freight & Logistics,Social Capital,Product Quality & Safety,4,True
+Transportation,Air Freight & Logistics,Social Capital,Customer Welfare,3,True
+Transportation,Air Freight & Logistics,Social Capital,Selling Practices & Product Labeling,3,True
+Transportation,Air Freight & Logistics,Human Capital,Labor Practices,5,True
+Transportation,Air Freight & Logistics,Human Capital,Employee Health & Safety,5,True
+Transportation,Air Freight & Logistics,Human Capital,Employee Engagement,4,True
+Transportation,Air Freight & Logistics,Human Capital,Diversity & Inclusion,5,True
+Transportation,Air Freight & Logistics,Business Model & Innovation,Product Design & Lifecycle,4,True
+Transportation,Air Freight & Logistics,Business Model & Innovation,Business Model Resilience,4,True
+Transportation,Air Freight & Logistics,Business Model & Innovation,Supply Chain Management,4,True
+Transportation,Air Freight & Logistics,Business Model & Innovation,Materials Sourcing & Efficiency,4,True
+Transportation,Air Freight & Logistics,Business Model & Innovation,Physical Impacts of Climate Change,3,True
+Transportation,Air Freight & Logistics,Leadership & Governance,Business Ethics,4,True
+Transportation,Air Freight & Logistics,Leadership & Governance,Competitive Behavior,3,True
+Transportation,Air Freight & Logistics,Leadership & Governance,Regulatory Environment Management,2,False
+Transportation,Air Freight & Logistics,Leadership & Governance,Critical Incident Risk Management,3,True
+Transportation,Air Freight & Logistics,Leadership & Governance,Systemic Risk Management,2,False
+Transportation,Airlines,Environment,GHG Emissions,4,True
+Transportation,Airlines,Environment,Air Quality,4,True
+Transportation,Airlines,Environment,Energy Management,5,True
+Transportation,Airlines,Environment,Water & Wastewater Management,4,True
+Transportation,Airlines,Environment,Waste & Hazardous Materials,4,True
+Transportation,Airlines,Environment,Ecological Impacts,5,True
+Transportation,Airlines,Social Capital,Human Rights & Community Relations,2,False
+Transportation,Airlines,Social Capital,Customer Privacy,3,True
+Transportation,Airlines,Social Capital,Data Security,4,True
+Transportation,Airlines,Social Capital,Access & Affordability,2,False
+Transportation,Airlines,Social Capital,Product Quality & Safety,3,True
+Transportation,Airlines,Social Capital,Customer Welfare,3,True
+Transportation,Airlines,Social Capital,Selling Practices & Product Labeling,3,True
+Transportation,Airlines,Human Capital,Labor Practices,3,True
+Transportation,Airlines,Human Capital,Employee Health & Safety,3,True
+Transportation,Airlines,Human Capital,Employee Engagement,4,True
+Transportation,Airlines,Human Capital,Diversity & Inclusion,4,True
+Transportation,Airlines,Business Model & Innovation,Product Design & Lifecycle,2,False
+Transportation,Airlines,Business Model & Innovation,Business Model Resilience,4,True
+Transportation,Airlines,Business Model & Innovation,Supply Chain Management,2,False
+Transportation,Airlines,Business Model & Innovation,Materials Sourcing & Efficiency,4,True
+Transportation,Airlines,Business Model & Innovation,Physical Impacts of Climate Change,4,True
+Transportation,Airlines,Leadership & Governance,Business Ethics,4,True
+Transportation,Airlines,Leadership & Governance,Competitive Behavior,3,True
+Transportation,Airlines,Leadership & Governance,Regulatory Environment Management,3,True
+Transportation,Airlines,Leadership & Governance,Critical Incident Risk Management,4,True
+Transportation,Airlines,Leadership & Governance,Systemic Risk Management,4,True
+Transportation,Auto Parts,Environment,GHG Emissions,5,True
+Transportation,Auto Parts,Environment,Air Quality,3,True
+Transportation,Auto Parts,Environment,Energy Management,4,True
+Transportation,Auto Parts,Environment,Water & Wastewater Management,5,True
+Transportation,Auto Parts,Environment,Waste & Hazardous Materials,5,True
+Transportation,Auto Parts,Environment,Ecological Impacts,3,True
+Transportation,Auto Parts,Social Capital,Human Rights & Community Relations,3,True
+Transportation,Auto Parts,Social Capital,Customer Privacy,4,True
+Transportation,Auto Parts,Social Capital,Data Security,3,True
+Transportation,Auto Parts,Social Capital,Access & Affordability,4,True
+Transportation,Auto Parts,Social Capital,Product Quality & Safety,2,False
+Transportation,Auto Parts,Social Capital,Customer Welfare,2,False
+Transportation,Auto Parts,Social Capital,Selling Practices & Product Labeling,3,True
+Transportation,Auto Parts,Human Capital,Labor Practices,3,True
+Transportation,Auto Parts,Human Capital,Employee Health & Safety,4,True
+Transportation,Auto Parts,Human Capital,Employee Engagement,5,True
+Transportation,Auto Parts,Human Capital,Diversity & Inclusion,3,True
+Transportation,Auto Parts,Business Model & Innovation,Product Design & Lifecycle,4,True
+Transportation,Auto Parts,Business Model & Innovation,Business Model Resilience,4,True
+Transportation,Auto Parts,Business Model & Innovation,Supply Chain Management,2,False
+Transportation,Auto Parts,Business Model & Innovation,Materials Sourcing & Efficiency,2,False
+Transportation,Auto Parts,Business Model & Innovation,Physical Impacts of Climate Change,2,False
+Transportation,Auto Parts,Leadership & Governance,Business Ethics,4,True
+Transportation,Auto Parts,Leadership & Governance,Competitive Behavior,3,True
+Transportation,Auto Parts,Leadership & Governance,Regulatory Environment Management,3,True
+Transportation,Auto Parts,Leadership & Governance,Critical Incident Risk Management,4,True
+Transportation,Auto Parts,Leadership & Governance,Systemic Risk Management,4,True
+Transportation,Automobiles,Environment,GHG Emissions,5,True
+Transportation,Automobiles,Environment,Air Quality,3,True
+Transportation,Automobiles,Environment,Energy Management,4,True
+Transportation,Automobiles,Environment,Water & Wastewater Management,4,True
+Transportation,Automobiles,Environment,Waste & Hazardous Materials,4,True
+Transportation,Automobiles,Environment,Ecological Impacts,4,True
+Transportation,Automobiles,Social Capital,Human Rights & Community Relations,3,True
+Transportation,Automobiles,Social Capital,Customer Privacy,3,True
+Transportation,Automobiles,Social Capital,Data Security,4,True
+Transportation,Automobiles,Social Capital,Access & Affordability,4,True
+Transportation,Automobiles,Social Capital,Product Quality & Safety,2,False
+Transportation,Automobiles,Social Capital,Customer Welfare,4,True
+Transportation,Automobiles,Social Capital,Selling Practices & Product Labeling,4,True
+Transportation,Automobiles,Human Capital,Labor Practices,4,True
+Transportation,Automobiles,Human Capital,Employee Health & Safety,3,True
+Transportation,Automobiles,Human Capital,Employee Engagement,4,True
+Transportation,Automobiles,Human Capital,Diversity & Inclusion,3,True
+Transportation,Automobiles,Business Model & Innovation,Product Design & Lifecycle,4,True
+Transportation,Automobiles,Business Model & Innovation,Business Model Resilience,4,True
+Transportation,Automobiles,Business Model & Innovation,Supply Chain Management,3,True
+Transportation,Automobiles,Business Model & Innovation,Materials Sourcing & Efficiency,3,True
+Transportation,Automobiles,Business Model & Innovation,Physical Impacts of Climate Change,3,True
+Transportation,Automobiles,Leadership & Governance,Business Ethics,4,True
+Transportation,Automobiles,Leadership & Governance,Competitive Behavior,4,True
+Transportation,Automobiles,Leadership & Governance,Regulatory Environment Management,4,True
+Transportation,Automobiles,Leadership & Governance,Critical Incident Risk Management,2,False
+Transportation,Automobiles,Leadership & Governance,Systemic Risk Management,3,True
+Transportation,Car Rental & Leasing,Environment,GHG Emissions,3,True
+Transportation,Car Rental & Leasing,Environment,Air Quality,5,True
+Transportation,Car Rental & Leasing,Environment,Energy Management,5,True
+Transportation,Car Rental & Leasing,Environment,Water & Wastewater Management,3,True
+Transportation,Car Rental & Leasing,Environment,Waste & Hazardous Materials,4,True
+Transportation,Car Rental & Leasing,Environment,Ecological Impacts,4,True
+Transportation,Car Rental & Leasing,Social Capital,Human Rights & Community Relations,4,True
+Transportation,Car Rental & Leasing,Social Capital,Customer Privacy,4,True
+Transportation,Car Rental & Leasing,Social Capital,Data Security,4,True
+Transportation,Car Rental & Leasing,Social Capital,Access & Affordability,3,True
+Transportation,Car Rental & Leasing,Social Capital,Product Quality & Safety,2,False
+Transportation,Car Rental & Leasing,Social Capital,Customer Welfare,4,True
+Transportation,Car Rental & Leasing,Social Capital,Selling Practices & Product Labeling,4,True
+Transportation,Car Rental & Leasing,Human Capital,Labor Practices,3,True
+Transportation,Car Rental & Leasing,Human Capital,Employee Health & Safety,4,True
+Transportation,Car Rental & Leasing,Human Capital,Employee Engagement,5,True
+Transportation,Car Rental & Leasing,Human Capital,Diversity & Inclusion,4,True
+Transportation,Car Rental & Leasing,Business Model & Innovation,Product Design & Lifecycle,4,True
+Transportation,Car Rental & Leasing,Business Model & Innovation,Business Model Resilience,3,True
+Transportation,Car Rental & Leasing,Business Model & Innovation,Supply Chain Management,2,False
+Transportation,Car Rental & Leasing,Business Model & Innovation,Materials Sourcing & Efficiency,4,True
+Transportation,Car Rental & Leasing,Business Model & Innovation,Physical Impacts of Climate Change,4,True
+Transportation,Car Rental & Leasing,Leadership & Governance,Business Ethics,4,True
+Transportation,Car Rental & Leasing,Leadership & Governance,Competitive Behavior,4,True
+Transportation,Car Rental & Leasing,Leadership & Governance,Regulatory Environment Management,4,True
+Transportation,Car Rental & Leasing,Leadership & Governance,Critical Incident Risk Management,2,False
+Transportation,Car Rental & Leasing,Leadership & Governance,Systemic Risk Management,4,True
+Transportation,Cruise Lines,Environment,GHG Emissions,5,True
+Transportation,Cruise Lines,Environment,Air Quality,4,True
+Transportation,Cruise Lines,Environment,Energy Management,5,True
+Transportation,Cruise Lines,Environment,Water & Wastewater Management,4,True
+Transportation,Cruise Lines,Environment,Waste & Hazardous Materials,3,True
+Transportation,Cruise Lines,Environment,Ecological Impacts,4,True
+Transportation,Cruise Lines,Social Capital,Human Rights & Community Relations,3,True
+Transportation,Cruise Lines,Social Capital,Customer Privacy,2,False
+Transportation,Cruise Lines,Social Capital,Data Security,2,False
+Transportation,Cruise Lines,Social Capital,Access & Affordability,3,True
+Transportation,Cruise Lines,Social Capital,Product Quality & Safety,3,True
+Transportation,Cruise Lines,Social Capital,Customer Welfare,2,False
+Transportation,Cruise Lines,Social Capital,Selling Practices & Product Labeling,2,False
+Transportation,Cruise Lines,Human Capital,Labor Practices,3,True
+Transportation,Cruise Lines,Human Capital,Employee Health & Safety,3,True
+Transportation,Cruise Lines,Human Capital,Employee Engagement,3,True
+Transportation,Cruise Lines,Human Capital,Diversity & Inclusion,4,True
+Transportation,Cruise Lines,Business Model & Innovation,Product Design & Lifecycle,2,False
+Transportation,Cruise Lines,Business Model & Innovation,Business Model Resilience,4,True
+Transportation,Cruise Lines,Business Model & Innovation,Supply Chain Management,4,True
+Transportation,Cruise Lines,Business Model & Innovation,Materials Sourcing & Efficiency,4,True
+Transportation,Cruise Lines,Business Model & Innovation,Physical Impacts of Climate Change,4,True
+Transportation,Cruise Lines,Leadership & Governance,Business Ethics,2,False
+Transportation,Cruise Lines,Leadership & Governance,Competitive Behavior,4,True
+Transportation,Cruise Lines,Leadership & Governance,Regulatory Environment Management,3,True
+Transportation,Cruise Lines,Leadership & Governance,Critical Incident Risk Management,4,True
+Transportation,Cruise Lines,Leadership & Governance,Systemic Risk Management,2,False
+Transportation,Marine Transportation,Environment,GHG Emissions,5,True
+Transportation,Marine Transportation,Environment,Air Quality,4,True
+Transportation,Marine Transportation,Environment,Energy Management,3,True
+Transportation,Marine Transportation,Environment,Water & Wastewater Management,3,True
+Transportation,Marine Transportation,Environment,Waste & Hazardous Materials,3,True
+Transportation,Marine Transportation,Environment,Ecological Impacts,5,True
+Transportation,Marine Transportation,Social Capital,Human Rights & Community Relations,4,True
+Transportation,Marine Transportation,Social Capital,Customer Privacy,2,False
+Transportation,Marine Transportation,Social Capital,Data Security,4,True
+Transportation,Marine Transportation,Social Capital,Access & Affordability,3,True
+Transportation,Marine Transportation,Social Capital,Product Quality & Safety,2,False
+Transportation,Marine Transportation,Social Capital,Customer Welfare,3,True
+Transportation,Marine Transportation,Social Capital,Selling Practices & Product Labeling,3,True
+Transportation,Marine Transportation,Human Capital,Labor Practices,5,True
+Transportation,Marine Transportation,Human Capital,Employee Health & Safety,5,True
+Transportation,Marine Transportation,Human Capital,Employee Engagement,3,True
+Transportation,Marine Transportation,Human Capital,Diversity & Inclusion,4,True
+Transportation,Marine Transportation,Business Model & Innovation,Product Design & Lifecycle,4,True
+Transportation,Marine Transportation,Business Model & Innovation,Business Model Resilience,3,True
+Transportation,Marine Transportation,Business Model & Innovation,Supply Chain Management,4,True
+Transportation,Marine Transportation,Business Model & Innovation,Materials Sourcing & Efficiency,3,True
+Transportation,Marine Transportation,Business Model & Innovation,Physical Impacts of Climate Change,2,False
+Transportation,Marine Transportation,Leadership & Governance,Business Ethics,4,True
+Transportation,Marine Transportation,Leadership & Governance,Competitive Behavior,2,False
+Transportation,Marine Transportation,Leadership & Governance,Regulatory Environment Management,3,True
+Transportation,Marine Transportation,Leadership & Governance,Critical Incident Risk Management,3,True
+Transportation,Marine Transportation,Leadership & Governance,Systemic Risk Management,2,False
+Transportation,Rail Transportation,Environment,GHG Emissions,4,True
+Transportation,Rail Transportation,Environment,Air Quality,5,True
+Transportation,Rail Transportation,Environment,Energy Management,5,True
+Transportation,Rail Transportation,Environment,Water & Wastewater Management,4,True
+Transportation,Rail Transportation,Environment,Waste & Hazardous Materials,4,True
+Transportation,Rail Transportation,Environment,Ecological Impacts,4,True
+Transportation,Rail Transportation,Social Capital,Human Rights & Community Relations,3,True
+Transportation,Rail Transportation,Social Capital,Customer Privacy,4,True
+Transportation,Rail Transportation,Social Capital,Data Security,4,True
+Transportation,Rail Transportation,Social Capital,Access & Affordability,3,True
+Transportation,Rail Transportation,Social Capital,Product Quality & Safety,2,False
+Transportation,Rail Transportation,Social Capital,Customer Welfare,2,False
+Transportation,Rail Transportation,Social Capital,Selling Practices & Product Labeling,4,True
+Transportation,Rail Transportation,Human Capital,Labor Practices,3,True
+Transportation,Rail Transportation,Human Capital,Employee Health & Safety,4,True
+Transportation,Rail Transportation,Human Capital,Employee Engagement,3,True
+Transportation,Rail Transportation,Human Capital,Diversity & Inclusion,5,True
+Transportation,Rail Transportation,Business Model & Innovation,Product Design & Lifecycle,3,True
+Transportation,Rail Transportation,Business Model & Innovation,Business Model Resilience,3,True
+Transportation,Rail Transportation,Business Model & Innovation,Supply Chain Management,4,True
+Transportation,Rail Transportation,Business Model & Innovation,Materials Sourcing & Efficiency,2,False
+Transportation,Rail Transportation,Business Model & Innovation,Physical Impacts of Climate Change,4,True
+Transportation,Rail Transportation,Leadership & Governance,Business Ethics,4,True
+Transportation,Rail Transportation,Leadership & Governance,Competitive Behavior,2,False
+Transportation,Rail Transportation,Leadership & Governance,Regulatory Environment Management,3,True
+Transportation,Rail Transportation,Leadership & Governance,Critical Incident Risk Management,2,False
+Transportation,Rail Transportation,Leadership & Governance,Systemic Risk Management,2,False
+Transportation,Road Transportation,Environment,GHG Emissions,4,True
+Transportation,Road Transportation,Environment,Air Quality,4,True
+Transportation,Road Transportation,Environment,Energy Management,5,True
+Transportation,Road Transportation,Environment,Water & Wastewater Management,3,True
+Transportation,Road Transportation,Environment,Waste & Hazardous Materials,4,True
+Transportation,Road Transportation,Environment,Ecological Impacts,3,True
+Transportation,Road Transportation,Social Capital,Human Rights & Community Relations,2,False
+Transportation,Road Transportation,Social Capital,Customer Privacy,3,True
+Transportation,Road Transportation,Social Capital,Data Security,3,True
+Transportation,Road Transportation,Social Capital,Access & Affordability,2,False
+Transportation,Road Transportation,Social Capital,Product Quality & Safety,3,True
+Transportation,Road Transportation,Social Capital,Customer Welfare,2,False
+Transportation,Road Transportation,Social Capital,Selling Practices & Product Labeling,3,True
+Transportation,Road Transportation,Human Capital,Labor Practices,5,True
+Transportation,Road Transportation,Human Capital,Employee Health & Safety,4,True
+Transportation,Road Transportation,Human Capital,Employee Engagement,3,True
+Transportation,Road Transportation,Human Capital,Diversity & Inclusion,4,True
+Transportation,Road Transportation,Business Model & Innovation,Product Design & Lifecycle,2,False
+Transportation,Road Transportation,Business Model & Innovation,Business Model Resilience,3,True
+Transportation,Road Transportation,Business Model & Innovation,Supply Chain Management,2,False
+Transportation,Road Transportation,Business Model & Innovation,Materials Sourcing & Efficiency,2,False
+Transportation,Road Transportation,Business Model & Innovation,Physical Impacts of Climate Change,3,True
+Transportation,Road Transportation,Leadership & Governance,Business Ethics,2,False
+Transportation,Road Transportation,Leadership & Governance,Competitive Behavior,4,True
+Transportation,Road Transportation,Leadership & Governance,Regulatory Environment Management,4,True
+Transportation,Road Transportation,Leadership & Governance,Critical Incident Risk Management,3,True
+Transportation,Road Transportation,Leadership & Governance,Systemic Risk Management,2,False

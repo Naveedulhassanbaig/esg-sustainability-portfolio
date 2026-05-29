@@ -1,0 +1,601 @@
+Company,Sector,GRI_Code,GRI_Category,GRI_Topic,GRI_Description,Disclosed,Completeness_Pct
+Apple Inc,Technology & Communications,GRI 2,Universal,General Disclosures,"Organizational profile, governance, stakeholder engagement",True,85
+Apple Inc,Technology & Communications,GRI 3,Universal,Material Topics,Process for determining material topics,True,76
+Apple Inc,Technology & Communications,GRI 201,Economic,Economic Performance,Direct economic value generated and distributed,True,97
+Apple Inc,Technology & Communications,GRI 202,Economic,Market Presence,Ratios of standard entry level wage by gender,False,0
+Apple Inc,Technology & Communications,GRI 203,Economic,Indirect Economic Impacts,Infrastructure investments and services supported,True,60
+Apple Inc,Technology & Communications,GRI 204,Economic,Procurement Practices,Proportion of spending on local suppliers,True,61
+Apple Inc,Technology & Communications,GRI 205,Economic,Anti-Corruption,Operations assessed for corruption risks,True,51
+Apple Inc,Technology & Communications,GRI 206,Economic,Anti-Competitive Behavior,Legal actions for anti-competitive behavior,False,0
+Apple Inc,Technology & Communications,GRI 207,Economic,Tax,"Approach to tax, governance, control",True,100
+Apple Inc,Technology & Communications,GRI 301,Environmental,Materials,Materials used by weight or volume,True,92
+Apple Inc,Technology & Communications,GRI 302,Environmental,Energy,Energy consumption within organization,True,65
+Apple Inc,Technology & Communications,GRI 303,Environmental,Water & Effluents,Water withdrawal by source,False,0
+Apple Inc,Technology & Communications,GRI 304,Environmental,Biodiversity,Operational sites near protected areas,True,56
+Apple Inc,Technology & Communications,GRI 305,Environmental,Emissions,Direct GHG emissions (Scope 1),True,52
+Apple Inc,Technology & Communications,GRI 306,Environmental,Waste,Waste generated and disposal,True,64
+Apple Inc,Technology & Communications,GRI 308,Environmental,Supplier Environmental Assessment,New suppliers screened on environment,False,0
+Apple Inc,Technology & Communications,GRI 401,Social,Employment,New employee hires and turnover,True,72
+Apple Inc,Technology & Communications,GRI 402,Social,Labor/Management Relations,Minimum notice periods for operational changes,True,100
+Apple Inc,Technology & Communications,GRI 403,Social,Occupational Health & Safety,Management system for health and safety,True,64
+Apple Inc,Technology & Communications,GRI 404,Social,Training & Education,Average hours of training per year,False,0
+Apple Inc,Technology & Communications,GRI 405,Social,Diversity & Equal Opportunity,Diversity of governance bodies,False,0
+Apple Inc,Technology & Communications,GRI 406,Social,Non-Discrimination,Incidents of discrimination,True,54
+Apple Inc,Technology & Communications,GRI 407,Social,Freedom of Association,Operations where rights may be at risk,True,67
+Apple Inc,Technology & Communications,GRI 408,Social,Child Labor,Operations at significant risk for child labor,True,82
+Apple Inc,Technology & Communications,GRI 409,Social,Forced Labor,Operations at risk for forced labor,True,84
+Apple Inc,Technology & Communications,GRI 413,Social,Local Communities,Operations with local community engagement,True,51
+Apple Inc,Technology & Communications,GRI 414,Social,Supplier Social Assessment,New suppliers screened on social criteria,False,0
+Apple Inc,Technology & Communications,GRI 415,Social,Public Policy,Political contributions,True,61
+Apple Inc,Technology & Communications,GRI 416,Social,Customer Health & Safety,Assessment of health and safety impacts,True,66
+Apple Inc,Technology & Communications,GRI 418,Social,Customer Privacy,Substantiated complaints on privacy breaches,False,0
+Microsoft,Technology & Communications,GRI 2,Universal,General Disclosures,"Organizational profile, governance, stakeholder engagement",True,72
+Microsoft,Technology & Communications,GRI 3,Universal,Material Topics,Process for determining material topics,True,70
+Microsoft,Technology & Communications,GRI 201,Economic,Economic Performance,Direct economic value generated and distributed,True,82
+Microsoft,Technology & Communications,GRI 202,Economic,Market Presence,Ratios of standard entry level wage by gender,False,0
+Microsoft,Technology & Communications,GRI 203,Economic,Indirect Economic Impacts,Infrastructure investments and services supported,True,62
+Microsoft,Technology & Communications,GRI 204,Economic,Procurement Practices,Proportion of spending on local suppliers,False,0
+Microsoft,Technology & Communications,GRI 205,Economic,Anti-Corruption,Operations assessed for corruption risks,True,50
+Microsoft,Technology & Communications,GRI 206,Economic,Anti-Competitive Behavior,Legal actions for anti-competitive behavior,True,84
+Microsoft,Technology & Communications,GRI 207,Economic,Tax,"Approach to tax, governance, control",True,97
+Microsoft,Technology & Communications,GRI 301,Environmental,Materials,Materials used by weight or volume,True,62
+Microsoft,Technology & Communications,GRI 302,Environmental,Energy,Energy consumption within organization,True,54
+Microsoft,Technology & Communications,GRI 303,Environmental,Water & Effluents,Water withdrawal by source,True,71
+Microsoft,Technology & Communications,GRI 304,Environmental,Biodiversity,Operational sites near protected areas,True,92
+Microsoft,Technology & Communications,GRI 305,Environmental,Emissions,Direct GHG emissions (Scope 1),True,96
+Microsoft,Technology & Communications,GRI 306,Environmental,Waste,Waste generated and disposal,True,82
+Microsoft,Technology & Communications,GRI 308,Environmental,Supplier Environmental Assessment,New suppliers screened on environment,True,76
+Microsoft,Technology & Communications,GRI 401,Social,Employment,New employee hires and turnover,True,94
+Microsoft,Technology & Communications,GRI 402,Social,Labor/Management Relations,Minimum notice periods for operational changes,False,0
+Microsoft,Technology & Communications,GRI 403,Social,Occupational Health & Safety,Management system for health and safety,False,0
+Microsoft,Technology & Communications,GRI 404,Social,Training & Education,Average hours of training per year,True,74
+Microsoft,Technology & Communications,GRI 405,Social,Diversity & Equal Opportunity,Diversity of governance bodies,True,61
+Microsoft,Technology & Communications,GRI 406,Social,Non-Discrimination,Incidents of discrimination,True,69
+Microsoft,Technology & Communications,GRI 407,Social,Freedom of Association,Operations where rights may be at risk,True,50
+Microsoft,Technology & Communications,GRI 408,Social,Child Labor,Operations at significant risk for child labor,True,63
+Microsoft,Technology & Communications,GRI 409,Social,Forced Labor,Operations at risk for forced labor,True,87
+Microsoft,Technology & Communications,GRI 413,Social,Local Communities,Operations with local community engagement,True,70
+Microsoft,Technology & Communications,GRI 414,Social,Supplier Social Assessment,New suppliers screened on social criteria,True,78
+Microsoft,Technology & Communications,GRI 415,Social,Public Policy,Political contributions,True,82
+Microsoft,Technology & Communications,GRI 416,Social,Customer Health & Safety,Assessment of health and safety impacts,True,100
+Microsoft,Technology & Communications,GRI 418,Social,Customer Privacy,Substantiated complaints on privacy breaches,True,92
+Amazon,Services,GRI 2,Universal,General Disclosures,"Organizational profile, governance, stakeholder engagement",False,0
+Amazon,Services,GRI 3,Universal,Material Topics,Process for determining material topics,True,90
+Amazon,Services,GRI 201,Economic,Economic Performance,Direct economic value generated and distributed,True,55
+Amazon,Services,GRI 202,Economic,Market Presence,Ratios of standard entry level wage by gender,True,98
+Amazon,Services,GRI 203,Economic,Indirect Economic Impacts,Infrastructure investments and services supported,False,0
+Amazon,Services,GRI 204,Economic,Procurement Practices,Proportion of spending on local suppliers,True,62
+Amazon,Services,GRI 205,Economic,Anti-Corruption,Operations assessed for corruption risks,False,0
+Amazon,Services,GRI 206,Economic,Anti-Competitive Behavior,Legal actions for anti-competitive behavior,False,0
+Amazon,Services,GRI 207,Economic,Tax,"Approach to tax, governance, control",True,89
+Amazon,Services,GRI 301,Environmental,Materials,Materials used by weight or volume,True,54
+Amazon,Services,GRI 302,Environmental,Energy,Energy consumption within organization,True,90
+Amazon,Services,GRI 303,Environmental,Water & Effluents,Water withdrawal by source,True,95
+Amazon,Services,GRI 304,Environmental,Biodiversity,Operational sites near protected areas,True,81
+Amazon,Services,GRI 305,Environmental,Emissions,Direct GHG emissions (Scope 1),True,59
+Amazon,Services,GRI 306,Environmental,Waste,Waste generated and disposal,True,50
+Amazon,Services,GRI 308,Environmental,Supplier Environmental Assessment,New suppliers screened on environment,True,99
+Amazon,Services,GRI 401,Social,Employment,New employee hires and turnover,True,99
+Amazon,Services,GRI 402,Social,Labor/Management Relations,Minimum notice periods for operational changes,True,61
+Amazon,Services,GRI 403,Social,Occupational Health & Safety,Management system for health and safety,True,94
+Amazon,Services,GRI 404,Social,Training & Education,Average hours of training per year,True,53
+Amazon,Services,GRI 405,Social,Diversity & Equal Opportunity,Diversity of governance bodies,True,57
+Amazon,Services,GRI 406,Social,Non-Discrimination,Incidents of discrimination,True,79
+Amazon,Services,GRI 407,Social,Freedom of Association,Operations where rights may be at risk,True,85
+Amazon,Services,GRI 408,Social,Child Labor,Operations at significant risk for child labor,True,98
+Amazon,Services,GRI 409,Social,Forced Labor,Operations at risk for forced labor,True,89
+Amazon,Services,GRI 413,Social,Local Communities,Operations with local community engagement,True,82
+Amazon,Services,GRI 414,Social,Supplier Social Assessment,New suppliers screened on social criteria,True,85
+Amazon,Services,GRI 415,Social,Public Policy,Political contributions,True,60
+Amazon,Services,GRI 416,Social,Customer Health & Safety,Assessment of health and safety impacts,True,80
+Amazon,Services,GRI 418,Social,Customer Privacy,Substantiated complaints on privacy breaches,True,98
+Tesla,Transportation,GRI 2,Universal,General Disclosures,"Organizational profile, governance, stakeholder engagement",False,0
+Tesla,Transportation,GRI 3,Universal,Material Topics,Process for determining material topics,True,99
+Tesla,Transportation,GRI 201,Economic,Economic Performance,Direct economic value generated and distributed,True,81
+Tesla,Transportation,GRI 202,Economic,Market Presence,Ratios of standard entry level wage by gender,True,67
+Tesla,Transportation,GRI 203,Economic,Indirect Economic Impacts,Infrastructure investments and services supported,True,95
+Tesla,Transportation,GRI 204,Economic,Procurement Practices,Proportion of spending on local suppliers,False,0
+Tesla,Transportation,GRI 205,Economic,Anti-Corruption,Operations assessed for corruption risks,False,0
+Tesla,Transportation,GRI 206,Economic,Anti-Competitive Behavior,Legal actions for anti-competitive behavior,True,84
+Tesla,Transportation,GRI 207,Economic,Tax,"Approach to tax, governance, control",False,0
+Tesla,Transportation,GRI 301,Environmental,Materials,Materials used by weight or volume,False,0
+Tesla,Transportation,GRI 302,Environmental,Energy,Energy consumption within organization,True,59
+Tesla,Transportation,GRI 303,Environmental,Water & Effluents,Water withdrawal by source,True,54
+Tesla,Transportation,GRI 304,Environmental,Biodiversity,Operational sites near protected areas,True,71
+Tesla,Transportation,GRI 305,Environmental,Emissions,Direct GHG emissions (Scope 1),True,76
+Tesla,Transportation,GRI 306,Environmental,Waste,Waste generated and disposal,False,0
+Tesla,Transportation,GRI 308,Environmental,Supplier Environmental Assessment,New suppliers screened on environment,True,74
+Tesla,Transportation,GRI 401,Social,Employment,New employee hires and turnover,True,87
+Tesla,Transportation,GRI 402,Social,Labor/Management Relations,Minimum notice periods for operational changes,True,51
+Tesla,Transportation,GRI 403,Social,Occupational Health & Safety,Management system for health and safety,True,98
+Tesla,Transportation,GRI 404,Social,Training & Education,Average hours of training per year,True,80
+Tesla,Transportation,GRI 405,Social,Diversity & Equal Opportunity,Diversity of governance bodies,False,0
+Tesla,Transportation,GRI 406,Social,Non-Discrimination,Incidents of discrimination,True,98
+Tesla,Transportation,GRI 407,Social,Freedom of Association,Operations where rights may be at risk,True,76
+Tesla,Transportation,GRI 408,Social,Child Labor,Operations at significant risk for child labor,True,97
+Tesla,Transportation,GRI 409,Social,Forced Labor,Operations at risk for forced labor,True,88
+Tesla,Transportation,GRI 413,Social,Local Communities,Operations with local community engagement,True,81
+Tesla,Transportation,GRI 414,Social,Supplier Social Assessment,New suppliers screened on social criteria,False,0
+Tesla,Transportation,GRI 415,Social,Public Policy,Political contributions,True,51
+Tesla,Transportation,GRI 416,Social,Customer Health & Safety,Assessment of health and safety impacts,True,92
+Tesla,Transportation,GRI 418,Social,Customer Privacy,Substantiated complaints on privacy breaches,True,75
+ExxonMobil,Extractives & Minerals Processing,GRI 2,Universal,General Disclosures,"Organizational profile, governance, stakeholder engagement",True,79
+ExxonMobil,Extractives & Minerals Processing,GRI 3,Universal,Material Topics,Process for determining material topics,True,89
+ExxonMobil,Extractives & Minerals Processing,GRI 201,Economic,Economic Performance,Direct economic value generated and distributed,True,75
+ExxonMobil,Extractives & Minerals Processing,GRI 202,Economic,Market Presence,Ratios of standard entry level wage by gender,True,92
+ExxonMobil,Extractives & Minerals Processing,GRI 203,Economic,Indirect Economic Impacts,Infrastructure investments and services supported,False,0
+ExxonMobil,Extractives & Minerals Processing,GRI 204,Economic,Procurement Practices,Proportion of spending on local suppliers,True,58
+ExxonMobil,Extractives & Minerals Processing,GRI 205,Economic,Anti-Corruption,Operations assessed for corruption risks,True,61
+ExxonMobil,Extractives & Minerals Processing,GRI 206,Economic,Anti-Competitive Behavior,Legal actions for anti-competitive behavior,False,0
+ExxonMobil,Extractives & Minerals Processing,GRI 207,Economic,Tax,"Approach to tax, governance, control",True,63
+ExxonMobil,Extractives & Minerals Processing,GRI 301,Environmental,Materials,Materials used by weight or volume,True,71
+ExxonMobil,Extractives & Minerals Processing,GRI 302,Environmental,Energy,Energy consumption within organization,True,74
+ExxonMobil,Extractives & Minerals Processing,GRI 303,Environmental,Water & Effluents,Water withdrawal by source,False,0
+ExxonMobil,Extractives & Minerals Processing,GRI 304,Environmental,Biodiversity,Operational sites near protected areas,True,76
+ExxonMobil,Extractives & Minerals Processing,GRI 305,Environmental,Emissions,Direct GHG emissions (Scope 1),False,0
+ExxonMobil,Extractives & Minerals Processing,GRI 306,Environmental,Waste,Waste generated and disposal,False,0
+ExxonMobil,Extractives & Minerals Processing,GRI 308,Environmental,Supplier Environmental Assessment,New suppliers screened on environment,False,0
+ExxonMobil,Extractives & Minerals Processing,GRI 401,Social,Employment,New employee hires and turnover,True,72
+ExxonMobil,Extractives & Minerals Processing,GRI 402,Social,Labor/Management Relations,Minimum notice periods for operational changes,False,0
+ExxonMobil,Extractives & Minerals Processing,GRI 403,Social,Occupational Health & Safety,Management system for health and safety,False,0
+ExxonMobil,Extractives & Minerals Processing,GRI 404,Social,Training & Education,Average hours of training per year,True,52
+ExxonMobil,Extractives & Minerals Processing,GRI 405,Social,Diversity & Equal Opportunity,Diversity of governance bodies,True,65
+ExxonMobil,Extractives & Minerals Processing,GRI 406,Social,Non-Discrimination,Incidents of discrimination,False,0
+ExxonMobil,Extractives & Minerals Processing,GRI 407,Social,Freedom of Association,Operations where rights may be at risk,False,0
+ExxonMobil,Extractives & Minerals Processing,GRI 408,Social,Child Labor,Operations at significant risk for child labor,False,0
+ExxonMobil,Extractives & Minerals Processing,GRI 409,Social,Forced Labor,Operations at risk for forced labor,False,0
+ExxonMobil,Extractives & Minerals Processing,GRI 413,Social,Local Communities,Operations with local community engagement,True,86
+ExxonMobil,Extractives & Minerals Processing,GRI 414,Social,Supplier Social Assessment,New suppliers screened on social criteria,True,79
+ExxonMobil,Extractives & Minerals Processing,GRI 415,Social,Public Policy,Political contributions,True,99
+ExxonMobil,Extractives & Minerals Processing,GRI 416,Social,Customer Health & Safety,Assessment of health and safety impacts,True,88
+ExxonMobil,Extractives & Minerals Processing,GRI 418,Social,Customer Privacy,Substantiated complaints on privacy breaches,True,97
+BP,Extractives & Minerals Processing,GRI 2,Universal,General Disclosures,"Organizational profile, governance, stakeholder engagement",True,99
+BP,Extractives & Minerals Processing,GRI 3,Universal,Material Topics,Process for determining material topics,True,69
+BP,Extractives & Minerals Processing,GRI 201,Economic,Economic Performance,Direct economic value generated and distributed,False,0
+BP,Extractives & Minerals Processing,GRI 202,Economic,Market Presence,Ratios of standard entry level wage by gender,False,0
+BP,Extractives & Minerals Processing,GRI 203,Economic,Indirect Economic Impacts,Infrastructure investments and services supported,True,93
+BP,Extractives & Minerals Processing,GRI 204,Economic,Procurement Practices,Proportion of spending on local suppliers,True,74
+BP,Extractives & Minerals Processing,GRI 205,Economic,Anti-Corruption,Operations assessed for corruption risks,True,95
+BP,Extractives & Minerals Processing,GRI 206,Economic,Anti-Competitive Behavior,Legal actions for anti-competitive behavior,False,0
+BP,Extractives & Minerals Processing,GRI 207,Economic,Tax,"Approach to tax, governance, control",True,90
+BP,Extractives & Minerals Processing,GRI 301,Environmental,Materials,Materials used by weight or volume,False,0
+BP,Extractives & Minerals Processing,GRI 302,Environmental,Energy,Energy consumption within organization,True,69
+BP,Extractives & Minerals Processing,GRI 303,Environmental,Water & Effluents,Water withdrawal by source,True,88
+BP,Extractives & Minerals Processing,GRI 304,Environmental,Biodiversity,Operational sites near protected areas,True,100
+BP,Extractives & Minerals Processing,GRI 305,Environmental,Emissions,Direct GHG emissions (Scope 1),True,100
+BP,Extractives & Minerals Processing,GRI 306,Environmental,Waste,Waste generated and disposal,False,0
+BP,Extractives & Minerals Processing,GRI 308,Environmental,Supplier Environmental Assessment,New suppliers screened on environment,True,92
+BP,Extractives & Minerals Processing,GRI 401,Social,Employment,New employee hires and turnover,True,82
+BP,Extractives & Minerals Processing,GRI 402,Social,Labor/Management Relations,Minimum notice periods for operational changes,True,50
+BP,Extractives & Minerals Processing,GRI 403,Social,Occupational Health & Safety,Management system for health and safety,True,81
+BP,Extractives & Minerals Processing,GRI 404,Social,Training & Education,Average hours of training per year,False,0
+BP,Extractives & Minerals Processing,GRI 405,Social,Diversity & Equal Opportunity,Diversity of governance bodies,True,90
+BP,Extractives & Minerals Processing,GRI 406,Social,Non-Discrimination,Incidents of discrimination,True,79
+BP,Extractives & Minerals Processing,GRI 407,Social,Freedom of Association,Operations where rights may be at risk,True,77
+BP,Extractives & Minerals Processing,GRI 408,Social,Child Labor,Operations at significant risk for child labor,False,0
+BP,Extractives & Minerals Processing,GRI 409,Social,Forced Labor,Operations at risk for forced labor,True,91
+BP,Extractives & Minerals Processing,GRI 413,Social,Local Communities,Operations with local community engagement,False,0
+BP,Extractives & Minerals Processing,GRI 414,Social,Supplier Social Assessment,New suppliers screened on social criteria,True,84
+BP,Extractives & Minerals Processing,GRI 415,Social,Public Policy,Political contributions,True,79
+BP,Extractives & Minerals Processing,GRI 416,Social,Customer Health & Safety,Assessment of health and safety impacts,True,96
+BP,Extractives & Minerals Processing,GRI 418,Social,Customer Privacy,Substantiated complaints on privacy breaches,True,70
+Shell,Extractives & Minerals Processing,GRI 2,Universal,General Disclosures,"Organizational profile, governance, stakeholder engagement",True,55
+Shell,Extractives & Minerals Processing,GRI 3,Universal,Material Topics,Process for determining material topics,False,0
+Shell,Extractives & Minerals Processing,GRI 201,Economic,Economic Performance,Direct economic value generated and distributed,True,98
+Shell,Extractives & Minerals Processing,GRI 202,Economic,Market Presence,Ratios of standard entry level wage by gender,True,89
+Shell,Extractives & Minerals Processing,GRI 203,Economic,Indirect Economic Impacts,Infrastructure investments and services supported,True,71
+Shell,Extractives & Minerals Processing,GRI 204,Economic,Procurement Practices,Proportion of spending on local suppliers,False,0
+Shell,Extractives & Minerals Processing,GRI 205,Economic,Anti-Corruption,Operations assessed for corruption risks,True,61
+Shell,Extractives & Minerals Processing,GRI 206,Economic,Anti-Competitive Behavior,Legal actions for anti-competitive behavior,True,72
+Shell,Extractives & Minerals Processing,GRI 207,Economic,Tax,"Approach to tax, governance, control",True,71
+Shell,Extractives & Minerals Processing,GRI 301,Environmental,Materials,Materials used by weight or volume,False,0
+Shell,Extractives & Minerals Processing,GRI 302,Environmental,Energy,Energy consumption within organization,True,67
+Shell,Extractives & Minerals Processing,GRI 303,Environmental,Water & Effluents,Water withdrawal by source,True,83
+Shell,Extractives & Minerals Processing,GRI 304,Environmental,Biodiversity,Operational sites near protected areas,True,55
+Shell,Extractives & Minerals Processing,GRI 305,Environmental,Emissions,Direct GHG emissions (Scope 1),False,0
+Shell,Extractives & Minerals Processing,GRI 306,Environmental,Waste,Waste generated and disposal,True,85
+Shell,Extractives & Minerals Processing,GRI 308,Environmental,Supplier Environmental Assessment,New suppliers screened on environment,True,94
+Shell,Extractives & Minerals Processing,GRI 401,Social,Employment,New employee hires and turnover,True,95
+Shell,Extractives & Minerals Processing,GRI 402,Social,Labor/Management Relations,Minimum notice periods for operational changes,True,100
+Shell,Extractives & Minerals Processing,GRI 403,Social,Occupational Health & Safety,Management system for health and safety,False,0
+Shell,Extractives & Minerals Processing,GRI 404,Social,Training & Education,Average hours of training per year,False,0
+Shell,Extractives & Minerals Processing,GRI 405,Social,Diversity & Equal Opportunity,Diversity of governance bodies,True,65
+Shell,Extractives & Minerals Processing,GRI 406,Social,Non-Discrimination,Incidents of discrimination,True,87
+Shell,Extractives & Minerals Processing,GRI 407,Social,Freedom of Association,Operations where rights may be at risk,True,85
+Shell,Extractives & Minerals Processing,GRI 408,Social,Child Labor,Operations at significant risk for child labor,True,77
+Shell,Extractives & Minerals Processing,GRI 409,Social,Forced Labor,Operations at risk for forced labor,True,85
+Shell,Extractives & Minerals Processing,GRI 413,Social,Local Communities,Operations with local community engagement,True,94
+Shell,Extractives & Minerals Processing,GRI 414,Social,Supplier Social Assessment,New suppliers screened on social criteria,True,69
+Shell,Extractives & Minerals Processing,GRI 415,Social,Public Policy,Political contributions,False,0
+Shell,Extractives & Minerals Processing,GRI 416,Social,Customer Health & Safety,Assessment of health and safety impacts,False,0
+Shell,Extractives & Minerals Processing,GRI 418,Social,Customer Privacy,Substantiated complaints on privacy breaches,False,0
+Unilever,Consumer Goods,GRI 2,Universal,General Disclosures,"Organizational profile, governance, stakeholder engagement",False,0
+Unilever,Consumer Goods,GRI 3,Universal,Material Topics,Process for determining material topics,True,98
+Unilever,Consumer Goods,GRI 201,Economic,Economic Performance,Direct economic value generated and distributed,True,62
+Unilever,Consumer Goods,GRI 202,Economic,Market Presence,Ratios of standard entry level wage by gender,False,0
+Unilever,Consumer Goods,GRI 203,Economic,Indirect Economic Impacts,Infrastructure investments and services supported,True,96
+Unilever,Consumer Goods,GRI 204,Economic,Procurement Practices,Proportion of spending on local suppliers,True,98
+Unilever,Consumer Goods,GRI 205,Economic,Anti-Corruption,Operations assessed for corruption risks,True,68
+Unilever,Consumer Goods,GRI 206,Economic,Anti-Competitive Behavior,Legal actions for anti-competitive behavior,True,62
+Unilever,Consumer Goods,GRI 207,Economic,Tax,"Approach to tax, governance, control",False,0
+Unilever,Consumer Goods,GRI 301,Environmental,Materials,Materials used by weight or volume,True,69
+Unilever,Consumer Goods,GRI 302,Environmental,Energy,Energy consumption within organization,False,0
+Unilever,Consumer Goods,GRI 303,Environmental,Water & Effluents,Water withdrawal by source,True,67
+Unilever,Consumer Goods,GRI 304,Environmental,Biodiversity,Operational sites near protected areas,False,0
+Unilever,Consumer Goods,GRI 305,Environmental,Emissions,Direct GHG emissions (Scope 1),False,0
+Unilever,Consumer Goods,GRI 306,Environmental,Waste,Waste generated and disposal,False,0
+Unilever,Consumer Goods,GRI 308,Environmental,Supplier Environmental Assessment,New suppliers screened on environment,True,90
+Unilever,Consumer Goods,GRI 401,Social,Employment,New employee hires and turnover,True,81
+Unilever,Consumer Goods,GRI 402,Social,Labor/Management Relations,Minimum notice periods for operational changes,False,0
+Unilever,Consumer Goods,GRI 403,Social,Occupational Health & Safety,Management system for health and safety,False,0
+Unilever,Consumer Goods,GRI 404,Social,Training & Education,Average hours of training per year,False,0
+Unilever,Consumer Goods,GRI 405,Social,Diversity & Equal Opportunity,Diversity of governance bodies,True,71
+Unilever,Consumer Goods,GRI 406,Social,Non-Discrimination,Incidents of discrimination,False,0
+Unilever,Consumer Goods,GRI 407,Social,Freedom of Association,Operations where rights may be at risk,False,0
+Unilever,Consumer Goods,GRI 408,Social,Child Labor,Operations at significant risk for child labor,True,80
+Unilever,Consumer Goods,GRI 409,Social,Forced Labor,Operations at risk for forced labor,False,0
+Unilever,Consumer Goods,GRI 413,Social,Local Communities,Operations with local community engagement,False,0
+Unilever,Consumer Goods,GRI 414,Social,Supplier Social Assessment,New suppliers screened on social criteria,True,86
+Unilever,Consumer Goods,GRI 415,Social,Public Policy,Political contributions,True,53
+Unilever,Consumer Goods,GRI 416,Social,Customer Health & Safety,Assessment of health and safety impacts,False,0
+Unilever,Consumer Goods,GRI 418,Social,Customer Privacy,Substantiated complaints on privacy breaches,True,69
+Nestle,Food & Beverage,GRI 2,Universal,General Disclosures,"Organizational profile, governance, stakeholder engagement",False,0
+Nestle,Food & Beverage,GRI 3,Universal,Material Topics,Process for determining material topics,False,0
+Nestle,Food & Beverage,GRI 201,Economic,Economic Performance,Direct economic value generated and distributed,True,76
+Nestle,Food & Beverage,GRI 202,Economic,Market Presence,Ratios of standard entry level wage by gender,True,100
+Nestle,Food & Beverage,GRI 203,Economic,Indirect Economic Impacts,Infrastructure investments and services supported,True,99
+Nestle,Food & Beverage,GRI 204,Economic,Procurement Practices,Proportion of spending on local suppliers,True,78
+Nestle,Food & Beverage,GRI 205,Economic,Anti-Corruption,Operations assessed for corruption risks,True,69
+Nestle,Food & Beverage,GRI 206,Economic,Anti-Competitive Behavior,Legal actions for anti-competitive behavior,True,77
+Nestle,Food & Beverage,GRI 207,Economic,Tax,"Approach to tax, governance, control",True,89
+Nestle,Food & Beverage,GRI 301,Environmental,Materials,Materials used by weight or volume,False,0
+Nestle,Food & Beverage,GRI 302,Environmental,Energy,Energy consumption within organization,True,56
+Nestle,Food & Beverage,GRI 303,Environmental,Water & Effluents,Water withdrawal by source,True,63
+Nestle,Food & Beverage,GRI 304,Environmental,Biodiversity,Operational sites near protected areas,True,66
+Nestle,Food & Beverage,GRI 305,Environmental,Emissions,Direct GHG emissions (Scope 1),True,60
+Nestle,Food & Beverage,GRI 306,Environmental,Waste,Waste generated and disposal,False,0
+Nestle,Food & Beverage,GRI 308,Environmental,Supplier Environmental Assessment,New suppliers screened on environment,True,60
+Nestle,Food & Beverage,GRI 401,Social,Employment,New employee hires and turnover,False,0
+Nestle,Food & Beverage,GRI 402,Social,Labor/Management Relations,Minimum notice periods for operational changes,True,88
+Nestle,Food & Beverage,GRI 403,Social,Occupational Health & Safety,Management system for health and safety,True,52
+Nestle,Food & Beverage,GRI 404,Social,Training & Education,Average hours of training per year,False,0
+Nestle,Food & Beverage,GRI 405,Social,Diversity & Equal Opportunity,Diversity of governance bodies,True,94
+Nestle,Food & Beverage,GRI 406,Social,Non-Discrimination,Incidents of discrimination,True,54
+Nestle,Food & Beverage,GRI 407,Social,Freedom of Association,Operations where rights may be at risk,True,66
+Nestle,Food & Beverage,GRI 408,Social,Child Labor,Operations at significant risk for child labor,True,90
+Nestle,Food & Beverage,GRI 409,Social,Forced Labor,Operations at risk for forced labor,True,62
+Nestle,Food & Beverage,GRI 413,Social,Local Communities,Operations with local community engagement,True,84
+Nestle,Food & Beverage,GRI 414,Social,Supplier Social Assessment,New suppliers screened on social criteria,False,0
+Nestle,Food & Beverage,GRI 415,Social,Public Policy,Political contributions,False,0
+Nestle,Food & Beverage,GRI 416,Social,Customer Health & Safety,Assessment of health and safety impacts,False,0
+Nestle,Food & Beverage,GRI 418,Social,Customer Privacy,Substantiated complaints on privacy breaches,False,0
+Johnson & Johnson,Health Care,GRI 2,Universal,General Disclosures,"Organizational profile, governance, stakeholder engagement",False,0
+Johnson & Johnson,Health Care,GRI 3,Universal,Material Topics,Process for determining material topics,True,88
+Johnson & Johnson,Health Care,GRI 201,Economic,Economic Performance,Direct economic value generated and distributed,True,86
+Johnson & Johnson,Health Care,GRI 202,Economic,Market Presence,Ratios of standard entry level wage by gender,True,78
+Johnson & Johnson,Health Care,GRI 203,Economic,Indirect Economic Impacts,Infrastructure investments and services supported,False,0
+Johnson & Johnson,Health Care,GRI 204,Economic,Procurement Practices,Proportion of spending on local suppliers,True,94
+Johnson & Johnson,Health Care,GRI 205,Economic,Anti-Corruption,Operations assessed for corruption risks,True,67
+Johnson & Johnson,Health Care,GRI 206,Economic,Anti-Competitive Behavior,Legal actions for anti-competitive behavior,True,81
+Johnson & Johnson,Health Care,GRI 207,Economic,Tax,"Approach to tax, governance, control",True,88
+Johnson & Johnson,Health Care,GRI 301,Environmental,Materials,Materials used by weight or volume,False,0
+Johnson & Johnson,Health Care,GRI 302,Environmental,Energy,Energy consumption within organization,True,70
+Johnson & Johnson,Health Care,GRI 303,Environmental,Water & Effluents,Water withdrawal by source,True,51
+Johnson & Johnson,Health Care,GRI 304,Environmental,Biodiversity,Operational sites near protected areas,False,0
+Johnson & Johnson,Health Care,GRI 305,Environmental,Emissions,Direct GHG emissions (Scope 1),True,86
+Johnson & Johnson,Health Care,GRI 306,Environmental,Waste,Waste generated and disposal,True,51
+Johnson & Johnson,Health Care,GRI 308,Environmental,Supplier Environmental Assessment,New suppliers screened on environment,True,93
+Johnson & Johnson,Health Care,GRI 401,Social,Employment,New employee hires and turnover,True,86
+Johnson & Johnson,Health Care,GRI 402,Social,Labor/Management Relations,Minimum notice periods for operational changes,False,0
+Johnson & Johnson,Health Care,GRI 403,Social,Occupational Health & Safety,Management system for health and safety,True,80
+Johnson & Johnson,Health Care,GRI 404,Social,Training & Education,Average hours of training per year,True,78
+Johnson & Johnson,Health Care,GRI 405,Social,Diversity & Equal Opportunity,Diversity of governance bodies,True,61
+Johnson & Johnson,Health Care,GRI 406,Social,Non-Discrimination,Incidents of discrimination,True,77
+Johnson & Johnson,Health Care,GRI 407,Social,Freedom of Association,Operations where rights may be at risk,True,81
+Johnson & Johnson,Health Care,GRI 408,Social,Child Labor,Operations at significant risk for child labor,True,80
+Johnson & Johnson,Health Care,GRI 409,Social,Forced Labor,Operations at risk for forced labor,True,71
+Johnson & Johnson,Health Care,GRI 413,Social,Local Communities,Operations with local community engagement,True,56
+Johnson & Johnson,Health Care,GRI 414,Social,Supplier Social Assessment,New suppliers screened on social criteria,True,71
+Johnson & Johnson,Health Care,GRI 415,Social,Public Policy,Political contributions,True,81
+Johnson & Johnson,Health Care,GRI 416,Social,Customer Health & Safety,Assessment of health and safety impacts,False,0
+Johnson & Johnson,Health Care,GRI 418,Social,Customer Privacy,Substantiated complaints on privacy breaches,True,98
+Walmart,Consumer Goods,GRI 2,Universal,General Disclosures,"Organizational profile, governance, stakeholder engagement",True,79
+Walmart,Consumer Goods,GRI 3,Universal,Material Topics,Process for determining material topics,False,0
+Walmart,Consumer Goods,GRI 201,Economic,Economic Performance,Direct economic value generated and distributed,False,0
+Walmart,Consumer Goods,GRI 202,Economic,Market Presence,Ratios of standard entry level wage by gender,False,0
+Walmart,Consumer Goods,GRI 203,Economic,Indirect Economic Impacts,Infrastructure investments and services supported,True,82
+Walmart,Consumer Goods,GRI 204,Economic,Procurement Practices,Proportion of spending on local suppliers,True,50
+Walmart,Consumer Goods,GRI 205,Economic,Anti-Corruption,Operations assessed for corruption risks,True,84
+Walmart,Consumer Goods,GRI 206,Economic,Anti-Competitive Behavior,Legal actions for anti-competitive behavior,True,53
+Walmart,Consumer Goods,GRI 207,Economic,Tax,"Approach to tax, governance, control",False,0
+Walmart,Consumer Goods,GRI 301,Environmental,Materials,Materials used by weight or volume,True,98
+Walmart,Consumer Goods,GRI 302,Environmental,Energy,Energy consumption within organization,True,78
+Walmart,Consumer Goods,GRI 303,Environmental,Water & Effluents,Water withdrawal by source,True,63
+Walmart,Consumer Goods,GRI 304,Environmental,Biodiversity,Operational sites near protected areas,False,0
+Walmart,Consumer Goods,GRI 305,Environmental,Emissions,Direct GHG emissions (Scope 1),False,0
+Walmart,Consumer Goods,GRI 306,Environmental,Waste,Waste generated and disposal,False,0
+Walmart,Consumer Goods,GRI 308,Environmental,Supplier Environmental Assessment,New suppliers screened on environment,True,81
+Walmart,Consumer Goods,GRI 401,Social,Employment,New employee hires and turnover,False,0
+Walmart,Consumer Goods,GRI 402,Social,Labor/Management Relations,Minimum notice periods for operational changes,True,88
+Walmart,Consumer Goods,GRI 403,Social,Occupational Health & Safety,Management system for health and safety,True,95
+Walmart,Consumer Goods,GRI 404,Social,Training & Education,Average hours of training per year,False,0
+Walmart,Consumer Goods,GRI 405,Social,Diversity & Equal Opportunity,Diversity of governance bodies,True,85
+Walmart,Consumer Goods,GRI 406,Social,Non-Discrimination,Incidents of discrimination,True,64
+Walmart,Consumer Goods,GRI 407,Social,Freedom of Association,Operations where rights may be at risk,True,57
+Walmart,Consumer Goods,GRI 408,Social,Child Labor,Operations at significant risk for child labor,True,57
+Walmart,Consumer Goods,GRI 409,Social,Forced Labor,Operations at risk for forced labor,True,59
+Walmart,Consumer Goods,GRI 413,Social,Local Communities,Operations with local community engagement,True,95
+Walmart,Consumer Goods,GRI 414,Social,Supplier Social Assessment,New suppliers screened on social criteria,False,0
+Walmart,Consumer Goods,GRI 415,Social,Public Policy,Political contributions,True,76
+Walmart,Consumer Goods,GRI 416,Social,Customer Health & Safety,Assessment of health and safety impacts,True,80
+Walmart,Consumer Goods,GRI 418,Social,Customer Privacy,Substantiated complaints on privacy breaches,False,0
+Nike,Consumer Goods,GRI 2,Universal,General Disclosures,"Organizational profile, governance, stakeholder engagement",True,74
+Nike,Consumer Goods,GRI 3,Universal,Material Topics,Process for determining material topics,False,0
+Nike,Consumer Goods,GRI 201,Economic,Economic Performance,Direct economic value generated and distributed,True,97
+Nike,Consumer Goods,GRI 202,Economic,Market Presence,Ratios of standard entry level wage by gender,True,54
+Nike,Consumer Goods,GRI 203,Economic,Indirect Economic Impacts,Infrastructure investments and services supported,False,0
+Nike,Consumer Goods,GRI 204,Economic,Procurement Practices,Proportion of spending on local suppliers,True,76
+Nike,Consumer Goods,GRI 205,Economic,Anti-Corruption,Operations assessed for corruption risks,True,100
+Nike,Consumer Goods,GRI 206,Economic,Anti-Competitive Behavior,Legal actions for anti-competitive behavior,True,50
+Nike,Consumer Goods,GRI 207,Economic,Tax,"Approach to tax, governance, control",False,0
+Nike,Consumer Goods,GRI 301,Environmental,Materials,Materials used by weight or volume,False,0
+Nike,Consumer Goods,GRI 302,Environmental,Energy,Energy consumption within organization,True,92
+Nike,Consumer Goods,GRI 303,Environmental,Water & Effluents,Water withdrawal by source,True,59
+Nike,Consumer Goods,GRI 304,Environmental,Biodiversity,Operational sites near protected areas,True,80
+Nike,Consumer Goods,GRI 305,Environmental,Emissions,Direct GHG emissions (Scope 1),True,85
+Nike,Consumer Goods,GRI 306,Environmental,Waste,Waste generated and disposal,True,74
+Nike,Consumer Goods,GRI 308,Environmental,Supplier Environmental Assessment,New suppliers screened on environment,True,70
+Nike,Consumer Goods,GRI 401,Social,Employment,New employee hires and turnover,True,94
+Nike,Consumer Goods,GRI 402,Social,Labor/Management Relations,Minimum notice periods for operational changes,False,0
+Nike,Consumer Goods,GRI 403,Social,Occupational Health & Safety,Management system for health and safety,True,99
+Nike,Consumer Goods,GRI 404,Social,Training & Education,Average hours of training per year,True,70
+Nike,Consumer Goods,GRI 405,Social,Diversity & Equal Opportunity,Diversity of governance bodies,True,95
+Nike,Consumer Goods,GRI 406,Social,Non-Discrimination,Incidents of discrimination,True,74
+Nike,Consumer Goods,GRI 407,Social,Freedom of Association,Operations where rights may be at risk,True,92
+Nike,Consumer Goods,GRI 408,Social,Child Labor,Operations at significant risk for child labor,True,91
+Nike,Consumer Goods,GRI 409,Social,Forced Labor,Operations at risk for forced labor,True,81
+Nike,Consumer Goods,GRI 413,Social,Local Communities,Operations with local community engagement,True,58
+Nike,Consumer Goods,GRI 414,Social,Supplier Social Assessment,New suppliers screened on social criteria,True,87
+Nike,Consumer Goods,GRI 415,Social,Public Policy,Political contributions,True,56
+Nike,Consumer Goods,GRI 416,Social,Customer Health & Safety,Assessment of health and safety impacts,True,78
+Nike,Consumer Goods,GRI 418,Social,Customer Privacy,Substantiated complaints on privacy breaches,False,0
+HSBC,Financials,GRI 2,Universal,General Disclosures,"Organizational profile, governance, stakeholder engagement",True,50
+HSBC,Financials,GRI 3,Universal,Material Topics,Process for determining material topics,True,76
+HSBC,Financials,GRI 201,Economic,Economic Performance,Direct economic value generated and distributed,True,59
+HSBC,Financials,GRI 202,Economic,Market Presence,Ratios of standard entry level wage by gender,False,0
+HSBC,Financials,GRI 203,Economic,Indirect Economic Impacts,Infrastructure investments and services supported,True,66
+HSBC,Financials,GRI 204,Economic,Procurement Practices,Proportion of spending on local suppliers,True,94
+HSBC,Financials,GRI 205,Economic,Anti-Corruption,Operations assessed for corruption risks,True,55
+HSBC,Financials,GRI 206,Economic,Anti-Competitive Behavior,Legal actions for anti-competitive behavior,True,93
+HSBC,Financials,GRI 207,Economic,Tax,"Approach to tax, governance, control",True,74
+HSBC,Financials,GRI 301,Environmental,Materials,Materials used by weight or volume,True,90
+HSBC,Financials,GRI 302,Environmental,Energy,Energy consumption within organization,True,98
+HSBC,Financials,GRI 303,Environmental,Water & Effluents,Water withdrawal by source,True,84
+HSBC,Financials,GRI 304,Environmental,Biodiversity,Operational sites near protected areas,False,0
+HSBC,Financials,GRI 305,Environmental,Emissions,Direct GHG emissions (Scope 1),False,0
+HSBC,Financials,GRI 306,Environmental,Waste,Waste generated and disposal,True,68
+HSBC,Financials,GRI 308,Environmental,Supplier Environmental Assessment,New suppliers screened on environment,True,97
+HSBC,Financials,GRI 401,Social,Employment,New employee hires and turnover,False,0
+HSBC,Financials,GRI 402,Social,Labor/Management Relations,Minimum notice periods for operational changes,True,98
+HSBC,Financials,GRI 403,Social,Occupational Health & Safety,Management system for health and safety,True,56
+HSBC,Financials,GRI 404,Social,Training & Education,Average hours of training per year,True,94
+HSBC,Financials,GRI 405,Social,Diversity & Equal Opportunity,Diversity of governance bodies,False,0
+HSBC,Financials,GRI 406,Social,Non-Discrimination,Incidents of discrimination,False,0
+HSBC,Financials,GRI 407,Social,Freedom of Association,Operations where rights may be at risk,True,53
+HSBC,Financials,GRI 408,Social,Child Labor,Operations at significant risk for child labor,False,0
+HSBC,Financials,GRI 409,Social,Forced Labor,Operations at risk for forced labor,True,59
+HSBC,Financials,GRI 413,Social,Local Communities,Operations with local community engagement,False,0
+HSBC,Financials,GRI 414,Social,Supplier Social Assessment,New suppliers screened on social criteria,True,93
+HSBC,Financials,GRI 415,Social,Public Policy,Political contributions,True,60
+HSBC,Financials,GRI 416,Social,Customer Health & Safety,Assessment of health and safety impacts,False,0
+HSBC,Financials,GRI 418,Social,Customer Privacy,Substantiated complaints on privacy breaches,True,74
+Goldman Sachs,Financials,GRI 2,Universal,General Disclosures,"Organizational profile, governance, stakeholder engagement",True,65
+Goldman Sachs,Financials,GRI 3,Universal,Material Topics,Process for determining material topics,True,87
+Goldman Sachs,Financials,GRI 201,Economic,Economic Performance,Direct economic value generated and distributed,False,0
+Goldman Sachs,Financials,GRI 202,Economic,Market Presence,Ratios of standard entry level wage by gender,True,66
+Goldman Sachs,Financials,GRI 203,Economic,Indirect Economic Impacts,Infrastructure investments and services supported,True,92
+Goldman Sachs,Financials,GRI 204,Economic,Procurement Practices,Proportion of spending on local suppliers,False,0
+Goldman Sachs,Financials,GRI 205,Economic,Anti-Corruption,Operations assessed for corruption risks,True,68
+Goldman Sachs,Financials,GRI 206,Economic,Anti-Competitive Behavior,Legal actions for anti-competitive behavior,True,60
+Goldman Sachs,Financials,GRI 207,Economic,Tax,"Approach to tax, governance, control",False,0
+Goldman Sachs,Financials,GRI 301,Environmental,Materials,Materials used by weight or volume,True,87
+Goldman Sachs,Financials,GRI 302,Environmental,Energy,Energy consumption within organization,False,0
+Goldman Sachs,Financials,GRI 303,Environmental,Water & Effluents,Water withdrawal by source,True,94
+Goldman Sachs,Financials,GRI 304,Environmental,Biodiversity,Operational sites near protected areas,False,0
+Goldman Sachs,Financials,GRI 305,Environmental,Emissions,Direct GHG emissions (Scope 1),True,62
+Goldman Sachs,Financials,GRI 306,Environmental,Waste,Waste generated and disposal,True,80
+Goldman Sachs,Financials,GRI 308,Environmental,Supplier Environmental Assessment,New suppliers screened on environment,False,0
+Goldman Sachs,Financials,GRI 401,Social,Employment,New employee hires and turnover,True,72
+Goldman Sachs,Financials,GRI 402,Social,Labor/Management Relations,Minimum notice periods for operational changes,True,94
+Goldman Sachs,Financials,GRI 403,Social,Occupational Health & Safety,Management system for health and safety,False,0
+Goldman Sachs,Financials,GRI 404,Social,Training & Education,Average hours of training per year,True,92
+Goldman Sachs,Financials,GRI 405,Social,Diversity & Equal Opportunity,Diversity of governance bodies,True,50
+Goldman Sachs,Financials,GRI 406,Social,Non-Discrimination,Incidents of discrimination,True,93
+Goldman Sachs,Financials,GRI 407,Social,Freedom of Association,Operations where rights may be at risk,True,53
+Goldman Sachs,Financials,GRI 408,Social,Child Labor,Operations at significant risk for child labor,True,97
+Goldman Sachs,Financials,GRI 409,Social,Forced Labor,Operations at risk for forced labor,True,68
+Goldman Sachs,Financials,GRI 413,Social,Local Communities,Operations with local community engagement,True,64
+Goldman Sachs,Financials,GRI 414,Social,Supplier Social Assessment,New suppliers screened on social criteria,True,72
+Goldman Sachs,Financials,GRI 415,Social,Public Policy,Political contributions,False,0
+Goldman Sachs,Financials,GRI 416,Social,Customer Health & Safety,Assessment of health and safety impacts,False,0
+Goldman Sachs,Financials,GRI 418,Social,Customer Privacy,Substantiated complaints on privacy breaches,False,0
+Siemens,Resource Transformation,GRI 2,Universal,General Disclosures,"Organizational profile, governance, stakeholder engagement",True,99
+Siemens,Resource Transformation,GRI 3,Universal,Material Topics,Process for determining material topics,True,58
+Siemens,Resource Transformation,GRI 201,Economic,Economic Performance,Direct economic value generated and distributed,True,90
+Siemens,Resource Transformation,GRI 202,Economic,Market Presence,Ratios of standard entry level wage by gender,True,69
+Siemens,Resource Transformation,GRI 203,Economic,Indirect Economic Impacts,Infrastructure investments and services supported,True,52
+Siemens,Resource Transformation,GRI 204,Economic,Procurement Practices,Proportion of spending on local suppliers,True,96
+Siemens,Resource Transformation,GRI 205,Economic,Anti-Corruption,Operations assessed for corruption risks,False,0
+Siemens,Resource Transformation,GRI 206,Economic,Anti-Competitive Behavior,Legal actions for anti-competitive behavior,True,70
+Siemens,Resource Transformation,GRI 207,Economic,Tax,"Approach to tax, governance, control",True,61
+Siemens,Resource Transformation,GRI 301,Environmental,Materials,Materials used by weight or volume,False,0
+Siemens,Resource Transformation,GRI 302,Environmental,Energy,Energy consumption within organization,True,73
+Siemens,Resource Transformation,GRI 303,Environmental,Water & Effluents,Water withdrawal by source,True,67
+Siemens,Resource Transformation,GRI 304,Environmental,Biodiversity,Operational sites near protected areas,True,66
+Siemens,Resource Transformation,GRI 305,Environmental,Emissions,Direct GHG emissions (Scope 1),True,80
+Siemens,Resource Transformation,GRI 306,Environmental,Waste,Waste generated and disposal,True,68
+Siemens,Resource Transformation,GRI 308,Environmental,Supplier Environmental Assessment,New suppliers screened on environment,True,71
+Siemens,Resource Transformation,GRI 401,Social,Employment,New employee hires and turnover,True,79
+Siemens,Resource Transformation,GRI 402,Social,Labor/Management Relations,Minimum notice periods for operational changes,True,59
+Siemens,Resource Transformation,GRI 403,Social,Occupational Health & Safety,Management system for health and safety,True,64
+Siemens,Resource Transformation,GRI 404,Social,Training & Education,Average hours of training per year,True,96
+Siemens,Resource Transformation,GRI 405,Social,Diversity & Equal Opportunity,Diversity of governance bodies,True,75
+Siemens,Resource Transformation,GRI 406,Social,Non-Discrimination,Incidents of discrimination,True,85
+Siemens,Resource Transformation,GRI 407,Social,Freedom of Association,Operations where rights may be at risk,True,100
+Siemens,Resource Transformation,GRI 408,Social,Child Labor,Operations at significant risk for child labor,True,66
+Siemens,Resource Transformation,GRI 409,Social,Forced Labor,Operations at risk for forced labor,True,79
+Siemens,Resource Transformation,GRI 413,Social,Local Communities,Operations with local community engagement,True,97
+Siemens,Resource Transformation,GRI 414,Social,Supplier Social Assessment,New suppliers screened on social criteria,True,87
+Siemens,Resource Transformation,GRI 415,Social,Public Policy,Political contributions,True,90
+Siemens,Resource Transformation,GRI 416,Social,Customer Health & Safety,Assessment of health and safety impacts,True,56
+Siemens,Resource Transformation,GRI 418,Social,Customer Privacy,Substantiated complaints on privacy breaches,True,80
+Toyota,Transportation,GRI 2,Universal,General Disclosures,"Organizational profile, governance, stakeholder engagement",False,0
+Toyota,Transportation,GRI 3,Universal,Material Topics,Process for determining material topics,True,85
+Toyota,Transportation,GRI 201,Economic,Economic Performance,Direct economic value generated and distributed,True,89
+Toyota,Transportation,GRI 202,Economic,Market Presence,Ratios of standard entry level wage by gender,False,0
+Toyota,Transportation,GRI 203,Economic,Indirect Economic Impacts,Infrastructure investments and services supported,False,0
+Toyota,Transportation,GRI 204,Economic,Procurement Practices,Proportion of spending on local suppliers,True,94
+Toyota,Transportation,GRI 205,Economic,Anti-Corruption,Operations assessed for corruption risks,True,76
+Toyota,Transportation,GRI 206,Economic,Anti-Competitive Behavior,Legal actions for anti-competitive behavior,False,0
+Toyota,Transportation,GRI 207,Economic,Tax,"Approach to tax, governance, control",False,0
+Toyota,Transportation,GRI 301,Environmental,Materials,Materials used by weight or volume,False,0
+Toyota,Transportation,GRI 302,Environmental,Energy,Energy consumption within organization,True,57
+Toyota,Transportation,GRI 303,Environmental,Water & Effluents,Water withdrawal by source,False,0
+Toyota,Transportation,GRI 304,Environmental,Biodiversity,Operational sites near protected areas,True,58
+Toyota,Transportation,GRI 305,Environmental,Emissions,Direct GHG emissions (Scope 1),True,73
+Toyota,Transportation,GRI 306,Environmental,Waste,Waste generated and disposal,True,97
+Toyota,Transportation,GRI 308,Environmental,Supplier Environmental Assessment,New suppliers screened on environment,True,84
+Toyota,Transportation,GRI 401,Social,Employment,New employee hires and turnover,True,97
+Toyota,Transportation,GRI 402,Social,Labor/Management Relations,Minimum notice periods for operational changes,True,76
+Toyota,Transportation,GRI 403,Social,Occupational Health & Safety,Management system for health and safety,True,81
+Toyota,Transportation,GRI 404,Social,Training & Education,Average hours of training per year,True,67
+Toyota,Transportation,GRI 405,Social,Diversity & Equal Opportunity,Diversity of governance bodies,False,0
+Toyota,Transportation,GRI 406,Social,Non-Discrimination,Incidents of discrimination,True,78
+Toyota,Transportation,GRI 407,Social,Freedom of Association,Operations where rights may be at risk,True,65
+Toyota,Transportation,GRI 408,Social,Child Labor,Operations at significant risk for child labor,True,56
+Toyota,Transportation,GRI 409,Social,Forced Labor,Operations at risk for forced labor,True,73
+Toyota,Transportation,GRI 413,Social,Local Communities,Operations with local community engagement,True,91
+Toyota,Transportation,GRI 414,Social,Supplier Social Assessment,New suppliers screened on social criteria,True,75
+Toyota,Transportation,GRI 415,Social,Public Policy,Political contributions,False,0
+Toyota,Transportation,GRI 416,Social,Customer Health & Safety,Assessment of health and safety impacts,True,79
+Toyota,Transportation,GRI 418,Social,Customer Privacy,Substantiated complaints on privacy breaches,False,0
+Samsung,Technology & Communications,GRI 2,Universal,General Disclosures,"Organizational profile, governance, stakeholder engagement",False,0
+Samsung,Technology & Communications,GRI 3,Universal,Material Topics,Process for determining material topics,True,51
+Samsung,Technology & Communications,GRI 201,Economic,Economic Performance,Direct economic value generated and distributed,False,0
+Samsung,Technology & Communications,GRI 202,Economic,Market Presence,Ratios of standard entry level wage by gender,True,58
+Samsung,Technology & Communications,GRI 203,Economic,Indirect Economic Impacts,Infrastructure investments and services supported,True,63
+Samsung,Technology & Communications,GRI 204,Economic,Procurement Practices,Proportion of spending on local suppliers,False,0
+Samsung,Technology & Communications,GRI 205,Economic,Anti-Corruption,Operations assessed for corruption risks,True,63
+Samsung,Technology & Communications,GRI 206,Economic,Anti-Competitive Behavior,Legal actions for anti-competitive behavior,True,64
+Samsung,Technology & Communications,GRI 207,Economic,Tax,"Approach to tax, governance, control",True,59
+Samsung,Technology & Communications,GRI 301,Environmental,Materials,Materials used by weight or volume,True,88
+Samsung,Technology & Communications,GRI 302,Environmental,Energy,Energy consumption within organization,False,0
+Samsung,Technology & Communications,GRI 303,Environmental,Water & Effluents,Water withdrawal by source,True,59
+Samsung,Technology & Communications,GRI 304,Environmental,Biodiversity,Operational sites near protected areas,True,84
+Samsung,Technology & Communications,GRI 305,Environmental,Emissions,Direct GHG emissions (Scope 1),False,0
+Samsung,Technology & Communications,GRI 306,Environmental,Waste,Waste generated and disposal,False,0
+Samsung,Technology & Communications,GRI 308,Environmental,Supplier Environmental Assessment,New suppliers screened on environment,True,51
+Samsung,Technology & Communications,GRI 401,Social,Employment,New employee hires and turnover,False,0
+Samsung,Technology & Communications,GRI 402,Social,Labor/Management Relations,Minimum notice periods for operational changes,True,100
+Samsung,Technology & Communications,GRI 403,Social,Occupational Health & Safety,Management system for health and safety,False,0
+Samsung,Technology & Communications,GRI 404,Social,Training & Education,Average hours of training per year,True,61
+Samsung,Technology & Communications,GRI 405,Social,Diversity & Equal Opportunity,Diversity of governance bodies,False,0
+Samsung,Technology & Communications,GRI 406,Social,Non-Discrimination,Incidents of discrimination,False,0
+Samsung,Technology & Communications,GRI 407,Social,Freedom of Association,Operations where rights may be at risk,True,57
+Samsung,Technology & Communications,GRI 408,Social,Child Labor,Operations at significant risk for child labor,True,80
+Samsung,Technology & Communications,GRI 409,Social,Forced Labor,Operations at risk for forced labor,True,73
+Samsung,Technology & Communications,GRI 413,Social,Local Communities,Operations with local community engagement,True,56
+Samsung,Technology & Communications,GRI 414,Social,Supplier Social Assessment,New suppliers screened on social criteria,True,64
+Samsung,Technology & Communications,GRI 415,Social,Public Policy,Political contributions,True,52
+Samsung,Technology & Communications,GRI 416,Social,Customer Health & Safety,Assessment of health and safety impacts,True,92
+Samsung,Technology & Communications,GRI 418,Social,Customer Privacy,Substantiated complaints on privacy breaches,True,79
+Alibaba,Services,GRI 2,Universal,General Disclosures,"Organizational profile, governance, stakeholder engagement",True,51
+Alibaba,Services,GRI 3,Universal,Material Topics,Process for determining material topics,False,0
+Alibaba,Services,GRI 201,Economic,Economic Performance,Direct economic value generated and distributed,True,75
+Alibaba,Services,GRI 202,Economic,Market Presence,Ratios of standard entry level wage by gender,True,56
+Alibaba,Services,GRI 203,Economic,Indirect Economic Impacts,Infrastructure investments and services supported,True,78
+Alibaba,Services,GRI 204,Economic,Procurement Practices,Proportion of spending on local suppliers,False,0
+Alibaba,Services,GRI 205,Economic,Anti-Corruption,Operations assessed for corruption risks,False,0
+Alibaba,Services,GRI 206,Economic,Anti-Competitive Behavior,Legal actions for anti-competitive behavior,True,54
+Alibaba,Services,GRI 207,Economic,Tax,"Approach to tax, governance, control",False,0
+Alibaba,Services,GRI 301,Environmental,Materials,Materials used by weight or volume,True,87
+Alibaba,Services,GRI 302,Environmental,Energy,Energy consumption within organization,True,70
+Alibaba,Services,GRI 303,Environmental,Water & Effluents,Water withdrawal by source,True,88
+Alibaba,Services,GRI 304,Environmental,Biodiversity,Operational sites near protected areas,True,79
+Alibaba,Services,GRI 305,Environmental,Emissions,Direct GHG emissions (Scope 1),True,77
+Alibaba,Services,GRI 306,Environmental,Waste,Waste generated and disposal,False,0
+Alibaba,Services,GRI 308,Environmental,Supplier Environmental Assessment,New suppliers screened on environment,True,91
+Alibaba,Services,GRI 401,Social,Employment,New employee hires and turnover,True,99
+Alibaba,Services,GRI 402,Social,Labor/Management Relations,Minimum notice periods for operational changes,True,63
+Alibaba,Services,GRI 403,Social,Occupational Health & Safety,Management system for health and safety,True,64
+Alibaba,Services,GRI 404,Social,Training & Education,Average hours of training per year,True,79
+Alibaba,Services,GRI 405,Social,Diversity & Equal Opportunity,Diversity of governance bodies,True,96
+Alibaba,Services,GRI 406,Social,Non-Discrimination,Incidents of discrimination,False,0
+Alibaba,Services,GRI 407,Social,Freedom of Association,Operations where rights may be at risk,True,92
+Alibaba,Services,GRI 408,Social,Child Labor,Operations at significant risk for child labor,False,0
+Alibaba,Services,GRI 409,Social,Forced Labor,Operations at risk for forced labor,True,93
+Alibaba,Services,GRI 413,Social,Local Communities,Operations with local community engagement,True,54
+Alibaba,Services,GRI 414,Social,Supplier Social Assessment,New suppliers screened on social criteria,False,0
+Alibaba,Services,GRI 415,Social,Public Policy,Political contributions,False,0
+Alibaba,Services,GRI 416,Social,Customer Health & Safety,Assessment of health and safety impacts,True,97
+Alibaba,Services,GRI 418,Social,Customer Privacy,Substantiated complaints on privacy breaches,True,58
+Reliance Industries,Extractives & Minerals Processing,GRI 2,Universal,General Disclosures,"Organizational profile, governance, stakeholder engagement",True,87
+Reliance Industries,Extractives & Minerals Processing,GRI 3,Universal,Material Topics,Process for determining material topics,True,85
+Reliance Industries,Extractives & Minerals Processing,GRI 201,Economic,Economic Performance,Direct economic value generated and distributed,True,57
+Reliance Industries,Extractives & Minerals Processing,GRI 202,Economic,Market Presence,Ratios of standard entry level wage by gender,True,92
+Reliance Industries,Extractives & Minerals Processing,GRI 203,Economic,Indirect Economic Impacts,Infrastructure investments and services supported,True,77
+Reliance Industries,Extractives & Minerals Processing,GRI 204,Economic,Procurement Practices,Proportion of spending on local suppliers,True,96
+Reliance Industries,Extractives & Minerals Processing,GRI 205,Economic,Anti-Corruption,Operations assessed for corruption risks,False,0
+Reliance Industries,Extractives & Minerals Processing,GRI 206,Economic,Anti-Competitive Behavior,Legal actions for anti-competitive behavior,False,0
+Reliance Industries,Extractives & Minerals Processing,GRI 207,Economic,Tax,"Approach to tax, governance, control",True,56
+Reliance Industries,Extractives & Minerals Processing,GRI 301,Environmental,Materials,Materials used by weight or volume,True,63
+Reliance Industries,Extractives & Minerals Processing,GRI 302,Environmental,Energy,Energy consumption within organization,False,0
+Reliance Industries,Extractives & Minerals Processing,GRI 303,Environmental,Water & Effluents,Water withdrawal by source,True,56
+Reliance Industries,Extractives & Minerals Processing,GRI 304,Environmental,Biodiversity,Operational sites near protected areas,True,85
+Reliance Industries,Extractives & Minerals Processing,GRI 305,Environmental,Emissions,Direct GHG emissions (Scope 1),True,98
+Reliance Industries,Extractives & Minerals Processing,GRI 306,Environmental,Waste,Waste generated and disposal,False,0
+Reliance Industries,Extractives & Minerals Processing,GRI 308,Environmental,Supplier Environmental Assessment,New suppliers screened on environment,False,0
+Reliance Industries,Extractives & Minerals Processing,GRI 401,Social,Employment,New employee hires and turnover,True,85
+Reliance Industries,Extractives & Minerals Processing,GRI 402,Social,Labor/Management Relations,Minimum notice periods for operational changes,True,89
+Reliance Industries,Extractives & Minerals Processing,GRI 403,Social,Occupational Health & Safety,Management system for health and safety,True,91
+Reliance Industries,Extractives & Minerals Processing,GRI 404,Social,Training & Education,Average hours of training per year,True,88
+Reliance Industries,Extractives & Minerals Processing,GRI 405,Social,Diversity & Equal Opportunity,Diversity of governance bodies,True,94
+Reliance Industries,Extractives & Minerals Processing,GRI 406,Social,Non-Discrimination,Incidents of discrimination,False,0
+Reliance Industries,Extractives & Minerals Processing,GRI 407,Social,Freedom of Association,Operations where rights may be at risk,False,0
+Reliance Industries,Extractives & Minerals Processing,GRI 408,Social,Child Labor,Operations at significant risk for child labor,True,69
+Reliance Industries,Extractives & Minerals Processing,GRI 409,Social,Forced Labor,Operations at risk for forced labor,True,72
+Reliance Industries,Extractives & Minerals Processing,GRI 413,Social,Local Communities,Operations with local community engagement,False,0
+Reliance Industries,Extractives & Minerals Processing,GRI 414,Social,Supplier Social Assessment,New suppliers screened on social criteria,True,86
+Reliance Industries,Extractives & Minerals Processing,GRI 415,Social,Public Policy,Political contributions,True,54
+Reliance Industries,Extractives & Minerals Processing,GRI 416,Social,Customer Health & Safety,Assessment of health and safety impacts,False,0
+Reliance Industries,Extractives & Minerals Processing,GRI 418,Social,Customer Privacy,Substantiated complaints on privacy breaches,True,51
+Saudi Aramco,Extractives & Minerals Processing,GRI 2,Universal,General Disclosures,"Organizational profile, governance, stakeholder engagement",False,0
+Saudi Aramco,Extractives & Minerals Processing,GRI 3,Universal,Material Topics,Process for determining material topics,True,74
+Saudi Aramco,Extractives & Minerals Processing,GRI 201,Economic,Economic Performance,Direct economic value generated and distributed,True,71
+Saudi Aramco,Extractives & Minerals Processing,GRI 202,Economic,Market Presence,Ratios of standard entry level wage by gender,False,0
+Saudi Aramco,Extractives & Minerals Processing,GRI 203,Economic,Indirect Economic Impacts,Infrastructure investments and services supported,True,70
+Saudi Aramco,Extractives & Minerals Processing,GRI 204,Economic,Procurement Practices,Proportion of spending on local suppliers,True,86
+Saudi Aramco,Extractives & Minerals Processing,GRI 205,Economic,Anti-Corruption,Operations assessed for corruption risks,True,53
+Saudi Aramco,Extractives & Minerals Processing,GRI 206,Economic,Anti-Competitive Behavior,Legal actions for anti-competitive behavior,False,0
+Saudi Aramco,Extractives & Minerals Processing,GRI 207,Economic,Tax,"Approach to tax, governance, control",True,53
+Saudi Aramco,Extractives & Minerals Processing,GRI 301,Environmental,Materials,Materials used by weight or volume,True,67
+Saudi Aramco,Extractives & Minerals Processing,GRI 302,Environmental,Energy,Energy consumption within organization,True,77
+Saudi Aramco,Extractives & Minerals Processing,GRI 303,Environmental,Water & Effluents,Water withdrawal by source,True,78
+Saudi Aramco,Extractives & Minerals Processing,GRI 304,Environmental,Biodiversity,Operational sites near protected areas,True,63
+Saudi Aramco,Extractives & Minerals Processing,GRI 305,Environmental,Emissions,Direct GHG emissions (Scope 1),True,57
+Saudi Aramco,Extractives & Minerals Processing,GRI 306,Environmental,Waste,Waste generated and disposal,True,57
+Saudi Aramco,Extractives & Minerals Processing,GRI 308,Environmental,Supplier Environmental Assessment,New suppliers screened on environment,False,0
+Saudi Aramco,Extractives & Minerals Processing,GRI 401,Social,Employment,New employee hires and turnover,True,81
+Saudi Aramco,Extractives & Minerals Processing,GRI 402,Social,Labor/Management Relations,Minimum notice periods for operational changes,True,69
+Saudi Aramco,Extractives & Minerals Processing,GRI 403,Social,Occupational Health & Safety,Management system for health and safety,False,0
+Saudi Aramco,Extractives & Minerals Processing,GRI 404,Social,Training & Education,Average hours of training per year,True,88
+Saudi Aramco,Extractives & Minerals Processing,GRI 405,Social,Diversity & Equal Opportunity,Diversity of governance bodies,False,0
+Saudi Aramco,Extractives & Minerals Processing,GRI 406,Social,Non-Discrimination,Incidents of discrimination,False,0
+Saudi Aramco,Extractives & Minerals Processing,GRI 407,Social,Freedom of Association,Operations where rights may be at risk,True,99
+Saudi Aramco,Extractives & Minerals Processing,GRI 408,Social,Child Labor,Operations at significant risk for child labor,False,0
+Saudi Aramco,Extractives & Minerals Processing,GRI 409,Social,Forced Labor,Operations at risk for forced labor,False,0
+Saudi Aramco,Extractives & Minerals Processing,GRI 413,Social,Local Communities,Operations with local community engagement,True,50
+Saudi Aramco,Extractives & Minerals Processing,GRI 414,Social,Supplier Social Assessment,New suppliers screened on social criteria,True,77
+Saudi Aramco,Extractives & Minerals Processing,GRI 415,Social,Public Policy,Political contributions,False,0
+Saudi Aramco,Extractives & Minerals Processing,GRI 416,Social,Customer Health & Safety,Assessment of health and safety impacts,True,95
+Saudi Aramco,Extractives & Minerals Processing,GRI 418,Social,Customer Privacy,Substantiated complaints on privacy breaches,False,0

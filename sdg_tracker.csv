@@ -1,0 +1,341 @@
+Company,Sector,SDG_Number,SDG_Name,Contribution_Level,Investment_USD_M,Reported_In_Sustainability_Report
+Apple Inc,Technology & Communications,1,No Poverty,Low,94.9,True
+Apple Inc,Technology & Communications,2,Zero Hunger,Medium,249.1,True
+Apple Inc,Technology & Communications,3,Good Health & Well-being,None,0,False
+Apple Inc,Technology & Communications,4,Quality Education,None,0,False
+Apple Inc,Technology & Communications,5,Gender Equality,Low,248.7,True
+Apple Inc,Technology & Communications,6,Clean Water & Sanitation,High,472.6,True
+Apple Inc,Technology & Communications,7,Affordable & Clean Energy,None,0,False
+Apple Inc,Technology & Communications,8,Decent Work & Economic Growth,Medium,107.6,True
+Apple Inc,Technology & Communications,9,Industry Innovation & Infrastructure,Low,24.3,True
+Apple Inc,Technology & Communications,10,Reduced Inequalities,Low,247.4,True
+Apple Inc,Technology & Communications,11,Sustainable Cities,None,0,False
+Apple Inc,Technology & Communications,12,Responsible Consumption,Low,268.3,True
+Apple Inc,Technology & Communications,13,Climate Action,High,215.5,True
+Apple Inc,Technology & Communications,14,Life Below Water,Low,363.8,True
+Apple Inc,Technology & Communications,15,Life on Land,None,0,False
+Apple Inc,Technology & Communications,16,Peace Justice & Strong Institutions,Low,22.6,True
+Apple Inc,Technology & Communications,17,Partnerships for Goals,High,285.1,True
+Microsoft,Technology & Communications,1,No Poverty,Medium,181.3,True
+Microsoft,Technology & Communications,2,Zero Hunger,Low,36.8,True
+Microsoft,Technology & Communications,3,Good Health & Well-being,None,0,False
+Microsoft,Technology & Communications,4,Quality Education,Low,412.7,True
+Microsoft,Technology & Communications,5,Gender Equality,High,64.3,True
+Microsoft,Technology & Communications,6,Clean Water & Sanitation,High,197.0,True
+Microsoft,Technology & Communications,7,Affordable & Clean Energy,Low,278.9,True
+Microsoft,Technology & Communications,8,Decent Work & Economic Growth,Low,377.5,True
+Microsoft,Technology & Communications,9,Industry Innovation & Infrastructure,Medium,301.2,True
+Microsoft,Technology & Communications,10,Reduced Inequalities,None,0,False
+Microsoft,Technology & Communications,11,Sustainable Cities,High,22.7,True
+Microsoft,Technology & Communications,12,Responsible Consumption,Medium,356.8,True
+Microsoft,Technology & Communications,13,Climate Action,None,0,False
+Microsoft,Technology & Communications,14,Life Below Water,None,0,False
+Microsoft,Technology & Communications,15,Life on Land,Medium,303.1,True
+Microsoft,Technology & Communications,16,Peace Justice & Strong Institutions,Medium,164.0,True
+Microsoft,Technology & Communications,17,Partnerships for Goals,Low,81.3,True
+Amazon,Services,1,No Poverty,Low,296.9,True
+Amazon,Services,2,Zero Hunger,None,0,False
+Amazon,Services,3,Good Health & Well-being,Low,237.4,True
+Amazon,Services,4,Quality Education,High,184.2,True
+Amazon,Services,5,Gender Equality,High,489.9,True
+Amazon,Services,6,Clean Water & Sanitation,Low,398.4,True
+Amazon,Services,7,Affordable & Clean Energy,High,298.5,True
+Amazon,Services,8,Decent Work & Economic Growth,Low,483.5,True
+Amazon,Services,9,Industry Innovation & Infrastructure,Medium,360.7,True
+Amazon,Services,10,Reduced Inequalities,None,0,False
+Amazon,Services,11,Sustainable Cities,Medium,262.1,True
+Amazon,Services,12,Responsible Consumption,None,0,False
+Amazon,Services,13,Climate Action,Medium,410.8,True
+Amazon,Services,14,Life Below Water,Medium,15.8,True
+Amazon,Services,15,Life on Land,High,95.4,True
+Amazon,Services,16,Peace Justice & Strong Institutions,None,0,False
+Amazon,Services,17,Partnerships for Goals,Low,209.4,True
+Tesla,Transportation,1,No Poverty,None,0,False
+Tesla,Transportation,2,Zero Hunger,Medium,205.2,True
+Tesla,Transportation,3,Good Health & Well-being,None,0,False
+Tesla,Transportation,4,Quality Education,High,352.9,True
+Tesla,Transportation,5,Gender Equality,Medium,280.4,True
+Tesla,Transportation,6,Clean Water & Sanitation,None,0,False
+Tesla,Transportation,7,Affordable & Clean Energy,None,0,False
+Tesla,Transportation,8,Decent Work & Economic Growth,Low,478.3,True
+Tesla,Transportation,9,Industry Innovation & Infrastructure,None,0,False
+Tesla,Transportation,10,Reduced Inequalities,Low,273.1,True
+Tesla,Transportation,11,Sustainable Cities,Low,305.0,True
+Tesla,Transportation,12,Responsible Consumption,Medium,478.7,True
+Tesla,Transportation,13,Climate Action,Low,279.0,True
+Tesla,Transportation,14,Life Below Water,Medium,470.7,True
+Tesla,Transportation,15,Life on Land,Low,385.6,True
+Tesla,Transportation,16,Peace Justice & Strong Institutions,Medium,345.1,True
+Tesla,Transportation,17,Partnerships for Goals,None,0,False
+ExxonMobil,Extractives & Minerals Processing,1,No Poverty,Low,239.9,True
+ExxonMobil,Extractives & Minerals Processing,2,Zero Hunger,Low,143.9,True
+ExxonMobil,Extractives & Minerals Processing,3,Good Health & Well-being,None,0,False
+ExxonMobil,Extractives & Minerals Processing,4,Quality Education,None,0,False
+ExxonMobil,Extractives & Minerals Processing,5,Gender Equality,Low,477.3,True
+ExxonMobil,Extractives & Minerals Processing,6,Clean Water & Sanitation,Medium,145.2,True
+ExxonMobil,Extractives & Minerals Processing,7,Affordable & Clean Energy,Low,477.7,True
+ExxonMobil,Extractives & Minerals Processing,8,Decent Work & Economic Growth,High,173.2,True
+ExxonMobil,Extractives & Minerals Processing,9,Industry Innovation & Infrastructure,None,0,False
+ExxonMobil,Extractives & Minerals Processing,10,Reduced Inequalities,Low,373.7,True
+ExxonMobil,Extractives & Minerals Processing,11,Sustainable Cities,Medium,101.0,True
+ExxonMobil,Extractives & Minerals Processing,12,Responsible Consumption,Low,466.5,True
+ExxonMobil,Extractives & Minerals Processing,13,Climate Action,Low,68.6,True
+ExxonMobil,Extractives & Minerals Processing,14,Life Below Water,Medium,121.2,True
+ExxonMobil,Extractives & Minerals Processing,15,Life on Land,Medium,319.0,True
+ExxonMobil,Extractives & Minerals Processing,16,Peace Justice & Strong Institutions,High,50.1,True
+ExxonMobil,Extractives & Minerals Processing,17,Partnerships for Goals,Low,358.7,True
+BP,Extractives & Minerals Processing,1,No Poverty,High,340.6,True
+BP,Extractives & Minerals Processing,2,Zero Hunger,Medium,2.6,True
+BP,Extractives & Minerals Processing,3,Good Health & Well-being,Medium,203.5,True
+BP,Extractives & Minerals Processing,4,Quality Education,None,0,False
+BP,Extractives & Minerals Processing,5,Gender Equality,None,0,False
+BP,Extractives & Minerals Processing,6,Clean Water & Sanitation,Medium,378.0,True
+BP,Extractives & Minerals Processing,7,Affordable & Clean Energy,Low,160.6,True
+BP,Extractives & Minerals Processing,8,Decent Work & Economic Growth,High,454.0,True
+BP,Extractives & Minerals Processing,9,Industry Innovation & Infrastructure,High,326.1,True
+BP,Extractives & Minerals Processing,10,Reduced Inequalities,Medium,267.6,True
+BP,Extractives & Minerals Processing,11,Sustainable Cities,High,456.6,True
+BP,Extractives & Minerals Processing,12,Responsible Consumption,Medium,208.9,True
+BP,Extractives & Minerals Processing,13,Climate Action,Medium,467.0,True
+BP,Extractives & Minerals Processing,14,Life Below Water,High,498.6,True
+BP,Extractives & Minerals Processing,15,Life on Land,None,0,False
+BP,Extractives & Minerals Processing,16,Peace Justice & Strong Institutions,None,0,False
+BP,Extractives & Minerals Processing,17,Partnerships for Goals,Medium,468.3,True
+Shell,Extractives & Minerals Processing,1,No Poverty,Low,438.4,True
+Shell,Extractives & Minerals Processing,2,Zero Hunger,High,149.2,True
+Shell,Extractives & Minerals Processing,3,Good Health & Well-being,High,464.2,True
+Shell,Extractives & Minerals Processing,4,Quality Education,Low,142.3,True
+Shell,Extractives & Minerals Processing,5,Gender Equality,None,0,False
+Shell,Extractives & Minerals Processing,6,Clean Water & Sanitation,Medium,425.5,True
+Shell,Extractives & Minerals Processing,7,Affordable & Clean Energy,None,0,False
+Shell,Extractives & Minerals Processing,8,Decent Work & Economic Growth,Low,96.4,True
+Shell,Extractives & Minerals Processing,9,Industry Innovation & Infrastructure,High,165.3,True
+Shell,Extractives & Minerals Processing,10,Reduced Inequalities,None,0,False
+Shell,Extractives & Minerals Processing,11,Sustainable Cities,Low,359.3,True
+Shell,Extractives & Minerals Processing,12,Responsible Consumption,High,368.3,True
+Shell,Extractives & Minerals Processing,13,Climate Action,Low,283.9,True
+Shell,Extractives & Minerals Processing,14,Life Below Water,Medium,87.7,True
+Shell,Extractives & Minerals Processing,15,Life on Land,None,0,False
+Shell,Extractives & Minerals Processing,16,Peace Justice & Strong Institutions,None,0,False
+Shell,Extractives & Minerals Processing,17,Partnerships for Goals,Low,43.4,True
+Unilever,Consumer Goods,1,No Poverty,High,92.4,True
+Unilever,Consumer Goods,2,Zero Hunger,Medium,238.7,True
+Unilever,Consumer Goods,3,Good Health & Well-being,Medium,3.4,True
+Unilever,Consumer Goods,4,Quality Education,None,0,False
+Unilever,Consumer Goods,5,Gender Equality,Medium,223.4,True
+Unilever,Consumer Goods,6,Clean Water & Sanitation,Low,477.0,True
+Unilever,Consumer Goods,7,Affordable & Clean Energy,Low,291.2,True
+Unilever,Consumer Goods,8,Decent Work & Economic Growth,High,130.8,True
+Unilever,Consumer Goods,9,Industry Innovation & Infrastructure,Low,346.4,True
+Unilever,Consumer Goods,10,Reduced Inequalities,High,333.9,True
+Unilever,Consumer Goods,11,Sustainable Cities,None,0,False
+Unilever,Consumer Goods,12,Responsible Consumption,Low,79.9,True
+Unilever,Consumer Goods,13,Climate Action,Low,345.1,True
+Unilever,Consumer Goods,14,Life Below Water,Low,183.8,True
+Unilever,Consumer Goods,15,Life on Land,Medium,109.6,True
+Unilever,Consumer Goods,16,Peace Justice & Strong Institutions,Medium,239.1,True
+Unilever,Consumer Goods,17,Partnerships for Goals,None,0,False
+Nestle,Food & Beverage,1,No Poverty,Low,207.9,True
+Nestle,Food & Beverage,2,Zero Hunger,None,0,False
+Nestle,Food & Beverage,3,Good Health & Well-being,Medium,380.9,True
+Nestle,Food & Beverage,4,Quality Education,High,262.8,True
+Nestle,Food & Beverage,5,Gender Equality,Low,39.1,True
+Nestle,Food & Beverage,6,Clean Water & Sanitation,High,30.9,True
+Nestle,Food & Beverage,7,Affordable & Clean Energy,Medium,286.4,True
+Nestle,Food & Beverage,8,Decent Work & Economic Growth,Medium,82.3,True
+Nestle,Food & Beverage,9,Industry Innovation & Infrastructure,None,0,False
+Nestle,Food & Beverage,10,Reduced Inequalities,High,340.1,True
+Nestle,Food & Beverage,11,Sustainable Cities,None,0,False
+Nestle,Food & Beverage,12,Responsible Consumption,High,449.4,True
+Nestle,Food & Beverage,13,Climate Action,None,0,False
+Nestle,Food & Beverage,14,Life Below Water,High,226.7,True
+Nestle,Food & Beverage,15,Life on Land,None,0,False
+Nestle,Food & Beverage,16,Peace Justice & Strong Institutions,None,0,False
+Nestle,Food & Beverage,17,Partnerships for Goals,High,279.4,True
+Johnson & Johnson,Health Care,1,No Poverty,Low,361.6,True
+Johnson & Johnson,Health Care,2,Zero Hunger,None,0,False
+Johnson & Johnson,Health Care,3,Good Health & Well-being,Low,408.2,True
+Johnson & Johnson,Health Care,4,Quality Education,Medium,289.2,True
+Johnson & Johnson,Health Care,5,Gender Equality,High,211.8,True
+Johnson & Johnson,Health Care,6,Clean Water & Sanitation,High,270.6,True
+Johnson & Johnson,Health Care,7,Affordable & Clean Energy,High,467.3,True
+Johnson & Johnson,Health Care,8,Decent Work & Economic Growth,High,493.1,True
+Johnson & Johnson,Health Care,9,Industry Innovation & Infrastructure,None,0,False
+Johnson & Johnson,Health Care,10,Reduced Inequalities,High,143.5,True
+Johnson & Johnson,Health Care,11,Sustainable Cities,Medium,384.5,True
+Johnson & Johnson,Health Care,12,Responsible Consumption,None,0,False
+Johnson & Johnson,Health Care,13,Climate Action,Low,496.4,True
+Johnson & Johnson,Health Care,14,Life Below Water,None,0,False
+Johnson & Johnson,Health Care,15,Life on Land,None,0,False
+Johnson & Johnson,Health Care,16,Peace Justice & Strong Institutions,None,0,False
+Johnson & Johnson,Health Care,17,Partnerships for Goals,None,0,False
+Walmart,Consumer Goods,1,No Poverty,High,341.4,True
+Walmart,Consumer Goods,2,Zero Hunger,Medium,326.8,True
+Walmart,Consumer Goods,3,Good Health & Well-being,Low,59.3,True
+Walmart,Consumer Goods,4,Quality Education,None,0,False
+Walmart,Consumer Goods,5,Gender Equality,Medium,363.9,True
+Walmart,Consumer Goods,6,Clean Water & Sanitation,Medium,417.4,True
+Walmart,Consumer Goods,7,Affordable & Clean Energy,High,489.2,True
+Walmart,Consumer Goods,8,Decent Work & Economic Growth,None,0,False
+Walmart,Consumer Goods,9,Industry Innovation & Infrastructure,None,0,False
+Walmart,Consumer Goods,10,Reduced Inequalities,None,0,False
+Walmart,Consumer Goods,11,Sustainable Cities,Medium,123.8,True
+Walmart,Consumer Goods,12,Responsible Consumption,Low,77.6,True
+Walmart,Consumer Goods,13,Climate Action,Medium,468.7,True
+Walmart,Consumer Goods,14,Life Below Water,High,16.1,True
+Walmart,Consumer Goods,15,Life on Land,None,0,False
+Walmart,Consumer Goods,16,Peace Justice & Strong Institutions,High,120.3,True
+Walmart,Consumer Goods,17,Partnerships for Goals,High,50.4,True
+Nike,Consumer Goods,1,No Poverty,High,223.2,True
+Nike,Consumer Goods,2,Zero Hunger,High,122.4,True
+Nike,Consumer Goods,3,Good Health & Well-being,High,201.1,True
+Nike,Consumer Goods,4,Quality Education,Medium,269.9,True
+Nike,Consumer Goods,5,Gender Equality,High,70.1,True
+Nike,Consumer Goods,6,Clean Water & Sanitation,Low,117.1,True
+Nike,Consumer Goods,7,Affordable & Clean Energy,Low,288.7,True
+Nike,Consumer Goods,8,Decent Work & Economic Growth,Low,118.5,True
+Nike,Consumer Goods,9,Industry Innovation & Infrastructure,Medium,492.8,True
+Nike,Consumer Goods,10,Reduced Inequalities,Medium,206.8,True
+Nike,Consumer Goods,11,Sustainable Cities,Low,30.5,True
+Nike,Consumer Goods,12,Responsible Consumption,Medium,313.0,True
+Nike,Consumer Goods,13,Climate Action,None,0,False
+Nike,Consumer Goods,14,Life Below Water,None,0,False
+Nike,Consumer Goods,15,Life on Land,High,486.1,True
+Nike,Consumer Goods,16,Peace Justice & Strong Institutions,None,0,False
+Nike,Consumer Goods,17,Partnerships for Goals,Low,348.2,True
+HSBC,Financials,1,No Poverty,None,0,False
+HSBC,Financials,2,Zero Hunger,Medium,149.9,True
+HSBC,Financials,3,Good Health & Well-being,Medium,377.2,True
+HSBC,Financials,4,Quality Education,None,0,False
+HSBC,Financials,5,Gender Equality,Medium,424.7,True
+HSBC,Financials,6,Clean Water & Sanitation,Low,428.8,True
+HSBC,Financials,7,Affordable & Clean Energy,Medium,402.9,True
+HSBC,Financials,8,Decent Work & Economic Growth,High,281.2,True
+HSBC,Financials,9,Industry Innovation & Infrastructure,None,0,False
+HSBC,Financials,10,Reduced Inequalities,Medium,194.2,True
+HSBC,Financials,11,Sustainable Cities,Low,101.7,True
+HSBC,Financials,12,Responsible Consumption,High,461.1,True
+HSBC,Financials,13,Climate Action,Low,46.2,True
+HSBC,Financials,14,Life Below Water,Medium,25.8,True
+HSBC,Financials,15,Life on Land,None,0,False
+HSBC,Financials,16,Peace Justice & Strong Institutions,High,436.8,True
+HSBC,Financials,17,Partnerships for Goals,Medium,402.3,True
+Goldman Sachs,Financials,1,No Poverty,Medium,239.7,True
+Goldman Sachs,Financials,2,Zero Hunger,Low,151.6,True
+Goldman Sachs,Financials,3,Good Health & Well-being,High,105.9,True
+Goldman Sachs,Financials,4,Quality Education,Medium,481.0,True
+Goldman Sachs,Financials,5,Gender Equality,High,373.4,True
+Goldman Sachs,Financials,6,Clean Water & Sanitation,None,0,False
+Goldman Sachs,Financials,7,Affordable & Clean Energy,Medium,347.8,True
+Goldman Sachs,Financials,8,Decent Work & Economic Growth,Medium,198.3,True
+Goldman Sachs,Financials,9,Industry Innovation & Infrastructure,Medium,276.0,True
+Goldman Sachs,Financials,10,Reduced Inequalities,Low,190.3,True
+Goldman Sachs,Financials,11,Sustainable Cities,Low,154.2,True
+Goldman Sachs,Financials,12,Responsible Consumption,Low,256.4,True
+Goldman Sachs,Financials,13,Climate Action,None,0,False
+Goldman Sachs,Financials,14,Life Below Water,None,0,False
+Goldman Sachs,Financials,15,Life on Land,High,401.4,True
+Goldman Sachs,Financials,16,Peace Justice & Strong Institutions,None,0,False
+Goldman Sachs,Financials,17,Partnerships for Goals,Low,457.2,True
+Siemens,Resource Transformation,1,No Poverty,Low,156.5,True
+Siemens,Resource Transformation,2,Zero Hunger,High,281.3,True
+Siemens,Resource Transformation,3,Good Health & Well-being,Medium,370.6,True
+Siemens,Resource Transformation,4,Quality Education,High,130.4,True
+Siemens,Resource Transformation,5,Gender Equality,None,0,False
+Siemens,Resource Transformation,6,Clean Water & Sanitation,Low,76.2,True
+Siemens,Resource Transformation,7,Affordable & Clean Energy,Low,115.0,True
+Siemens,Resource Transformation,8,Decent Work & Economic Growth,Medium,249.7,True
+Siemens,Resource Transformation,9,Industry Innovation & Infrastructure,Low,128.7,True
+Siemens,Resource Transformation,10,Reduced Inequalities,None,0,False
+Siemens,Resource Transformation,11,Sustainable Cities,None,0,False
+Siemens,Resource Transformation,12,Responsible Consumption,None,0,False
+Siemens,Resource Transformation,13,Climate Action,Medium,366.4,True
+Siemens,Resource Transformation,14,Life Below Water,Low,84.6,True
+Siemens,Resource Transformation,15,Life on Land,None,0,False
+Siemens,Resource Transformation,16,Peace Justice & Strong Institutions,Medium,458.4,True
+Siemens,Resource Transformation,17,Partnerships for Goals,High,262.0,True
+Toyota,Transportation,1,No Poverty,High,472.6,True
+Toyota,Transportation,2,Zero Hunger,High,382.2,True
+Toyota,Transportation,3,Good Health & Well-being,None,0,False
+Toyota,Transportation,4,Quality Education,Medium,421.3,True
+Toyota,Transportation,5,Gender Equality,Medium,34.0,True
+Toyota,Transportation,6,Clean Water & Sanitation,Medium,4.6,True
+Toyota,Transportation,7,Affordable & Clean Energy,None,0,False
+Toyota,Transportation,8,Decent Work & Economic Growth,Low,30.2,True
+Toyota,Transportation,9,Industry Innovation & Infrastructure,None,0,False
+Toyota,Transportation,10,Reduced Inequalities,None,0,False
+Toyota,Transportation,11,Sustainable Cities,High,3.3,True
+Toyota,Transportation,12,Responsible Consumption,None,0,False
+Toyota,Transportation,13,Climate Action,High,8.4,True
+Toyota,Transportation,14,Life Below Water,Low,267.9,True
+Toyota,Transportation,15,Life on Land,Low,8.6,True
+Toyota,Transportation,16,Peace Justice & Strong Institutions,None,0,False
+Toyota,Transportation,17,Partnerships for Goals,Medium,53.5,True
+Samsung,Technology & Communications,1,No Poverty,High,262.2,True
+Samsung,Technology & Communications,2,Zero Hunger,Medium,96.0,True
+Samsung,Technology & Communications,3,Good Health & Well-being,Low,407.6,True
+Samsung,Technology & Communications,4,Quality Education,Low,397.5,True
+Samsung,Technology & Communications,5,Gender Equality,High,186.5,True
+Samsung,Technology & Communications,6,Clean Water & Sanitation,None,0,False
+Samsung,Technology & Communications,7,Affordable & Clean Energy,None,0,False
+Samsung,Technology & Communications,8,Decent Work & Economic Growth,Medium,495.1,True
+Samsung,Technology & Communications,9,Industry Innovation & Infrastructure,Medium,150.0,True
+Samsung,Technology & Communications,10,Reduced Inequalities,High,326.9,True
+Samsung,Technology & Communications,11,Sustainable Cities,High,46.8,True
+Samsung,Technology & Communications,12,Responsible Consumption,None,0,False
+Samsung,Technology & Communications,13,Climate Action,None,0,False
+Samsung,Technology & Communications,14,Life Below Water,None,0,False
+Samsung,Technology & Communications,15,Life on Land,High,318.4,True
+Samsung,Technology & Communications,16,Peace Justice & Strong Institutions,Medium,41.3,True
+Samsung,Technology & Communications,17,Partnerships for Goals,None,0,False
+Alibaba,Services,1,No Poverty,Low,282.9,True
+Alibaba,Services,2,Zero Hunger,High,447.4,True
+Alibaba,Services,3,Good Health & Well-being,High,114.9,True
+Alibaba,Services,4,Quality Education,None,0,False
+Alibaba,Services,5,Gender Equality,Low,23.3,True
+Alibaba,Services,6,Clean Water & Sanitation,High,342.2,True
+Alibaba,Services,7,Affordable & Clean Energy,Low,449.7,True
+Alibaba,Services,8,Decent Work & Economic Growth,High,89.7,True
+Alibaba,Services,9,Industry Innovation & Infrastructure,Low,7.8,True
+Alibaba,Services,10,Reduced Inequalities,Medium,293.5,True
+Alibaba,Services,11,Sustainable Cities,None,0,False
+Alibaba,Services,12,Responsible Consumption,High,149.6,True
+Alibaba,Services,13,Climate Action,Medium,283.3,True
+Alibaba,Services,14,Life Below Water,None,0,False
+Alibaba,Services,15,Life on Land,Low,191.9,True
+Alibaba,Services,16,Peace Justice & Strong Institutions,Medium,395.2,True
+Alibaba,Services,17,Partnerships for Goals,High,250.4,True
+Reliance Industries,Extractives & Minerals Processing,1,No Poverty,Low,26.8,True
+Reliance Industries,Extractives & Minerals Processing,2,Zero Hunger,None,0,False
+Reliance Industries,Extractives & Minerals Processing,3,Good Health & Well-being,Medium,419.3,True
+Reliance Industries,Extractives & Minerals Processing,4,Quality Education,Low,302.6,True
+Reliance Industries,Extractives & Minerals Processing,5,Gender Equality,None,0,False
+Reliance Industries,Extractives & Minerals Processing,6,Clean Water & Sanitation,Low,14.8,True
+Reliance Industries,Extractives & Minerals Processing,7,Affordable & Clean Energy,Low,391.8,True
+Reliance Industries,Extractives & Minerals Processing,8,Decent Work & Economic Growth,None,0,False
+Reliance Industries,Extractives & Minerals Processing,9,Industry Innovation & Infrastructure,None,0,False
+Reliance Industries,Extractives & Minerals Processing,10,Reduced Inequalities,Medium,177.9,True
+Reliance Industries,Extractives & Minerals Processing,11,Sustainable Cities,None,0,False
+Reliance Industries,Extractives & Minerals Processing,12,Responsible Consumption,None,0,False
+Reliance Industries,Extractives & Minerals Processing,13,Climate Action,Medium,339.8,True
+Reliance Industries,Extractives & Minerals Processing,14,Life Below Water,None,0,False
+Reliance Industries,Extractives & Minerals Processing,15,Life on Land,High,386.1,True
+Reliance Industries,Extractives & Minerals Processing,16,Peace Justice & Strong Institutions,Low,399.0,True
+Reliance Industries,Extractives & Minerals Processing,17,Partnerships for Goals,High,41.0,True
+Saudi Aramco,Extractives & Minerals Processing,1,No Poverty,Medium,190.0,True
+Saudi Aramco,Extractives & Minerals Processing,2,Zero Hunger,Medium,369.8,True
+Saudi Aramco,Extractives & Minerals Processing,3,Good Health & Well-being,Low,180.4,True
+Saudi Aramco,Extractives & Minerals Processing,4,Quality Education,High,2.6,True
+Saudi Aramco,Extractives & Minerals Processing,5,Gender Equality,Low,222.4,True
+Saudi Aramco,Extractives & Minerals Processing,6,Clean Water & Sanitation,Low,51.1,True
+Saudi Aramco,Extractives & Minerals Processing,7,Affordable & Clean Energy,High,93.7,True
+Saudi Aramco,Extractives & Minerals Processing,8,Decent Work & Economic Growth,None,0,False
+Saudi Aramco,Extractives & Minerals Processing,9,Industry Innovation & Infrastructure,None,0,False
+Saudi Aramco,Extractives & Minerals Processing,10,Reduced Inequalities,High,13.1,True
+Saudi Aramco,Extractives & Minerals Processing,11,Sustainable Cities,Low,277.1,True
+Saudi Aramco,Extractives & Minerals Processing,12,Responsible Consumption,Low,431.9,True
+Saudi Aramco,Extractives & Minerals Processing,13,Climate Action,High,145.9,True
+Saudi Aramco,Extractives & Minerals Processing,14,Life Below Water,None,0,False
+Saudi Aramco,Extractives & Minerals Processing,15,Life on Land,High,362.4,True
+Saudi Aramco,Extractives & Minerals Processing,16,Peace Justice & Strong Institutions,Medium,286.0,True
+Saudi Aramco,Extractives & Minerals Processing,17,Partnerships for Goals,Medium,342.7,True

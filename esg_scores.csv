@@ -1,0 +1,21 @@
+Company,Sector,Country,Environmental_Score,Social_Score,Governance_Score,Total_ESG_Score,Risk_Level,Industry_Avg_ESG,ESG_Percentile
+Apple Inc,Technology & Communications,USA,66.3,71.7,59.5,66.6,Medium,59.9,25
+Microsoft,Technology & Communications,USA,58.4,60.3,44.3,55.9,Medium,57.8,74
+Amazon,Services,USA,67.3,74.0,63.0,68.6,Medium,52.9,22
+Tesla,Transportation,USA,92.8,44.5,92.1,76.2,Low,61.5,66
+ExxonMobil,Extractives & Minerals Processing,USA,35.7,81.4,53.4,55.3,Medium,64.7,87
+BP,Extractives & Minerals Processing,UK,35.1,82.9,81.0,61.8,Medium,55.5,41
+Shell,Extractives & Minerals Processing,Netherlands,35.0,69.8,69.2,54.6,Medium,54.8,64
+Unilever,Consumer Goods,UK,52.8,87.7,75.5,69.8,Medium,53.7,33
+Nestle,Food & Beverage,Switzerland,39.5,45.8,73.1,49.2,High,69.0,29
+Johnson & Johnson,Health Care,USA,41.5,77.5,67.2,59.6,Medium,68.9,94
+Walmart,Consumer Goods,USA,59.2,85.8,71.0,70.9,Low,65.9,99
+Nike,Consumer Goods,USA,51.0,88.4,57.4,65.2,Medium,61.0,80
+HSBC,Financials,UK,58.7,51.7,55.1,55.5,Medium,51.4,84
+Goldman Sachs,Financials,USA,34.8,60.4,42.1,45.2,High,59.2,56
+Siemens,Resource Transformation,Germany,35.0,82.5,87.0,62.9,Medium,65.4,84
+Toyota,Transportation,Japan,55.0,66.9,92.5,67.5,Medium,68.5,25
+Samsung,Technology & Communications,South Korea,59.2,79.5,75.9,69.9,Medium,58.0,80
+Alibaba,Services,China,62.6,87.7,64.8,71.7,Low,70.3,63
+Reliance Industries,Extractives & Minerals Processing,India,93.9,39.6,75.5,71.2,Low,51.0,76
+Saudi Aramco,Extractives & Minerals Processing,Saudi Arabia,94.4,63.8,73.5,79.2,Low,59.1,56
